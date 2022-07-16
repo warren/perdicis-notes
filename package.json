@@ -12,7 +12,9 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "predeploy": "gatsby build && echo \"notes.perdicis.com\" >> ./public/CNAME",
+    "deploy": "gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^4.18.2",
