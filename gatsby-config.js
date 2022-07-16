@@ -23,8 +23,10 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-catch-links`,
-    },
+    // Removed on 2022-07-16 to unblock build errors.
+    // TODO: Add this back to support preloading MD pages.
+    // {
+    //   resolve: `gatsby-plugin-catch-links`,
+    // },
   ],
 }
