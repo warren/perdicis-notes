@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkperdicis_notes=self.webpackChunkperdicis_notes||[]).push([[678],{6558:function(e,t,n){n.r(t);var i=n(7294),l=n(1597);t.default=function(){return i.createElement("main",null,i.createElement("div",null,"Welcome. Click below to demo the MDX functionality."),i.createElement(l.rU,{to:"/Spaghetti"},"Spaghetti"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-c4a98702ebc93785de41.js.map
