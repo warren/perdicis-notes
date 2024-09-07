@@ -13,7 +13,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "predeploy": "gatsby build && echo \"notes.perdicis.com\" >> ./public/CNAME",
+    "predeploy": "gatsby build && echo \"notes.perdicis.com\" >> ./public/CNAME && echo \"User-agent: *\nDisallow: /\" >> ./public/robots.txt",
     "deploy": "gh-pages -d public"
   },
   "dependencies": {
