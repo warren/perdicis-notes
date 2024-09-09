@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Perdicis Notes
 ---
 
 Hey, welcome to my personal wiki. It's under construction.
