@@ -2,13 +2,6 @@
 #publish 
 Opened [[2024-09-05]]. Related to [[Burning Man]] (duh). Nested in [[Musings on everything else]].
 
-1
-![](PXL_20240902_021834180.MP.jpg)
-
-2
-![](./images/PXL_20240902_021834180.MP.jpg)
-
-3
 ![[PXL_20240902_021834180.MP.jpg]]
 
 Brief table of contents:
@@ -21,7 +14,7 @@ Brief table of contents:
 ### Elephants in the room
 Yes, Burning Man is hedonistic. All week long are nonstop parties that _will_ keep you awake if you don't sleep with earplugs. There is widespread substance use, [crazy outfits](https://www.google.com/search?q=burning+man+outfits), [nudity](https://media.tenor.com/wy2zHeWyf2gAAAAe/side-eye-dog-suspicious-look.png), open bars, orgies... if you can imagine it and it's fun, it's probably at the burn, and when all 80,000 attendees pay a ticket fee of nearly $600 to attend it's actually pretty fair that the media pokes fun at Burners.
 
-But in doing so, the media misses a lot of the cool things worth reporting about Burning Man.
+However in doing so, I think they miss a lot of the cool things worth reporting on at Burning Man.
 
 ### The more interesting elephants
 During my brief residence in Black Rock City (the name given to the temporary city erected around the Man in Black Rock Desert), I visited:
@@ -40,47 +33,48 @@ During my brief residence in Black Rock City (the name given to the temporary ci
 - A matcha latte cafe.
 - A mathematics-themed camp that serves pi(e) every day at 3:14pm.
 
-And that's just a few. This isn't even counting the art installations I saw! More on that later.
+And that's just a few. This isn't even counting the art installations! But more on them later.
 
 ### So, what is Burning Man?
 Is it hedonist utopia? According to Ben (my camp's lead in 2024):
 > "Burning Man is a **potluck** where you can bring literally anything."
 
-I agree with Ben's take. Some people bring drugs, nudity, zeitgeist-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc.. All this stuff is cool. None of these things are better than others; everyone is welcome, even those who attend just for the partying, because they're bringing their genuine self to those parties and contributing positive energy.
+I agree with Ben's take. Some people bring drugs, nudity, zeitgeist-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all this stuff is cool. None of these things are better than others; everyone is welcome, even those who attend just for the partying, because they're bringing their genuine self to those parties and contributing positive energy.
 
 With 80,000 attendees, there's something for everyone at the Burn.
 
 ## Stuff I did day to day
 What does one do at Burning Man? Burn a man? Yes (but only on Saturday).
 
-Btw, images are kind of buggy on my website. If they're not loading, you can see the complete list of photos in [this Google Photos album](https://photos.app.goo.gl/zMc8dnKfAimNidHg8).
-- My impression has always been that Burning Man is difficult to understand from the outside looking in, especially since curated social media distorts it. So I tried to include the more mundane aspects of the Burn in that album: camp build and teardown, dinner, some shared ceremonies, biking around, etc.
-- Hope it's fun to look at!
+> [!warning] Btw, images are buggy on my website
+> If they're not loading, you can see the complete list of photos in [this Google Photos album](https://photos.app.goo.gl/zMc8dnKfAimNidHg8).
+> - My impression has always been that Burning Man is difficult to understand from the outside looking in, especially since curated social media distorts it. So I tried to include the more mundane aspects of the Burn in that album: camp build and teardown, dinner, some shared ceremonies, biking around, etc.
+> - Hope it's fun to look at!
 
 ### Pre-burn (Late March 2024 - August)
-The first step came long before actually visiting the desert. I needed to decide how I'd camp in the desert. To not be an observer, I chose to camp with a themecamp, i.e. a camp that provides a service to the massive potluck of Burning Man.
+Preparation for Burning Man starts long before the event. For me as a first-timer, I needed to decide who I'd camp with (camping solo is a thing too, but I didn't want to do that). I chose to camp with a themecamp, i.e. a camp that provides a good or service to the massive potluck of Burning Man.
 
 The camp I chose: Infinite Love. IL hosts workshops focused on growing and kindling love for one's self and others.
 
 ![[programming-sign_3__1_.png]]
 _2024's official programming poster. I was in charge of making this!_
 
-I'm unfamiliar with how other camps handle new campers, but joining IL involved a short Google Docs application plus vibe check interview. I suspect the interview exists just to vet out the new burners (affectionately called "virgin burners" or "birgins") who aren't prepared to contribute proportional effort to the camp relative to what they consume. I had previously volunteered as a pro bono photographer at one of IL's fundraiser parties in April, which was a signal that probably nudged my application into the "we don't have to worry about this guy freeloading" territory. So I applied [[2024-04-25]] and was accepted sometime early May.
+I'm unfamiliar with how other camps handle new campers, but joining IL involved (1) a short Google Docs application and (2) vibe check interview. I suspect the interview exists just to vet out the new burners (affectionately called "virgin burners" or "birgins") who aren't prepared to contribute effort to the camp relative to what they consume. I had previously volunteered as a pro bono photographer at one of IL's fundraiser parties in April, which probably nudged my application into the territory of "we don't have to worry about this guy freeloading." So I applied [[2024-04-25]] and was accepted sometime early May.
 
-IL is very granularly organized. To organize the 65 campers worth of effort, they put together a massive spreadsheet of the roles that need filling:
+IL is pretty organized. To organize the 65 campers worth of effort, they put together a massive spreadsheet of the roles that need filling:
 
 ![[Screenshot_20240902-115421.png]]
-_Example screenshot. Sheets like this are pretty standard practice for camps_
+_Sample screenshot. Sheets like this are pretty standard practice for camps_
 
-So I signed up for a bunch of work. Some of it involved making a sign, like the poster above.
+I signed up for a bunch of work in early May, ~3-4 months before the burn would happen.
 
 ![[PXL_20240824_012645782.MP.jpg]]
 _I also made this sign_
 
-I concluded the best way to get to the playa was to take the official, volunteer-run Burner Express (BxB) from San Francisco to Black Rock City. Conveniently, that bus boards at Civic Center, just 3 blocks from my apartment. I bought a ticket with a bike pass, so they would carry my bike for me.
+I concluded the best way to reach Black Rock City was to take the official, volunteer-run Burner Express bus (BxB) from San Francisco to BRC. Conveniently, the BxB boards at Civic Center, only 3 blocks from my apartment. I bought a ticket with a bike pass.
 
 ### T minus ~2 weeks before the burn
-You need to bring a _lot_ of stuff to survive in the desert. I can't overstate how involved this step is. Example stuff I ordered:
+You need to bring a _lot_ to survive in the desert. I can't overstate how involved this step is. Just a sample of the stuff I ordered:
 - A used bike I was OK getting annihilated by the desert dust
 - LEDs to affix to my bike and self so I'm visible during dust storms and at night
 - Goggles and dust masks
@@ -101,76 +95,77 @@ You need to bring a _lot_ of stuff to survive in the desert. I can't overstate h
 ![[PXL_20240823_172548888.MP.jpg]]
 _Comfy_
 
-I guesstimate buying ~40-50 items in total, spending north of $1000 just on my supplies. Most items were purchased via Amazon. Unlike other people I didn't get fancy with outfits - I just got the basics using cheap Amazon fashion. So $1000 is the rough figure of buying the bare minimum amount of things required for me to consider myself overprepared.
+I'd guesstimate spending north of $1000 just on supplies, on 40 (+/-5) items in total. Most items were purchased via Amazon. I didn't get fancy with outfits - I just bought the basics using cheap Amazon fashion. So, $1000 was the rough figure of buying the bare minimum amount of supplies required for me to consider myself overprepared.
 
-Water is also a thing most people need to pack -- roughly 1.5 gallons per day you'll be burning -- although I didn't do this because Infinite Love provided water infrastructure.
+Water is also worth mentioning -- campers are advised to pack roughly 1.5 gallons per day they'll be at the burn -- but I didn't do this as Infinite Love provides water infrastructure.
 
 ### T minus ~2 days before the burn
-Packing packing packing. So much packing. My room looked like an explosion had happened:
+Packing packing packing. So much packing. My room looked like an explosion:
 
 ![[PXL_20240822_151449429.MP.jpg]]
 
 ![[PXL_20240822_020715831.MP.jpg]]
 _My DIY [[Contact staff|contact staves]]!_
 
-I packed all my belongings into two 27 gallon HDX boxes, which is the maximum sized luggage you're allowed to take on the bus. Within these boxes, I stuffed 95% of my things into categorized Ziploc bags to shield them from the dust. This proved to be invaluable when unpacking.
+I packed all my belongings into two 27 gallon HDX boxes, which is the maximum sized luggage you're allowed to take on the bus. Within these boxes, I stuffed 95% of my things into categorized Ziploc bags or trash bags to shield them from the imminent dust. This proved to be a fantastic decision later.
 
 ### Upon arrival ([[2024-08-24]] + 1 day or so)
-Due to rain closing the gates to the playa in Nevada, my bus had been delayed 2 hours. So, at 11am, I brought my bike and 2 HDX boxes over to the bus stop. They were heavy and cumbersome, so this was really difficult.
+Due to rain conditions in Nevada closing the gates to BRC, my morning bus got been delayed 2 hours till noon. So, at 11am, I brought my bike and 2 HDX boxes over to the bus stop. They were heavy and cumbersome, so this was actually really difficult.
 
 ![[PXL_20240824_195010743.MP.jpg]]
 _My burdens_
 
-I eventually resigned to biking over, leaving my bike with some trustworthy looking stranges, then walking back to my apartment and back with the boxes. I was drenched in sweat by the time I arrived at the bus stop. One dude bellowed from line he saw me awkwardly carrying my oversized boxes: WHO'S GONNA CARRY THE BOAT
+I eventually resigned to taking two trips from my apartment. First trip: biking over, leaving my bike with some trustworthy looking strangers. Second trip: walking back to my apartment, then back again carrying the boxes. I was drenched in sweat by the time I arrived at the bus stop, lol. One dude bellowed from the line, watching me: WHO'S GONNA CARRY THE BOAT??
 
 ![[original_370f15bf-b424-4327-a37c-09f22bdea716_PXL_20240824_185614286.MP.jpg]]
 
 ![[PXL_20240824_195525659.MP.jpg]]
+_Another pretty morning in SF_
 
-Bus checkin was simple. I showed my physical ID, physical Burning Man ticket, and digital BxB ticket. Their website said I needed to print out the ticket, but I didn't do that and was fine. Volunteers took my bike from me and loaded it onto a separate truck from the bus I was boarding, and gave me 2 tags to affix to my luggage. I loaded my luggage and departed San Francisco around 1pm.
+Bus check-in was straightforward and quick. I showed a volunteer my physical ID, physical Burning Man ticket which I'd later need to enter the BRC gate, and digital BxB ticket. The BxB website had said I needed to print out the bus ticket, but I didn't do that and was fine. Volunteers took my bike from me and loaded it onto a separate truck from the bus I was boarding, and gave me 2 tags to affix to my luggage, which I loaded. We departed San Francisco around 1pm.
 
 ... Many hours later...
 
-9:30pm: The sun has set, leaving total darkness outside the bus. A glimmer of light shines in the distance: Black Rock City.
+9:30pm: The sun has set, leaving total darkness outside the bus. A glimmer of light shone in the distance: Black Rock City.
 
 As we approach, we barely discern the lights from vehicles in the non-bus line. In order to save fuel, these vehicles remain parked most of the time and inch forward together in waves.
 
-9:45: The bus stops, and a moody bus volunteer boarded. She barked orders that boiled down to: stfu, get off the bus, no smartphones, and show your physical burning man ticket to reboard.
+9:45: The bus stops, and a moody bus volunteer boarded. She barked orders that boiled down to: stfu (she mentioned this one multiple times), get off the bus, no smartphones, and show your physical burning man ticket to reboard.
 
 I didn't listen to the smartphone order:
 
 ![[PXL_20240825_044313162.MP.jpg]]
-_Other buses are stopped too_
+_Other buses were stopped alongside ours_
 
-Moody or not, her bruskness totally worked. 10 minutes later we were all checked in. "Welcome to Black Rock City" she shouted as she departed the bus.
+Her system totally worked. 10 minutes later all the passengers on my bus were checked in. "Welcome to Black Rock City," she shouted as the doors hissed shut.
 
-20 minutes later, I stepped off the bus into BRC. I imagine I felt something similar to a front line infantry landing in a warzone for the first time. The bus environment was replaced by a loud, cold, dark environment with swarms of people walking in no clear direction. A BRC-specific trash and compost bag were thrust into my hands as I left the bus. I stuffed them into my water pack.
+20 minutes later, I stepped off the bus into BRC. I imagine the feeling is somewhat similar to (slight exaggeration) a front line infantry landing in a warzone. The cozy bus environment was suddenly replaced by a loud, cold, dusty, and dark environment with swarms of people walking with no clear direction. A trash and compost bag were thrust into my hands as I left the bus along with instructions I didn't catch since the line moved so quickly.
 
 ![[PXL_20240825_051312564.MP.jpg]]
-_WHERE AM I (feat my 2 boxes)_
+_The bus landing (feat. my 2 boxes)_
 
-Quest #1 was to recover my bike. I found it under the San Francisco arrivals shade structure (not that shade was needed in the pitch dark 10pm).
+Objective #1 was to recover my bike, which I found stowed under the San Francisco arrivals shade structure (not that shade was needed at this time of night).
 
 ![[PXL_20240825_051833707.MP.jpg]]
-_Bike acquired_
+_+1 bike acquired_
 
-Quest #2 was board the correct tram. I knew from prior research that none of the trams would bring me directly to my camp. I would need to walk holding my luggage again.
+Next objective was to board the correct tram. I knew from my prior investigation that none of the trams would bring me directly to Infinite Love. I'd need to walk holding my luggage and bike again... which would suck. I didn't have a great solution to this.
 
 ![[PXL_20240825_051425278.MP.jpg]]
 
-Now is a good time to explain the address system of Black Rock City. What you're looking at above is a map. The middle of the semicircle is the Man. North of the man is the Temple (more on that later). Addresses are a tuple of alphabetical street name (denoting how far from the Man you are) and analog clock distance (denoting where along the dial you are). Infinite Love's address this year was 8:15 & F. Maybe you can find that on the map.
+This point of my journal is a good time to explain the address system of Black Rock City. What you're looking at above is a map. In the dead center of the semicircle is the Man -- a useful landmark for navigating, as I would find. North of the man is the Temple (which also gets burned -- more on what that is later). Addresses are a tuple of (1) an alphabetical street name, denoting how far from the Man you are and (2) an analog clock distance, denoting where along the dial you are. Infinite Love's address this year was 8:15 & F. That's where I'm headed. Maybe you can spot it on the map.
 
-By lucky coincidence, at this point I ran into several campmates: Vicky, Daniel, and Luona. We puzzled through the tram situation together.
+A serendipitous solution to my bike problem materialized at this point: by lucky coincidence, I ran into several campmates: Vicky, Daniel, and Luona. We puzzled through the tram situation together and loaded bins onto Vicky's dolly.
 
-Side quests, continued:
+A few side quests emerged:
 - Do a dust angel and ring the bell as part of virgin initiation. Daniel encouraged me. "Playa dust gets everywhere," he said. "We all try to keep it out in the beginning. But it always gets in. \[By doing a dust angel], you stop worrying about being perfect. It's like jumping into a pool instead of wading in."
     - I jumped in the pool. And slammed the bell and yelled. The bell steward lady gave me a hug and said "welcome home" and "I'm glad you're here." "Glad to be here," I replied.
 - Load my stuff onto the tram (the first two trams were full from other people's luggage, and we needed to hustle to get on the third)
 
 ![[PXL_20240825_051836913.MP.jpg]]
 
-- Bike alongside the tram since bikes aren't allowed but we needed to follow our luggage.
-    - Saw a lot of cool art cars and camps including one where a guy dressed as a flower was pole dancing to 30-40 people.
+- Bike alongside the tram, like remora fishes behind a shark, since bikes aren't allowed on board but we needed to follow our luggage.
+    - On the bike ride through partway-constructed Black Rock City, I saw a lot of cool art cars and camps. We stopped at some when the tram did. One camp was throwing a party where a guy dressed as a sunflower was pole dancing to a crowd of 30-40 people. What a vibe.
 
 ![[PXL_20240825_063010736.MP.jpg]]
 
@@ -178,38 +173,36 @@ Side quests, continued:
 _FLOWER POWER_
 
 - Move our heavy luggage from 815&J to 815&F.
-    - Christie met me here!! She had been waiting for a while without me knowing due to zero reception on the playa. It was great to see her.
+    - Christie met me here! She had been waiting for a while without me knowing due to zero reception on the playa. It was great to see her.
 
-We arrived at camp around midnight.
+By midnight we had all arrived at camp with our stuff.
 
 ![[PXL_20240825_103017791.MP.jpg]]
 _Home sweet (not quite built) home_
 
-The excitement didn't end here though. Due to today's bus delays blocking more builders like myself to arrive at camp, the camp construction was significantly behind schedule. An incomplete build could affect where our camp is placed next year, so the executive order was made to continue build through 2am -- no one may set up tents before then.
+The excitement didn't end here though. Due to today's bus delays preventing builders like myself from arriving at camp, camp construction was significantly behind schedule. This was a problem because a slow build could affect where our camp gets placed next year, so the executive order was made to continue building through the night. No one was to set up their tent before 2am.
 
-So we kept building. I worked on setting up walls and lighting for the communal public space. Others worked on decoration, rugs, platforms, and shade structures to keep the sun off tents in the morning.
+So we kept building. I worked on the walls and lighting for the communal public space. Others worked on decoration, rugs, platforms, and shade structures to keep the sun off of tents in the morning. The spiderbox for power was partly set up but not fully, so I wouldn't get to charge my phone tonight.
 
-I ended up working till 3am (voluntarily!). Afterwards I set up my tent and unpacked a bit of my boxes.
+I ended up working till 3am. Afterwards, I set up my tent, unpacked part of my boxes, and fell asleep around 4:30.
 
 ![[PXL_20240825_103047471.MP.jpg]]
-_The camp kitchen and dining hall tents, situated adjacent the personal tents (shrouded by the dark in this photo)_
-
-At 4:30 I finally fell asleep.
+_Photo of the camp kitchen and dining hall tents. Not that you can tell in the dark, but they are situated adjacent the personal tent area_
 
 ### During the burn: [[2024-08-26]] + several days
 
 ![[PXL_20240825_160358136.MP.jpg]]
 
-The next morning I helped build some more. The following days settled into a comfortable pattern for me. Unlike others in my camp I maintained a largely diurnal sleep schedule and didn't stay out too late partying.
+I helped build more the next day. As the days turned into a week, I found my mornings settling into a comfortable rhythm. Unlike others in my camp who turned their sleep schedule completely upside down, I maintained a predominantly diurnal sleep schedule and didn't stay out too late partying.
 
-Most days went the same way. During the daytime, I would meet Christie at 10am and roam around in the sun. Within 2 hours of sunrise, the temperature was pretty pleasant. By the time solar noon and after rolled around, though, temperatures were pushing high 90s to 100 degrees farenheit. I quickly became comfortable without wearing a shirt. My wide-brimmed hat became uncomfortable and I eventually ditched it for a headscarf which had the neat dual property of keeping me cool during the day as a shade structure and warm at night as a scarf.
+Most days followed a similar pattern. During the daytime, I would meet Christie at 10am and roam around in the sun. It got hot quick. Within 2 hours of sunrise, the temperature was pretty pleasant, but by the time solar noon rolled around, temperatures were pushing high 90s to 100 degrees farenheit. Within 2 days I was fully comfortable going shirtless the entire time the sun was out to combat the heat. My wide-brimmed hat became uncomfortable and I eventually replaced it with a headscarf which had the neat dual property of keeping me cool during the day as a shade structure and warm at night as a scarf.
 
-Nighttime was chilly. The cold set in quickly every day within 2 hours of sundown. Having grown up in New England, I found most of the night pretty agreeable and with all the physical activity (dancing, biking, etc) I only needed to put on a shirt around midnight each night. I seemed to be the only person who felt this way though.
+Nighttime was chilly. The cold set in rapidly after sundown. Most people bundled up with fur coats (yes, idk why; the dust totally gets in them and there are warmer options, but they look cool) when the sun set. Me, having grown up in New England, actually found the nighttime temperature agreeable. With all the physical activity I was doing (dancing, biking, etc) I never felt compelled to wear much more than a shirt and only really put on a shirt around midnight each night. As far as I know, I'm the only person who felt this way LOL.
 
-Sleeping arrangements were tough. I'd wear earplugs in my tent so passing mutant cars blasting music wouldn't disturb me, and an eyemask so the sun wouldn't wake me.
+Sleeping arrangements were tough. I would wear earplugs in my tent so passing mutant vehicles (modded cars that most of the time doubled as mobile DJ sets) blasting music wouldn't disturb me, and an eyemask so the sun wouldn't wake me.
 
-In general though, the days involved:
-- Aimlessly biking around Black Rock City, stepping into neat-looking camps for a bite to eat, fun workshop, or place to rest. Here are the sorts of things you see in BRC:
+In general, my days involved only a few categories of activities:
+- Biking around Black Rock City, embracing serendipitous encounters, stepping into neat-looking camps for a bite to eat, fun workshops, or place to rest. Here are the sorts of things you see in the main city:
 
 ![[PXL_20240827_203459984.MP.jpg]]
 _Black Rock Public Library..._
@@ -224,19 +217,20 @@ _Nonsense signage_
 _Horchata and melon snow cones! Also pictured: our drivers licenses taped to our personal cups. It's typical at BRC to do this to make it easier on bartenders about to serve you alcohol_
 
 ![[PXL_20240831_012620873.MP.jpg]]
-_Taco-o-caT, whose sign indicates they're aware of the palindrome_
+_Taco-o-caT, whose sign indicates they're aware of the palindrome (nice)_
 
 ![[Screenshot_20240828-201708.png]]
 ![[PXL_20240829_020745717.MP.jpg]]
-_One of Serendipitea's shaded areas. Their iced tea made them one of my favorite camps_
+_One of Serendipitea's shaded areas. They served iced tea during the hot times of day which made them one of my favorite camps_
 
 ![[PXL_20240828_020600876.MP.jpg]]
-_Catmandu's shaded area at sunset_
+_Sunset in Catmandu's party dome. There is a DJ set on the table if you look closely_
 
 ![[PXL_20240827_201000806.MP.jpg]]
+_Vibes tbh_
 
 ![[PXL_20240827_083125156.MP.jpg]]
-_The view from atop an art car overlooking Esplanade (the innermost concentric circle around the Man. You'll notice the Man isn't in sight -- because this place is BIG_
+_After sunset: the view atop a mutant vehicle overlooking Esplanade (the innermost concentric circle around the Man. You'll notice the Man isn't in sight because this place is BIG -- it is probably obscured by one of the planets_
 
 ![[PXL_20240826_041222031.MP.jpg]]
 _A massive, mutant art car rumbling past Infinite Love_
@@ -245,11 +239,15 @@ _A massive, mutant art car rumbling past Infinite Love_
 _My camp LED backpack and performance [[Contact staff|staff]] at 3am after returning from Titanic's End_
 
 
-- Biking around playa, the area in the center of the dial adjacent the Man. Here are the sorts of things you see in playa...
+- Biking around playa, which is the area in the center of the dial adjacent the Man in every direction but north. Here are the sorts of things you see in playa...
 
 ![[PXL_20240827_164134642.MP.jpg]]
 
 ![[PXL_20240825_194627239.MP.jpg]]
+_Take a gift, leave a gift. The coconut water was still cold_
+
+![[PXL_20240826_013108647.MP.jpg]]
+_Mutant cars lined up to get their safety permits at the BRC DMV (Department of Mutant Vehicles)_
 
 ![[PXL_20240826_020718543.MP.jpg]]
 
@@ -260,26 +258,25 @@ _My camp LED backpack and performance [[Contact staff|staff]] at 3am after retur
 ![[PXL_20240826_062044663.MP.jpg]]
 _An elevated view of the playa from the Man structure_
 
-- Biking around deep playa, the area north of the Man and adjacent the Temple. Here are the sorts of things you see in deep playa...
+- Biking into deep playa, the area north of the Man and adjacent the Temple. Here are the sorts of things you see in deep playa...
 
 ![[PXL_20240825_195405287.MP.jpg]]
 
 ![[PXL_20240825_194048204.MP.jpg]]
 
 ![[PXL_20240825_195429791.MP.jpg]]
-_Small mutant vehicles (modded vehicles) on the prowl_
-
-![[PXL_20240826_013108647.MP.jpg]]
-_Mutant cars lined up to get their safety permits at the BRC DMV (Department of Mutant Vehicles)_
+_Small mutant dragonflies on the prowl_
 
 ![[PXL_20240901_001744688.MP.jpg]]
 
 ![[PXL_20240827_091058686.MP.jpg]]
 
 ![[PXL_20240827_091742655.MP.jpg]]
-_Big mutant art car called Titanic's End (shaped like an iceberg) parked geographically at ~11 o'clock of the dial_
+_Titanic's End (big mutant art car shaped like an iceberg) parked geographically at ~11 o'clock of the dial_
 
-I was in charge of a few things at the camp. Mundane things you might not think about but were important include:
+Fun days!
+
+Back at camp, I was in charge of a few jobs. These helped to ground me by keeping me accountable for times I would need to be back at camp. Mundane things you might not think about but were important include:
 - **Ice run.** The literal only scenario when currency exchange is allowed is cash for ice. There's a camp that distributes ice in this way. For ice run duty, I'd carry a wagon to that camp to pick up ice orders for campers and wheel the blocks back home.
 - **Burn barrel.** I made the camp signage for this! Basically, we burn paper waste in a barrel to conserve trash space. Turns out 65 campers produce a lot of paper napkins, plates, and cardboard containers. So I or my fellow burn barrel stewards would typically burn a standard trash barrel's worth of cardboard 1-2 times per day.
 - **Meal prep.** What it sounds like. But oh man is it hot cooking on propane grills in an enclosed kitchen in the desert heat. At one point we angled a massive box fan into the kitchen so we wouldn't all overheat.
@@ -288,7 +285,7 @@ I was in charge of a few things at the camp. Mundane things you might not think 
 - **Bike repair.** I did this too since I know how to fix bikes. But my services weren't needed honestly since a camp specializing in bike repair was situated near us.
 - **MOOP sweep.** MOOP stands for Matter Out of Place, and is basically an extended definition of "trash" that includes hair and any material that didn't originate in the desert. Because Burning Man takes place on federal land, the place needs to be spotless when we leave. That's what MOOP sweeping is for -- you don a headlamp and comb the dust for things even as tiny as strands of hair -- yes, really. How well camps perform at MOOP sweep determines where they'll be placed in future years, so there's a strong incentive to sweep well. Oh and a random fun fact about Burning Man being on federal land: weed is illegal federally, making it among the riskiest drugs you can do at Burning Man because the smell is sufficient probable cause for law enforcement.
 
-Some miscellaneous highlights:
+Other miscellaneous highlights from the week:
 - Spinning contact staff before dinner and teaching other folks some of the basics. I brought several staves and got some good use out of them. Also, spinning for 2 hours straight outside Titanic's End one night.
 - [Spinning fire](https://photos.app.goo.gl/G8zmq8GMVtnHtTcdA) for the first time. My campmate Mitch lent me his fire staff and fuel. This was awesome and I 10/10 want to do it again.
 - Sound bath near the trash fence
@@ -303,65 +300,68 @@ Some miscellaneous highlights:
 
 ![[PXL_20240901_050012797.MP.jpg]]
 
-The wooden man effigy in the center of Black Rock City burns on Saturday night after a fireworks show. Many burners consider this their final day and depart the following morning. So, to many, the burning of the man represents the last hurrah of Burning Man.
+The wooden man effigy in the center of Black Rock City burns on Saturday night after a fireworks show. Many burners consider this their final day and depart the following morning. So, to many, the burning of the man represents the last hurrah of Burning Man -- and the atmosphere is buzzing as a result.
 
-Prior to man burn, everyone gets in position to watch. There is method to this madness. Art cars park in tight concentric circles around the Man. Individuals park their bikes outside the art cars. The cars all blast music and give out gifts (my group was near a photobooth car and jellybean car) so everyone dances in their groups while the Fire Conclave performs fire dancing all around the man.
+Prior to man burn, everyone gets in position to watch it. There is method to this madness. Art cars park first, in tight concentric circles around the Man. Individuals park their bikes outside the art cars. The cars all blast music for ambience and give out gifts (my group was near a photobooth and jellybean car... and I ate a lot of candy) so everyone parties in their groups while the Fire Conclave fire dances around the man.
 
-This all occurs at night so there's a beautiful glimmering rainbow of LEDs everywhere you look.
+This all occurs as the sun is setting. So there's a beautiful glimmering rainbow of LEDs everywhere you look.
 
 ![[PXL_20240901_061031631.MP.jpg]]
 _In this photo: the Mayan Warrior, a huge art car with a stupidly powerful laser_
 
 ![[PXL_20240901_045659179.MP.jpg]]
-_Stupidly powerful._
+_Stupidly powerful. At nighttime you can spot this laser from literally anywhere on playa_
 
-OK I'm getting tired of writing and this post is getting insanely long. I'll be more brief from here on out.
+OK I'm getting bored of writing and this article is getting insanely long. I'll be more brief from here on out.
 
 After the man burns, people strip naked and run around the embers. That's cool.
 
-Almost immediately after the man was reduced to embers, a dust storm rolled in and mixed with the soot. I double-masked up and explored with Catmandu.
+Almost immediately after the man was reduced to embers, a dust storm rolled in, mixing with the soot and trashing visibility conditions. I double-masked up and explored with Catmandu.
 
 ![[PXL_20240901_063708112.MP.jpg]]
 
 ![[PXL_20240901_063739492.MP.jpg]]
-_Visibility is totally gone. But it's vibey. [Video](https://photos.app.goo.gl/ApkBSHmzFeRChsbT7)_
+_You can only see like 20 feet on front of you. I kind of enjoyed this? [Video](https://photos.app.goo.gl/ApkBSHmzFeRChsbT7)_
 
-Had a great night partying until I had to return home to pack my things. I'm leaving in <2 days.
+Had a great night partying until I had to return home to IL to pack my things. I'm leaving in <2 days.
 
 ### Temple burn and strike: [[2024-09-02]] 
-
-Temple burn is the day after Man burn and has a starkly different atmosphere. Imagine tens of thousands of people, huddled around a burning building in near absolute silence. Many people cry. It's a somber occasion because the temple's burn honors the memories of passed loved ones. When I visited the temple a few days before it burned, its walls were plastered top to bottom with photos of passed loved ones and long messages celebrating their lives. The temple is silent. I didn't take any interior photos out of respect. But here's what the outside looked like: 
+Temple burn is the day after Man burn and has a very different atmosphere. It's literally tens of thousands of people huddled around a burning building in near-complete silence. Very spiritual. Many people cry. It's a somber occasion because the temple's burn honors the memories of loved ones who have passed away. When I visited the temple a few days before it burned, its walls were plastered top to bottom with photos of people and pets accompanied by long messages celebrating their lives. The temple is largely silent as you walk through. I didn't take any interior photos out of respect. But here's what the outside looked like at night:
 
 ![[PXL_20240829_094812254.MP.jpg]]
-_As you can see, the Temple is much larger than the Man_
+_The Temple is much larger than the Man_
 
-On the night of temple burn I was juggling meal prep and frantically packing my things since I would be leaving the next day. A dust storm was also starting to roll in.
+On the night of temple burn I was juggling meal prep and frantically packing my things since I'd be leaving the following morning. A dust storm was brewing right as it became time to leave for temple...
 
 ![[PXL_20240902_025302044.MP.jpg]]
 _Dusty. [Video](https://photos.app.goo.gl/V7ELmuRyBsHDZAM86)_
 
-I left camp late, around 8pm, and biked out with Jesse. In the distance we could see the temple flaring:
+I left camp late, around 8pm, to bike out with Jesse. In the distance we saw the temple flaring up:
 
 ![[original_bd27beba-4227-4361-8a6e-3466f4a2e266_PXL_20240902_030436984.MP.jpg]]
 _Second sun_
 
-Visibility conditions rapidly deteriorated upon approach. The dust storm worsened and mixed with the soot to create visibility conditions worse than yesterday's. It was neat to watch the temple burn with this atmosphere, though:
+Visibility conditions rapidly deteriorated upon approach. The dust storm worsened and again mixed with the soot to create visibility conditions far worse than yesterday's. I could only see ~10-15 feet on front of me.
+
+The dust made for atmospheric temple burn conditions, though:
 
 ![[original_4fb05650-49d8-4271-aacd-958bf12548a5_PXL_20240902_031433081.MP.jpg]]
+_You can't even see the flame_
 
-Occasionally, the wind would blow away the dust for a glimpse of the remnants:
+In waves, the wind would blow away the dust for a brief glimpse of the embers:
 
 ![[PXL_20240902_031641442.MP.jpg]]
 _Very quiet_
 
-The walk to the bikes was quiet. The bike ride home was not though -- everyone got caught in the storm. Jesse and I barely connected with BRC at the 10 o'clock street, nearly careening into deep playa. Our visibility was limited to ~10-15 feet on front of us.
+I didn't stay till the embers became safe to approach due to the increasing dust. The walk to the bikes was quiet. The bike ride home was not though -- everyone got caught in the storm. My and Jesse's bike path barely intersected with BRC at the 10 o'clock street. Any further and we'd have careened into deep playa.
 
 ![[PXL_20240902_033425332.MP.jpg]]
+_This is what the bike ride back looked like. The blue glow is an art car_
 
-But we made it back to IL safely. The slow trickle of dusty people stumbling into the kitchen was funny. We all took polaroids and photos together.
+But we returned to IL safely. We crowded into the kitchen which was smaller due to being half torn-down, but still insulated against the dust. The slow trickle of dusty people stumbling into the kitchen was funny. We all took photos together.
 
 ![[PXL_20240902_040724695.MP.jpg]]
-_A little dusty_
+_D u s t y_
 
 Late in the evening I packed up all my things and my tent in the dust ([funny video](https://photos.app.goo.gl/eRngcZiRnd5XPS3dA) of this). I put my luggage on the camp truck this time, not the bus, and curled up on a mattress pad in the shared air conditioned yurt for bed.
 
@@ -372,27 +372,28 @@ Oh, and I helped teardown camp today, a lot; that was my whole morning and after
 
 ### The last day: [[2024-09-02]] 
 
-I slept badly. My sleeping bag and warm clothes were packed on the truck (bad decision) so I jolted awake at 5am from the cold. Rain was pattering on the ceiling of the yurt. I felt grateful I'd packed my tent. I shut my eyes and half slept for the next 2 hours.
+Unfortunately I slept poorly. My sleeping bag and warm clothes were both packed on the truck (bad decision) so I jolted awake at 5am shivering from the cold. I heard rain patter on the ceiling of the yurt. I felt grateful I'd packed my tent but dumb for leaving the bag outside. It's like, semi-waterproof. I think. I shut my eyes and half-slept for the next 2 hours.
 
-When I opened my eyes next, I was alone in the yurt. I put on my boots for the last time, opened the cabin door, and was greeted by the sun peeking through the clouds. The air was clear again from the rain.
+When I awoke again, I was alone in the yurt. I laced my boots for the last time, opened the cabin door, and was greeted by a really pretty sunrise peeking through the clouds. The air was clear and crisp -- the dust had all been washed away by the rain.
 
 ![[PXL_20240902_140850479.MP.jpg]]
 _Pretty_
 
-This felt like a crisp end to a chaotic week.
+This felt like a peaceful, satisfying end to a chaotic week.
 
-I did my morning ritual of brushing my teeth in the kitchen, eating a modest breakfast of a Kind bar, and refilling my water bladder. I said my goodbyes to anyone awake and biked out to 6:15 & J for the bus depot.
+I did my morning ritual of brushing my teeth in the kitchen, eating a modest breakfast of a Kind bar, and refilling my water bladder. I said my goodbyes to the few people who were awake and biked out to 6:15 & J for the bus depot.
 
 ![[original_b21f08f7-d974-468f-b905-7dcef6121542_PXL_20240902_144234032.MP.jpg]]
 
-I arrived at 7:45, even though my bus was slated to leave at 9. But the line was quick and we got on the road at 8.
+I arrived at 7:45. Despite my bus being slated to leave at 9, the line was quick and I got on the road at 8.
 
-Said one heartfelt goodbye to my bike, my trusty steed throughout all the chaos. I donated him knowing I wouldn't be able to nurse him back to health. I hope he's somewhere comfy in Nevada, right now.
+Said one heartfelt goodbye to my bike, my trusty steed throughout all the chaos. I donated him knowing I wouldn't be able to nurse him back to health in SF. I hope he's somewhere comfy in Nevada, right now.
+
 ![[original_b164c73b-4197-449b-8b06-d93fba787cfd_PXL_20240902_150445479.MP.jpg]]
 _Goodbye, BRC_
 
 ## My takeaways from 2024's Burn
-Now that we're on roughly the same page (although you should totally read more! There are loads of neat cultural quirks, such as the zero money policy exchanged for goods and services, and that [97.3% of Burners ride bikes](https://photos.app.goo.gl/7Le2cieATK7QJ8me9), and wearing LEDs is an unofficial safety rule so you can be seen at night and in dust storms...) I can cover my musings.
+Now that we're on roughly the same page (although you should totally read more! There are loads of neat cultural quirks, such as the zero money policy exchanged for goods and services, and that [97.3% of Burners ride bikes](https://photos.app.goo.gl/7Le2cieATK7QJ8me9), and wearing LEDs is an unofficial safety rule so you can be seen at night and in dust storms...) I can cover my takeaways.
 
 In no particular order...
 
