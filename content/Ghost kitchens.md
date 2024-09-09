@@ -4,8 +4,8 @@ Ghost kitchens, aka "virtual brands", are when a regular restaurant has enough s
 
 In my experience the quality of food from ghost kitchens is noticeably bad. I'm 3/3 on this; actually the third time I didn't even realize the food was cooked in a ghost kitchen until I took a bite and felt so personally offended I needed to verify the restaurant existed (note to investors: "Persian Gyros" is not a profitable venture).
 
-Anyways, I noticed tonight while working midnight hours that there were a lot of ghost kitchens on DoorDash pointing to the same location: 415 N Mary Ave in Sunnyvale. I decided to investigate and, huh, they're all pretty mediocrely rated: ![[Screenshot_20220316-234425.png]]
-TODO: FIND THIS SCREENSHOT, IT SHOULD BE FROM AROUND [[2022-03-17]]
+Anyways, I noticed tonight while working midnight hours that there were a lot of ghost kitchens on DoorDash pointing to the same location: 415 N Mary Ave in Sunnyvale. I decided to investigate and, huh, they're all pretty mediocrely rated: ((Broken screenshot: Screenshot_20220316-234425.png ))
+TODO: Find this screenshot. It should be from around [[2022-03-17]]
 
 So maybe poor food quality is correlation without causation? Ghost kitchen food only tastes bad because it's prepared in otherwise unpopular kitchens? This warrants further investigation.
 
