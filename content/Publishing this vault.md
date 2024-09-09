@@ -77,13 +77,5 @@ So what if I had the main site page randomly pluck 3 entries for someone to star
 
 Maybe allowing search-by-tags.
 
-## To-dos
-Some housekeeping is in order before I publish. Specifically:
-- [ ] Tag all private entries with \#nopublish.
-- [ ] Tag philosophy articles with \#philosophy.
-- [ ] Untag articles with \#idea (did I really think that was a good idea).
-
-^ As of [[2024-05-23]] this is not done lol.
-
 As of [[2022-06-21]] it seems I may actually do this as part of [[Perdicis website]]! See To-dos section. 
 

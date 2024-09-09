@@ -1,10 +1,16 @@
 # Reflections on Burning Man 2024
 #publish 
-Opened [[2024-09-05]]. Related to [[Burning Man]] (duh). And nested in [[Musings on everything else]].
+Opened [[2024-09-05]]. Related to [[Burning Man]] (duh). Nested in [[Musings on everything else]].
 
-![test](PXL_20240902_021834180.MP.jpg)
+1
+![](PXL_20240902_021834180.MP.jpg)
 
+2
+![](./images/PXL_20240902_021834180.MP.jpg)
+
+3
 ![[PXL_20240902_021834180.MP.jpg]]
+
 
 **Table of contents**
 - What it is
@@ -18,7 +24,7 @@ Opened [[2024-09-05]]. Related to [[Burning Man]] (duh). And nested in [[Musings
 
 ## What it is
 ### Elephants in the room
-Yes, Burning Man involves hedonism. All week long are nonstop parties that _will_ keep you awake if you don't sleep with earplugs. And there is widespread substance use, [crazy outfits](https://www.google.com/search?q=burning+man+outfits), [nudity](https://media.tenor.com/wy2zHeWyf2gAAAAe/side-eye-dog-suspicious-look.png), open bars, orgies... if you can imagine it and it's fun, it's probably at the burn, and when all 80,000 attendees pay a ticket fee of nearly $600 to attend it's actually pretty fair then IMO that mainstream media pokes fun at us.
+Yes, Burning Man is hedonistic. All week long are nonstop parties that _will_ keep you awake if you don't sleep with earplugs. There is widespread substance use, [crazy outfits](https://www.google.com/search?q=burning+man+outfits), [nudity](https://media.tenor.com/wy2zHeWyf2gAAAAe/side-eye-dog-suspicious-look.png), open bars, orgies... if you can imagine it and it's fun, it's probably at the burn, and when all 80,000 attendees pay a ticket fee of nearly $600 to attend it's actually pretty fair then IMO that mainstream media pokes fun at us.
 
 But the media misses a lot of the more interesting aspect of Burning Man.
 

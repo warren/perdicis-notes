@@ -9,7 +9,7 @@ A herniated disc is such a suitable injury to mark a birthday occasion, too. How
 ![[20231124_191040-COLLAGE.jpg]]
 _In the morning, I walk on 0 legs. In the afternoon, 0. in the evening, still 0. Which in-network doctors are open tonight?_
 
-Anyways. Having been floor-ridden for 24+ hours, I reflect on several things...
+Having been floor-ridden for 24+ hours, I reflect on several things...
 
 ### On disability and gratefulness
 My biggest takeaway from yesterday is that **the sensation of loss is a whole lot more vivid than the sensation of having or even gaining \[the thing you lost].**
@@ -78,7 +78,7 @@ Something connected to Frankl's MSFM: one with a reason to live can endure anyth
 ^ perhaps this sort of idealism is possible _only_ when you haven't experienced the loss of something you had, forcing you to know its exact worth.
 
 
-[^1]: I'm told 26 is not one's "late 20s". Source: my peers who are also in their "mid 20s" ...
+[^1]: I'm told 26 is not one's "late 20s". Source: peers who are also in their "mid 20s" ...
 
 
 ## Appendix
