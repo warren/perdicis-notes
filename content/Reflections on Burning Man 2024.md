@@ -11,31 +11,26 @@ Opened [[2024-09-05]]. Related to [[Burning Man]] (duh). Nested in [[Musings on 
 3
 ![[PXL_20240902_021834180.MP.jpg]]
 
-
-**Table of contents**
+Brief table of contents:
 - What it is
 - Stuff I did day to day
-- Takeaways, reflections, and stuff I'd do differently
+- Takeaways, reflections, and things I'd do differently
 - Appendix
-
-**Also. You should totally check out [my highlights photo album](https://photos.app.goo.gl/zMc8dnKfAimNidHg8)** for a view of what the burn looks like. 
-- My impression has always been that Burning Man is difficult to understand from the outside looking in, especially since curated social media distorts it. So I tried to include the more mundane aspects of the Burn in that album: camp build and teardown, dinner, some shared ceremonies, biking around, etc.
-- Hope it's fun to look at!
 
 ## What it is
 ### Elephants in the room
-Yes, Burning Man is hedonistic. All week long are nonstop parties that _will_ keep you awake if you don't sleep with earplugs. There is widespread substance use, [crazy outfits](https://www.google.com/search?q=burning+man+outfits), [nudity](https://media.tenor.com/wy2zHeWyf2gAAAAe/side-eye-dog-suspicious-look.png), open bars, orgies... if you can imagine it and it's fun, it's probably at the burn, and when all 80,000 attendees pay a ticket fee of nearly $600 to attend it's actually pretty fair then IMO that mainstream media pokes fun at us.
+Yes, Burning Man is hedonistic. All week long are nonstop parties that _will_ keep you awake if you don't sleep with earplugs. There is widespread substance use, [crazy outfits](https://www.google.com/search?q=burning+man+outfits), [nudity](https://media.tenor.com/wy2zHeWyf2gAAAAe/side-eye-dog-suspicious-look.png), open bars, orgies... if you can imagine it and it's fun, it's probably at the burn, and when all 80,000 attendees pay a ticket fee of nearly $600 to attend it's actually pretty fair that the media pokes fun at Burners.
 
-But the media misses a lot of the more interesting aspect of Burning Man.
+But in doing so, the media misses a lot of the cool things worth reporting about Burning Man.
 
 ### The more interesting elephants
-In my brief time in Black Rock City (the name given to the temporary city erected around the Man in Black Rock Desert), I visited:
-- A hair salon for braids, a protective style that keeps the dust out.
+During my brief residence in Black Rock City (the name given to the temporary city erected around the Man in Black Rock Desert), I visited:
+- A movie theatre.
+- A hair salon.
 - A fully functional postal system.
-- A jewelry store, "selling" hundreds of bracelets, necklaces, earrings, ...
+- A jewelry store, offering hundreds of bracelets, necklaces, earrings, ... for free.
 - A bagel deli, complete with vegan and vegetarian options, coffee, and tea.
 - A build-your-own soda taproom.
-- A movie theatre.
 - A figure drawing stage with volunteer models.
 - A [[Flow|Flow arts]] camp.
 - A library, offering book leases lasting 1 year -- until next year's Burn.
@@ -45,7 +40,7 @@ In my brief time in Black Rock City (the name given to the temporary city erecte
 - A matcha latte cafe.
 - A mathematics-themed camp that serves pi(e) every day at 3:14pm.
 
-And that's just a few. This isn't even including the art installations I saw! More on that later.
+And that's just a few. This isn't even counting the art installations I saw! More on that later.
 
 ### So, what is Burning Man?
 Is it hedonist utopia? According to Ben (my camp's lead in 2024):
@@ -59,6 +54,8 @@ With 80,000 attendees, there's something for everyone at the Burn.
 What does one do at Burning Man? Burn a man? Yes (but only on Saturday).
 
 Btw, images are kind of buggy on my website. If they're not loading, you can see the complete list of photos in [this Google Photos album](https://photos.app.goo.gl/zMc8dnKfAimNidHg8).
+- My impression has always been that Burning Man is difficult to understand from the outside looking in, especially since curated social media distorts it. So I tried to include the more mundane aspects of the Burn in that album: camp build and teardown, dinner, some shared ceremonies, biking around, etc.
+- Hope it's fun to look at!
 
 ### Pre-burn (Late March 2024 - August)
 The first step came long before actually visiting the desert. I needed to decide how I'd camp in the desert. To not be an observer, I chose to camp with a themecamp, i.e. a camp that provides a service to the massive potluck of Burning Man.
