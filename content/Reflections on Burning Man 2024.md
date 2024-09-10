@@ -22,7 +22,7 @@ For many, Burning Man does involve hedonism. All week long are nonstop parties t
 ![[2hunjqendum91.jpg]]
 _The insane line to get in typically gets bashed first (not my pic)_
 
-However in doing so, news outlets miss the more substantive, interesting, and frankly representative things worth learning about Burning Man.
+However in doing so, news outlets miss the more substantive, interesting, and frankly representative things worth knowing about Burning Man.
 
 ### The more interesting elephants
 During my brief residence in Black Rock City (the name given to the temporary city erected around the Man in Black Rock Desert), I visited:
@@ -41,16 +41,16 @@ During my brief residence in Black Rock City (the name given to the temporary ci
 - A matcha latte cafe.
 - A mathematics-themed camp that serves pi(e) every day at 3:14pm.
 
-And that's just a few. This isn't even counting the art installations (more on those later)!
+And that's just a few. This isn't even counting the art installations!
 
 ### So, what is Burning Man?
 Ben, my camp's lead in 2024, described it thusly:
 > "Burning Man is a **potluck** where you can bring literally anything."
 
-I agree with Ben's take. Some people bring loads of alcohol, period-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all this stuff is equally cool, and it's offered for free. Even those who attend just for the partying are here bringing their genuine self to those parties and contributing positive energy.
+I agree with Ben's take. Some people bring loads of alcohol, period-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all this stuff is equally cool, and it's always offered for free. Even those who attend just for the partying are here bringing their genuine self to those parties and contributing positive energy. Which is lovely. Virtually everywhere in Black Rock City has a welcoming atmosphere because virtually everyone has something nice to offer you: personal trinkets, camp amenities, or just a good vibe. Unsurprisingly, the default greeting here is a hug (given with consent), not a handshake.
 
 ## Stuff I did day to day
-What does one do at the potluck? Burn a man? Yes (but only on Saturday).
+What does one do at this potluck? Burn a man? Yes (but only on Saturday).
 
 > [!warning] Btw, images are buggy on this website
 > If they're not loading, you can see the complete list of photos in [this Google Photos album](https://photos.app.goo.gl/zMc8dnKfAimNidHg8). You should read the article first tho
