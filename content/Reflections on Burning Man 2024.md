@@ -2,12 +2,12 @@
 #publish 
 Opened [[2024-09-05]]. Related to [[Burning Man]] (duh). Nested in [[Musings on everything else]].
 
+![[PXL_20240831_235533270.MP.jpg]]
+_"Exeunt left, pursued by dust devil"_
+
 Hi! Welcome to one of my longer articles.
 
-My impression is that Burning Man is difficult to understand as an outsider. Even when I was researching the event with intent to attend, I had a hard time understanding what people actually _did_ in the desert, besides party. So, I'm writing this article to cover the more mundane aspects of my 2024 burn: pre-planning, camp build and teardown, and all the awesome things I did as a non-party person residing in the second biggest party city in Nevada. I hope this account is as fun to read as it was for me to experience.
-
-![[PXL_20240831_235533270.MP.jpg]]
-_Photo taken in BRC esplanade. "Exeunt left, pursued by dust devil"_
+My impression for a while has been that Burning Man is difficult to understand as an outsider. Even while researching the event with intent to attend, I had a hard time understanding what people actually _did_ in the desert besides party. So I'm writing this article to cover the more mundane aspects of my 2024 burn: pre-planning, camp build and teardown, and all the awesome things I did as a non-party person residing in the second biggest party city in Nevada. I hope this account is as fun to read as it was to write.
 
 Brief table of contents:
 - What Burning Man is
