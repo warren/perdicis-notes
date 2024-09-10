@@ -5,8 +5,6 @@ Sharded out of [[Musings]].
 
 ## Written
 - [[Forbes articles written by contributors are basically clickbait]]
-- [[What the heck happened to mobile gaming]]
-- [[Coin flips at work]]
 - [[DTC fashion brands and dropshipping]]
 - [[History of chocolate]]
 - [[Reflections on The Commons]]
@@ -14,6 +12,8 @@ Sharded out of [[Musings]].
 - [[Why Chinese investors throw so much money into real estate]]
 - [[What are dreams for]]
 - [[Reflections on Burning Man 2024]]
+- [[What the heck happened to mobile gaming]]
+- [[Coin flips at work]]
 
 ## Semi-written
 - [[Modern art exists because of financial loopholes]]
