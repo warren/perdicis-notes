@@ -77,7 +77,7 @@ _I also made this sign_
 
 I concluded the best way to reach Black Rock City was to take the official, volunteer-run Burner Express bus (BxB) from San Francisco to BRC. Conveniently, the BxB boards at Civic Center, only 3 blocks from my apartment. So I bought a ticket with a bike pass.
 
-### T minus ~2 weeks before the burn
+### T minus ~3 weeks before the burn
 You need to bring a _lot_ to survive in the desert. I can't overstate how involved this step is. Just a sample of the stuff I ordered:
 - A used bike I was OK getting annihilated by the desert dust
 - LEDs to affix to my bike and self so I'm visible during dust storms and at night
@@ -99,7 +99,7 @@ You need to bring a _lot_ to survive in the desert. I can't overstate how involv
 ![[PXL_20240823_172548888.MP.jpg]]
 _Comfy_
 
-I'd guesstimate spending north of $1000 just on supplies, on 40 (+/-5) items in total. Most items were purchased via Amazon. I didn't get fancy with outfits - I just bought the basics using cheap Amazon fashion. So, $1000 was the rough figure of buying the bare minimum amount of supplies required for me to consider myself overprepared.
+I'd guesstimate spending north of $1000 just on supplies, on 40 (+/-5) items in total. Most items were purchased via Amazon. I didn't get fancy with outfits -- I just bought the basics using cheap Amazon fashion. So, $1000 is the rough figure of buying the bare minimum amount of supplies required for me to consider myself overprepared.
 
 Water is also worth mentioning -- campers are advised to pack roughly 1.5 gallons per day they'll be at the burn -- but I didn't do this as Infinite Love provides water infrastructure.
 
@@ -109,12 +109,12 @@ Packing packing packing. So much packing. My room looked like an explosion:
 ![[PXL_20240822_151449429.MP.jpg]]
 
 ![[PXL_20240822_020715831.MP.jpg]]
-_My DIY [[Contact staff|contact staves]]!_
+_Shown in pic 2: my DIY [[Contact staff|contact staves]]!_
 
 I packed all my belongings into two 27 gallon HDX boxes, which is the maximum sized luggage you're allowed to take on the bus. Within these boxes, I stuffed 95% of my things into categorized Ziploc bags or trash bags to shield them from the imminent dust. This proved to be a fantastic decision later.
 
 ### Upon arrival ([[2024-08-24]] + 1 day or so)
-Due to rain conditions in Nevada closing the gates to BRC, my morning bus got been delayed 2 hours till noon. So, at 11am, I brought my bike and 2 HDX boxes over to the bus stop. They were heavy and cumbersome, so this was actually really difficult.
+Due to rain conditions in Nevada closing the gates to BRC, my morning bus had been delayed 2 hours till noon. So, at 11am, I brought my bike and 2 HDX boxes over to the bus stop. They were heavy and cumbersome, so this was actually really difficult.
 
 ![[PXL_20240824_195010743.MP.jpg]]
 _My burdens_
