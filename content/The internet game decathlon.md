@@ -23,7 +23,7 @@ Games, mostly internet games, which can be used to compete against your friends.
 - [TimeGuessr](https://timeguessr.com/) - Guess the year and map location of iconic photos
 - [PokeDoku](https://pokedoku.com) - Pokemon sudoku. DIFFICULT even if you know pokemon well.
 - [MovieGrid.io](https://moviegrid.io) - Movie sudoku.
-- [Guess the Game](guessthe.game) - shows screenshots of video games and you need to guess what video game it is
+- [Guess the Game](https://guessthe.game) - shows screenshots of video games and you need to guess what video game it is
 
 ### Wordle variants
 - [Semantle](https://semantle.com/) - my favorite. Guess words based on word2vec similarities

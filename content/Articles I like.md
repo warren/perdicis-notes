@@ -43,4 +43,4 @@ _Nothing special, I just don't want to forget these exist._
 - [https://soranews24.com/2022/06/23/is-roughly-half-of-japan-preconditioned-to-hate-mint-chocolate-sweets/](https://soranews24.com/2022/06/23/is-roughly-half-of-japan-preconditioned-to-hate-mint-chocolate-sweets/) fascinating and hella specific article about Japanese preferences for mint chocolate chip ice cream where a city had 10% fondness for it. Relevant to [[Nature vs nurture]]
 
 ## Appendix
-This topic is sort of related to [[Internet roasts]], lol.
+This page is sort of related to [[Internet roasts]], lol.

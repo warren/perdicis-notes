@@ -2,7 +2,7 @@
 #publish 
 Opened [[2024-06-02]].
 
-I'm going to [[Publishing this vault|publish Waulter]] soon and open my brain to the internet. When I do, it would be nice to consolidate a meta page of pages other people might enjoy reading. Maybe that's you, and that's this?
+I'm going to [[Publishing this vault|publish Waulter]] soon and open my second brain to the internet. When I do, it would be nice for this page to serve as a meta page of pages that visitors might enjoy reading. Maybe that's this, and that's you?
 
 ## Meta pages (pages of pages)
 - [[Musings]] (Meta-meta page)
@@ -17,6 +17,7 @@ I'm going to [[Publishing this vault|publish Waulter]] soon and open my brain to
 - [[The best burger in the bay area]]
 - [[Perdicis etymology]]
 - [[The cosmic computer]]
+- [[Reflections on Burning Man 2024]]
 
 ## Misc pages that friends might enjoy leafing through
 - [[The internet game decathlon]]
