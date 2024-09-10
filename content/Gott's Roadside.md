@@ -2,7 +2,7 @@
 #publish
 _Part of a series on [[The best burger in the bay area]]._
 
-Casual upscale American fast food place I visited on [[2022-04-10]] with Sharon.
+Casual upscale American fast food place I visited on [[2022-04-10]].
 
 (There are multiple locations, but I went to https://maps.app.goo.gl/FtczhPZ4aSQJByCz7)
 

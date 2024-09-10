@@ -2,79 +2,80 @@
 #publish 
 Opened [[2024-09-05]]. Related to [[Burning Man]] (duh). Nested in [[Musings on everything else]].
 
-![[flaming-hot-man-elmo-fire.gif]]
+Hi! Welcome to one of my longer articles.
+
+My impression is that Burning Man is difficult to understand as an outsider. Even when I was researching the event with intent to attend, I had a hard time understanding what people actually _did_ in the desert, besides party. So, I'm writing this article to cover the more mundane aspects of my 2024 burn: pre-planning, camp build and teardown, and all the awesome things I did as a non-party person residing in the second biggest party city in Nevada. I hope this account is as fun to read as it was for me to experience.
+
+![[PXL_20240831_235533270.MP.jpg]]
+_Photo taken in BRC esplanade. "Exeunt left, pursued by dust devil"_
 
 Brief table of contents:
-- What it is
+- What Burning Man is
 - Stuff I did day to day
 - Takeaways, reflections, and things I'd do differently
 - Appendix
 
-## What it is
+## What is BM?
 ### Elephants in the room
-Yes, Burning Man is hedonistic. All week long are nonstop parties that _will_ keep you awake if you don't sleep with earplugs. There is widespread substance use, [crazy outfits](https://www.google.com/search?q=burning+man+outfits), [nudity](https://media.tenor.com/wy2zHeWyf2gAAAAe/side-eye-dog-suspicious-look.png), open bars, orgies... if you can imagine it and it's fun, it's probably at the burn, and when all 80,000 attendees pay a ticket fee of nearly $600 to attend it's actually pretty fair that the media pokes fun at Burners.
+For many, Burning Man does involve hedonism. All week long are nonstop parties that _will_ keep you awake if you don't sleep with earplugs. There is widespread substance use, [crazy outfits](https://www.google.com/search?q=burning+man+outfits), [nudity](https://media.tenor.com/wy2zHeWyf2gAAAAe/side-eye-dog-suspicious-look.png), open bars, orgies... if you can imagine it and it's fun, it's probably at the burn, and when all 80,000 attendees pay a ticket fee of nearly $600 to attend it's actually somewhat fair that the media pokes fun at burners.
 
 ![[2hunjqendum91.jpg]]
-_The long line to get in typically gets news coverage every year (not my pic obviously)_
+_The insane line to get in typically gets bashed first (not my pic)_
 
-However in doing so, I think news outlets miss a lot of the nice, positive things worth reporting on at Burning Man.
+However in doing so, news outlets miss the more substantive, interesting, and frankly representative things worth learning about Burning Man.
 
 ### The more interesting elephants
 During my brief residence in Black Rock City (the name given to the temporary city erected around the Man in Black Rock Desert), I visited:
 - A movie theatre.
 - A hair salon.
 - A fully functional postal system.
-- A jewelry store, offering hundreds of bracelets, necklaces, earrings, ... for free.
+- A jewelry store, offering hundreds of bracelets, necklaces, earrings, ... freely.
 - A bagel deli, complete with vegan and vegetarian options, coffee, and tea.
 - A build-your-own soda taproom.
 - A figure drawing stage with volunteer models.
 - A [[Flow|Flow arts]] camp.
 - A library, offering book leases lasting 1 year -- until next year's Burn.
-- A therapist camp, with (at least?) one licensed therapist offering drop-in 1-on-1 sessions.
+- A therapist camp, with a licensed therapist(s?) offering drop-in 1-on-1 sessions.
 - An astronomy-themed camp, complete with telescopes and speakers.
 - A pancake house powered by solar power.
 - A matcha latte cafe.
 - A mathematics-themed camp that serves pi(e) every day at 3:14pm.
 
-And that's just a few. This isn't even counting the art installations! But more on them later.
+And that's just a few. This isn't even counting the art installations (more on those later)!
 
 ### So, what is Burning Man?
-Is it hedonist utopia? According to Ben (my camp's lead in 2024):
+Ben, my camp's lead in 2024, described it thusly:
 > "Burning Man is a **potluck** where you can bring literally anything."
 
-I agree with Ben's take. Some people bring drugs, nudity, zeitgeist-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all this stuff is cool. None of these things are better than others; everyone is welcome, even those who attend just for the partying, because they're bringing their genuine self to those parties and contributing positive energy.
-
-With 80,000 attendees, there's something for everyone at the Burn.
+I agree with Ben's take. Some people bring loads of alcohol, period-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all this stuff is equally cool, and it's offered for free. Even those who attend just for the partying are here bringing their genuine self to those parties and contributing positive energy.
 
 ## Stuff I did day to day
-What does one do at Burning Man? Burn a man? Yes (but only on Saturday).
+What does one do at the potluck? Burn a man? Yes (but only on Saturday).
 
-> [!warning] Btw, images are buggy on my website
-> If they're not loading, you can see the complete list of photos in [this Google Photos album](https://photos.app.goo.gl/zMc8dnKfAimNidHg8).
-> - My impression has always been that Burning Man is difficult to understand from the outside looking in, especially since curated social media distorts it. So I tried to include the more mundane aspects of the Burn in that album: camp build and teardown, dinner, some shared ceremonies, biking around, etc.
-> - Hope it's fun to look at!
+> [!warning] Btw, images are buggy on this website
+> If they're not loading, you can see the complete list of photos in [this Google Photos album](https://photos.app.goo.gl/zMc8dnKfAimNidHg8). You should read the article first tho
 
 ### Pre-burn (Late March 2024 - August)
-Preparation for Burning Man starts long before the event. For me as a first-timer, I needed to decide who I'd camp with (camping solo is a thing too, but I didn't want to do that). I chose to camp with a themecamp, i.e. a camp that provides a good or service to the massive potluck of Burning Man.
+Preparation for Burning Man begins long before the event. For me as a first-timer, I needed to decide who I'd camp with (while camping solo is a thing, I didn't want to do that). I chose to camp with a themecamp, i.e. a camp that provides a good or service to the potluck of Burning Man.
 
 The camp I chose: Infinite Love. IL hosts workshops focused on growing and kindling love for one's self and others.
 
 ![[programming-sign_3__1_.png]]
-_2024's official programming poster. I was in charge of making this!_
+_2024's official programming poster. I made this!_
 
 I'm unfamiliar with how other camps handle new campers, but joining IL involved (1) a short Google Docs application and (2) vibe check interview. I suspect the interview exists just to vet out the new burners (affectionately called "virgin burners" or "birgins") who aren't prepared to contribute effort to the camp relative to what they consume. I had previously volunteered as a pro bono photographer at one of IL's fundraiser parties in April, which probably nudged my application into the territory of "we don't have to worry about this guy freeloading." So I applied [[2024-04-25]] and was accepted sometime early May.
 
-IL is pretty organized. To organize the 65 campers worth of effort, they put together a massive spreadsheet of the roles that need filling:
+IL is pretty organized. To organize the 65 campers worth of effort, they maintain a massive spreadsheet of roles that need filling:
 
 ![[Screenshot_20240902-115421.png]]
 _Sample screenshot. Sheets like this are pretty standard practice for camps_
 
-I signed up for a bunch of work in early May, ~3-4 months before the burn would happen.
+I signed up for my roles ~3-4 months before the burn started.
 
 ![[PXL_20240824_012645782.MP.jpg]]
 _I also made this sign_
 
-I concluded the best way to reach Black Rock City was to take the official, volunteer-run Burner Express bus (BxB) from San Francisco to BRC. Conveniently, the BxB boards at Civic Center, only 3 blocks from my apartment. I bought a ticket with a bike pass.
+I concluded the best way to reach Black Rock City was to take the official, volunteer-run Burner Express bus (BxB) from San Francisco to BRC. Conveniently, the BxB boards at Civic Center, only 3 blocks from my apartment. So I bought a ticket with a bike pass.
 
 ### T minus ~2 weeks before the burn
 You need to bring a _lot_ to survive in the desert. I can't overstate how involved this step is. Just a sample of the stuff I ordered:
@@ -256,7 +257,10 @@ _Mutant cars lined up to get their safety permits at the BRC DMV (Department of 
 
 ![[PXL_20240831_235459328.MP.jpg]]
 
-![[PXL_20240831_073543129.MP.jpg]]
+![[PXL_20240826_050949213.MP.jpg]]
+
+![[PXL_20240826_055547990.MP.jpg]]
+_Interactive art exhibit. The butterfly's wings are controlled by a swingset_
 
 ![[PXL_20240826_062044663.MP.jpg]]
 _An elevated view of the playa from the Man structure_
@@ -273,11 +277,12 @@ _Small mutant dragonflies on the prowl_
 ![[PXL_20240901_001744688.MP.jpg]]
 
 ![[PXL_20240827_091058686.MP.jpg]]
+_Hyperspace music viz tunnel. A mutant car would park on one end and plug in, causing the rings to pulse with their audio_
 
 ![[PXL_20240827_091742655.MP.jpg]]
 _Titanic's End (big mutant art car shaped like an iceberg) parked geographically at ~11 o'clock of the dial_
 
-Fun days!
+It was all lots of fun!
 
 Back at camp, I was in charge of a few jobs. These helped to ground me by keeping me accountable for times I would need to be back at camp. Mundane things you might not think about but were important include:
 - **Ice run.** The literal only scenario when currency exchange is allowed is cash for ice. There's a camp that distributes ice in this way. For ice run duty, I'd carry a wagon to that camp to pick up ice orders for campers and wheel the blocks back home.
