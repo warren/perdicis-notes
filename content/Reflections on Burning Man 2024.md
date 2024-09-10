@@ -2,7 +2,7 @@
 #publish 
 Opened [[2024-09-05]]. Related to [[Burning Man]] (duh). Nested in [[Musings on everything else]].
 
-![[PXL_20240902_021834180.MP.jpg]]
+![[flaming-hot-man-elmo-fire.gif]]
 
 Brief table of contents:
 - What it is
@@ -14,7 +14,10 @@ Brief table of contents:
 ### Elephants in the room
 Yes, Burning Man is hedonistic. All week long are nonstop parties that _will_ keep you awake if you don't sleep with earplugs. There is widespread substance use, [crazy outfits](https://www.google.com/search?q=burning+man+outfits), [nudity](https://media.tenor.com/wy2zHeWyf2gAAAAe/side-eye-dog-suspicious-look.png), open bars, orgies... if you can imagine it and it's fun, it's probably at the burn, and when all 80,000 attendees pay a ticket fee of nearly $600 to attend it's actually pretty fair that the media pokes fun at Burners.
 
-However in doing so, I think they miss a lot of the cool things worth reporting on at Burning Man.
+![[2hunjqendum91.jpg]]
+_The long line to get in typically gets news coverage every year (not my pic obviously)_
+
+However in doing so, I think news outlets miss a lot of the nice, positive things worth reporting on at Burning Man.
 
 ### The more interesting elephants
 During my brief residence in Black Rock City (the name given to the temporary city erected around the Man in Black Rock Desert), I visited:
