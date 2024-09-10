@@ -29,7 +29,7 @@ During my brief residence in Black Rock City (the name given to the temporary ci
 - A movie theatre.
 - A hair salon.
 - A fully functional postal system.
-- A jewelry store, offering hundreds of bracelets, necklaces, earrings, ... freely.
+- A jewelry store, offering hundreds of bracelets, necklaces, earrings, ... for free
 - A bagel deli, complete with vegan and vegetarian options, coffee, and tea.
 - A build-your-own soda taproom.
 - A figure drawing stage with volunteer models.
@@ -119,7 +119,7 @@ Due to rain conditions in Nevada closing the gates to BRC, my morning bus had be
 ![[PXL_20240824_195010743.MP.jpg]]
 _My burdens_
 
-I eventually resigned to taking two trips from my apartment. First trip: biking over, leaving my bike with some trustworthy looking strangers. Second trip: walking back to my apartment, then back again carrying the boxes. I was drenched in sweat by the time I arrived at the bus stop, lol. One dude bellowed from the line, watching me: WHO'S GONNA CARRY THE BOAT??
+I eventually resigned to taking two trips from my apartment. First trip: biking over, leaving my bike with some trustworthy looking strangers. Second trip: walking back to my apartment, then back again carrying the boxes. I was drenched in sweat by the time I arrived at the bus stop, lol.
 
 ![[original_370f15bf-b424-4327-a37c-09f22bdea716_PXL_20240824_185614286.MP.jpg]]
 
@@ -134,7 +134,7 @@ Bus check-in was straightforward and quick. I showed a volunteer my physical ID,
 
 As we approach, we barely discern the lights from vehicles in the non-bus line. In order to save fuel, these vehicles remain parked most of the time and inch forward together in waves.
 
-9:45: The bus stops, and a moody bus volunteer boarded. She barked orders that boiled down to: stfu (she mentioned this one multiple times), get off the bus, no smartphones, and show your physical burning man ticket to reboard.
+9:45: The bus stops, and a moody bus volunteer boarded. She barked orders that boiled down to: stfu (she mentioned this one a few times), get off the bus, no smartphones, and show your physical burning man ticket to reboard.
 
 I didn't listen to the smartphone order:
 
@@ -153,18 +153,20 @@ Objective #1 was to recover my bike, which I found stowed under the San Francisc
 ![[PXL_20240825_051833707.MP.jpg]]
 _+1 bike acquired_
 
-Next objective was to board the correct tram. I knew from my prior investigation that none of the trams would bring me directly to Infinite Love. I'd need to walk holding my luggage and bike again... which would suck. I didn't have a great solution to this.
+Next objective was to board the correct tram. I knew from my prior research that none of the trams would bring me directly to Infinite Love. I'd need to walk holding my luggage and bike again... which would suck. I didn't have a great solution to this.
 
 ![[PXL_20240825_051425278.MP.jpg]]
 
-This point of my journal is a good time to explain the address system of Black Rock City. What you're looking at above is a map. In the dead center of the semicircle is the Man -- a useful landmark for navigating, as I would find. North of the man is the Temple (which also gets burned -- more on what that is later). Addresses are a tuple of (1) an alphabetical street name, denoting how far from the Man you are and (2) an analog clock distance, denoting where along the dial you are. Infinite Love's address this year was 8:15 & F. That's where I'm headed. Maybe you can spot it on the map.
+Now is a good time to explain the address system of Black Rock City. What you're looking at above is a map. In the dead center of the semicircle is the Man -- a useful visual landmark for navigating. North of the man is the Temple, which gets burned the day after the Man.
 
-A serendipitous solution to my bike problem materialized at this point: by lucky coincidence, I ran into several campmates: Vicky, Daniel, and Luona. We puzzled through the tram situation together and loaded bins onto Vicky's dolly.
+Addresses are a tuple of (1) an alphabetical street name, denoting how far from the Man you are and (2) an analog clock distance, denoting where along the dial you are. Infinite Love's address this year was 8:15 & F. That's where I'm headed. Maybe you can spot it on the map.
+
+A serendipitous solution to my bike problem materialized: I ran into several campmates: Vicky, Daniel, and Luona -- and Vicky had a dolly!
 
 A few side quests emerged:
-- Do a dust angel and ring the bell as part of virgin initiation. Daniel encouraged me. "Playa dust gets everywhere," he said. "We all try to keep it out in the beginning. But it always gets in. \[By doing a dust angel], you stop worrying about being perfect. It's like jumping into a pool instead of wading in."
-    - I jumped in the pool. And slammed the bell and yelled. The bell steward lady gave me a hug and said "welcome home" and "I'm glad you're here." "Glad to be here," I replied.
-- Load my stuff onto the tram (the first two trams were full from other people's luggage, and we needed to hustle to get on the third)
+- Do a dust angel and ring the bell as part of virgin initiation. Daniel, who had burned before, said, "Playa dust gets everywhere. We all try to keep it out in the beginning. But it always gets in. Doing the dust angel stops you from worrying about being perfect. It's like jumping into a pool instead of wading in."
+    - I jumped in the pool. And slammed the bell and yelled. The bell steward lady gave me a hug and said "welcome home" and "I'm glad you're here." "Glad to be here."
+- Load my stuff onto the tram (the first two trams were full from other people's luggage, and we needed to hustle to get on the third).
 
 ![[PXL_20240825_051836913.MP.jpg]]
 
@@ -176,7 +178,7 @@ A few side quests emerged:
 ![[PXL_20240825_062020649.MP.jpg]]
 _FLOWER POWER_
 
-- Move our heavy luggage from 815&J to 815&F.
+- Move our heavy luggage from 815 & J to 815 & F.
     - Christie met me here! She had been waiting for a while without me knowing due to zero reception on the playa. It was great to see her.
 
 By midnight we had all arrived at camp with our stuff.
@@ -184,11 +186,11 @@ By midnight we had all arrived at camp with our stuff.
 ![[PXL_20240825_103017791.MP.jpg]]
 _Home sweet (not quite built) home_
 
-The excitement didn't end here though. Due to today's bus delays preventing builders like myself from arriving at camp, camp construction was significantly behind schedule. This was a problem because a slow build could affect where our camp gets placed next year, so the executive order was made to continue building through the night. No one was to set up their tent before 2am.
+The excitement didn't end here though. Due to today's bus delays preventing builders like myself from arriving at camp, camp construction was significantly behind schedule. This was a problem because a slow build can affect where our camp gets placed next year, so the executive order was made to continue building through the night. No one was to set up their tent before 2am.
 
-So we kept building. I worked on the walls and lighting for the communal public space. Others worked on decoration, rugs, platforms, and shade structures to keep the sun off of tents in the morning. The spiderbox for power was partly set up but not fully, so I wouldn't get to charge my phone tonight.
+I worked on the walls and lighting for the communal public space. Others worked on decoration, rugs, platforms, and shade structures to keep the sun off of tents in the morning. The spiderbox for power was partly set up but not enough for me to safely charge my phone without risk of blowing a fuse. So I didn't charge my phone.
 
-I ended up working till 3am. Afterwards, I set up my tent, unpacked part of my boxes, and fell asleep around 4:30.
+At 3am I finished building. Afterwards, I set up my tent, unpacked part of my boxes, and fell asleep around 4:30.
 
 ![[PXL_20240825_103047471.MP.jpg]]
 _Photo of the camp kitchen and dining hall tents. Not that you can tell in the dark, but they are situated adjacent the personal tent area_
@@ -201,7 +203,7 @@ I helped build more the next day. As the days turned into a week, I found my mor
 
 Most days followed a similar pattern. During the daytime, I would meet Christie at 10am and roam around in the sun. It got hot quick. Within 2 hours of sunrise, the temperature was pretty pleasant, but by the time solar noon rolled around, temperatures were pushing high 90s to 100 degrees farenheit. Within 2 days I was fully comfortable going shirtless the entire time the sun was out to combat the heat. My wide-brimmed hat became uncomfortable and I eventually replaced it with a headscarf which had the neat dual property of keeping me cool during the day as a shade structure and warm at night as a scarf.
 
-Nighttime was chilly. The cold set in rapidly after sundown. Most people bundled up with fur coats (yes, idk why; the dust totally gets in them and there are warmer options, but they look cool) when the sun set. Me, having grown up in New England, actually found the nighttime temperature agreeable. With all the physical activity I was doing (dancing, biking, etc) I never felt compelled to wear much more than a shirt and only really put on a shirt around midnight each night. As far as I know, I'm the only person who felt this way LOL.
+Nighttime was chilly. The cold set in rapidly after sundown. Most people bundled up with fur coats (yes, idk why; the dust totally gets in them and there are warmer options, but they look cool) when the sun set. Having grown up in New England, I found the nighttime temperature rather pleasant. With all the physical activity I was doing (dancing, biking, etc) I never felt compelled to wear much more than a shirt and only really put on a shirt around midnight each night. As far as I know, I'm the only person who felt this way LOL.
 
 Sleeping arrangements were tough. I would wear earplugs in my tent so passing mutant vehicles (modded cars that most of the time doubled as mobile DJ sets) blasting music wouldn't disturb me, and an eyemask so the sun wouldn't wake me.
 
@@ -214,11 +216,16 @@ _Black Rock Public Library..._
 ![[PXL_20240827_203453389.MP.jpg]]
 _... complete with a chunky library computer_
 
+![[PXL_20240831_204424005.MP.jpg]]
+
 ![[PXL_20240830_224939720.MP.jpg]]
 _Nonsense signage_
 
 ![[PXL_20240826_231050043.MP.jpg]]
 _Horchata and melon snow cones! Also pictured: our drivers licenses taped to our personal cups. It's typical at BRC to do this to make it easier on bartenders about to serve you alcohol_
+
+![[PXL_20240901_005132251.MP.jpg]]
+_Infinite Love's camper mailboxes. There's no reception at the burn, so if a visitor drops by your camp while you're out roaming, their best bet to connect with you is leaving a note in your mailbox suggesting a meetup time/place_
 
 ![[PXL_20240831_012620873.MP.jpg]]
 _Taco-o-caT, whose sign indicates they're aware of the palindrome (nice)_
@@ -238,6 +245,9 @@ _After sunset: the view atop a mutant vehicle overlooking Esplanade (the innermo
 
 ![[PXL_20240826_041222031.MP.jpg]]
 _A massive, mutant art car rumbling past Infinite Love_
+
+![[PXL_20240901_070030761.MP.jpg]]
+_God hung up on me when I tried this_
 
 ![[PXL_20240827_102506634.MP.jpg]]
 _My camp LED backpack and performance [[Contact staff|staff]] at 3am after returning from Titanic's End_
