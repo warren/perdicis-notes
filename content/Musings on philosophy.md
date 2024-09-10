@@ -4,7 +4,6 @@
 Sharded out of [[Musings]].
 
 ## Written
-- [[Philosophy on dating]]
 - [[Rough edges]] (to personalities) -- this was written and now I changed it, pls finish
 - [[AI art and human obsolescence]] 
 - [[Stable diffusion fraud]]
