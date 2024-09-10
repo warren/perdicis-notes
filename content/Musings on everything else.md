@@ -29,7 +29,7 @@ Sharded out of [[Musings]].
 - [[Lucid dreaming]] / [[How to lucid dream]]
 - [[Every brand will become a lifestyle brand]]
 - [[Fasting]] - check goodnotes on my iPad, I took some detailed thoughts down on it there
-- [[Quaranteen University]] (or that time I was internet famous for a while)
+- [[Quaranteen University]] (or that time Rudy and I were internet famous for a while)
 - [[The fitness enthusiast's guide to eating out in SF]]
 - [[Hysteresis]]
 - [[A causal test of the strength of weak ties]]
@@ -37,7 +37,6 @@ Sharded out of [[Musings]].
 
 ## Misc notes
 - [[Arguments against Christian life after death]]
-- [[San Francisco map explained]]
 - [[Where does Apple maps source its images]]
 - [[Mom's advice for redeye flights]]
 - [[Marriage advice from Mom and Dad]]
