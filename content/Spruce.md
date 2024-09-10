@@ -2,7 +2,7 @@
 #publish 
 _Part of a series on [[The best burger in the bay area]]._
 
-Went here [[2022-12-27]] with Sharon. Their walk-in bar menu has a $25 burger!
+Went here [[2022-12-27]]. Their walk-in bar menu has a $25 burger!
 
 There's a catch to that price -- basic add-ons cost you:
 - $7 for their chef-recommended Taleggio cheese.
