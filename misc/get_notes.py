@@ -7,7 +7,6 @@ from paths import VAULT_PATH, REPO_PATH  # Private. VAULT_PATH just contains the
 
 VAULT_EVERGREEN_PATH = os.fsencode(VAULT_PATH + "/Evergreen Thoughts")
 REPO_NOTES_PATH = os.fsencode(REPO_PATH + "/content")  # content is the Quartz directory I'll serve Evergreen Thoughts from. Nesting it further makes the URL weird.
-# TODO: Figure out how to make attachments (pics) work. I might need to nest that directory.
 
 def file_contains_tag(file_path, tag):
     """Checks whether a file contains a tag.
