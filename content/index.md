@@ -6,4 +6,4 @@ title: Perdicis Notes
 
 Hey, welcome to my personal wiki. It's under construction.
 
-In the meantime, you should visit [[Stuff you the reader might like]] - I designed that page as an intro to this site.
+In the meantime, you should visit [[Stuff you the reader might like]] -- I designed that page as an intro to this site.
