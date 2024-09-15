@@ -23,3 +23,8 @@ Update [[2024-05-14]]: Also https://www.sfirl.com , https://cerebralvalley.ai
 
 [[2024-06-28]]: https://agihouse-app.web.app/events AGI hackathons in SF get posted here
 
+[[2024-09-09]]: https://hayesvalleyartworks.org/ for art events in Hayes
+
+
+
+

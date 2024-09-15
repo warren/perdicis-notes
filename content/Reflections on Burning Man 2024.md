@@ -25,9 +25,8 @@ _The insane line to get in typically gets bashed first (not my pic)_
 However in doing so, news outlets miss the more substantive, interesting, and frankly representative things worth knowing about Burning Man.
 
 ### The more interesting elephants
-During my brief residence in Black Rock City (the name given to the temporary city erected around the Man in Black Rock Desert), I visited:
+During my brief residence in Black Rock City (the name given to the temporary city erected around the Man in Black Rock Desert), I visited among other things:
 - A movie theatre.
-- A hair salon.
 - A fully functional postal system.
 - A jewelry store, offering hundreds of bracelets, necklaces, earrings, ... for free
 - A bagel deli, complete with vegan and vegetarian options, coffee, and tea.
@@ -36,21 +35,19 @@ During my brief residence in Black Rock City (the name given to the temporary ci
 - A [[Flow|Flow arts]] camp.
 - A library, offering book leases lasting 1 year -- until next year's Burn.
 - A therapist camp, with a licensed therapist(s?) offering drop-in 1-on-1 sessions.
-- An astronomy-themed camp, complete with telescopes and speakers.
 - A pancake house powered by solar power.
 - A matcha latte cafe.
 - A mathematics-themed camp that serves pi(e) every day at 3:14pm.
 
-And that's just a few. This isn't even counting the art installations!
+### A better definition of Burning Man
+Given that wholesome content like the above comprises the majority of activity at Burning Man, a more accurate catch-all definition is more like the following, how my camp lead described it:
 
-### So, what is Burning Man?
-Ben, my camp's lead in 2024, described it thusly:
 > "Burning Man is a **potluck** where you can bring literally anything."
 
-I agree with Ben's take. Some people bring loads of alcohol, period-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all this stuff is equally cool, and it's always offered for free. Even those who attend just for the partying are here bringing their genuine self to those parties and contributing positive energy. Which is lovely. Virtually everywhere in Black Rock City has a welcoming atmosphere because virtually everyone has something nice to offer you: personal trinkets, camp amenities, or just a good vibe. Unsurprisingly, the default greeting here is a hug (given with consent), not a handshake.
+I like this framing. Some people bring loads of alcohol, period-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all of it is equally cool, and it's always offered for free. Even those who attend just for the partying are here bringing their genuine self to those parties and contributing positive energy. Which is lovely. Virtually everywhere in Black Rock City has a welcoming atmosphere because virtually everyone has something nice to offer you: personal trinkets, camp amenities, or just a good vibe. Unsurprisingly, the default greeting here is a hug (given with consent), not a handshake.
 
 ## Stuff I did day to day
-What does one do at this potluck? Burn a man? Yes (but only on Saturday).
+What does one do at this potluck? Burn a man? Yes but only on Saturday.
 
 > [!warning] Btw, images are buggy on this website
 > If they're not loading, you can see the complete list of photos in [this Google Photos album](https://photos.app.goo.gl/zMc8dnKfAimNidHg8). You should read the article first tho
@@ -222,10 +219,10 @@ _... complete with a chunky library computer_
 _Nonsense signage_
 
 ![[PXL_20240826_231050043.MP.jpg]]
-_Horchata and melon snow cones! Also pictured: our drivers licenses taped to our personal cups. It's typical at BRC to do this to make it easier on bartenders about to serve you alcohol_
+_Horchata and melon snow cones! Also pictured: our drivers licenses taped to our personal cups. It's typical at BRC to do this to make it easier on bartenders serving you alcohol_
 
 ![[PXL_20240901_005132251.MP.jpg]]
-_Infinite Love's camper mailboxes. There's no reception at the burn, so if a visitor drops by your camp while you're out roaming, their best bet to connect with you is leaving a note in your mailbox suggesting a meetup time/place_
+_Infinite Love's camper mailboxes. There's no reception in BRC, so if a visitor drops by your camp while you're out roaming, their best bet to connect with you is leaving a note in your mailbox suggesting a meetup time/place_
 
 ![[PXL_20240831_012620873.MP.jpg]]
 _Taco-o-caT, whose sign indicates they're aware of the palindrome (nice)_

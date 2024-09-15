@@ -40,6 +40,7 @@ Working on
     - this is really close to the pivot
 - [[2024-07-29]]: behind passes then reorienting your whole body to match the staff is easy and underrated 
     - Also kept learning the pivot and it's super fun
+- [[2024-09-11]]: (probably) fishtail into Angel roll
 
 
 
