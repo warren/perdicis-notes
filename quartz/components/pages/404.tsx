@@ -12,6 +12,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
       <p>Either this page is private or it doesn't exist.</p>
       <p>If you suspect it exists, ask me about it! I typically refrain from publishing my daily journal and other certain pages due to the risk of web scrapers making my ephemeral thoughts permanent, not because I dislike sharing with friends.</p>
       <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+      <p>TODO: Add a button to visit a random article here</p>
     </article>
   )
 }
