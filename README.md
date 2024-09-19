@@ -9,7 +9,7 @@ Against Quartz's recommended setup, I do all my note-taking outside of this repo
 My workflow looks like this:
 
 1) I write in my Obsidian vault like normal. If there's a note I want to publish, I tag it with `#publish` (every article you see here has that tag somewhere).
-2) When it's time to publish, I run `python3 misc/get_notes.py` and then `npx quartz sync`.
+2) When it's time to publish, I run `rm /content/*` , `python3 misc/get_notes.py` , and then `git restore content/index.md`. Then `npx quartz sync`. TODO: Write a script to do this all at once.
 3) Goto 1
 
 Refreshingly simple!
