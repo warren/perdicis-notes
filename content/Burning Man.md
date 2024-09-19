@@ -14,4 +14,4 @@ Related notes:
 - [[Reflections on Burning Man 2024]]
 - [[Burning Man prep guide]]
 
-Random video but this is a nice view of what plays looks like from the ground: https://youtu.be/TasWKFbHJns
+Random video but this is a nice view of what playa looks like from the ground: https://youtu.be/TasWKFbHJns
