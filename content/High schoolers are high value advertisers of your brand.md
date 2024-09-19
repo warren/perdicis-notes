@@ -3,7 +3,7 @@
 #needswork
 Opened [[2024-06-02]] from a conversation I had at a party [[2024-04-30]].
 
-I want to say this belongs in [[Musings on tech]], but it's more like a tweet-sized thought.
+I want to say this belongs in musings on tech, but it's more like a tweet-sized thought. More like [[Musings on everything else]]
 
 The tweet goes thusly:
 - Hiring influencers to advertise your brand is expensive (O(100s) of USD)

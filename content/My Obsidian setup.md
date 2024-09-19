@@ -14,8 +14,9 @@ On my PC:
 
 On my Android:
 - I have [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) installed and configured to sync my phone's Waulter directory to GDrive every 2 hours. I originally had it sync "on file change", but that proved to be glitchy and cause a lot of tedious merge conflicts. DriveSync only lets you sync one folder which is all I need.
-	- [[V-Day]] was triggered by a fucked up combination of factors. Overall takeaway: be aware that google drive fucks with your file names and slices up your vault into tiny .zip files instead of a big .zip.
-- Also disabled battery optimization for the Android app on [[2023-09-26]]; otherwise it'll force the app to fully restart each time. Hopefully this doesn't annihilate my battery.
+	- [[V-Day]] was triggered by a SNAFU combination of factors. Overall takeaway: be aware that Google Drive modifies your file names and slices up your vault into tiny .zip files instead of a big .zip.
+- Also, disabled battery optimization for the Android app on [[2023-09-26]]; otherwise it'll force the app to fully restart each time. Hopefully this doesn't annihilate my battery.
+    - Ongoing issue as of [[2024-09-13]]. Still unsure how to fix.
 
 ## Community Plugins
 These need to be installed and configured on both PC and mobile separately.
@@ -64,5 +65,5 @@ This one was annoying to set up. The `&heading=wololo` wasn't necessary until so
 
 ![[Screenshot_20230421-102157.png]]
 
-I don't even know what's going on here; it's not quite a search UI nor is it a backlinks page (it looks like it's performing a search for the current date, 4/21). Weird. Anyways, it turns out Advanced URIs opens all pages like this if you previously had a session open to the same page. Adding a bogus header like `wololo` overrides whatever special logic gets triggered for "open the same file that was open in a previous session."
+Not sure what's going on here; it's not quite a search UI nor is it a backlinks page (if I had to guess, it looks like Obsidian is performing a search for the current date, 04/21). Weird. Anyways, it turns out Advanced URIs opens all pages like this if you previously had a session opened to the same page. Adding a bogus header like `wololo` overrides whatever special logic gets triggered for "open the same file that was open in a previous session," so that's what I'm doing.
 

@@ -302,7 +302,7 @@ Back at camp, I was in charge of a few jobs. These helped to ground me by keepin
 
 Other miscellaneous highlights from the week:
 - Spinning contact staff before dinner and teaching other folks some of the basics. I brought several staves and got some good use out of them. Also, spinning for 2 hours straight outside Titanic's End one night.
-- [Spinning fire](https://photos.app.goo.gl/G8zmq8GMVtnHtTcdA) for the first time. My campmate Mitch lent me his fire staff and fuel. This was awesome and I 10/10 want to do it again.
+- [Spinning fire](https://photos.app.goo.gl/9JULPnBJZsXMqpKr7) for the first time. My campmate Mitch lent me his fire staff and fuel. This was awesome and I 10/10 want to do it again.
 - Sound bath near the trash fence
 - Penguin lounge, a camp in a super convenient location on Esplanade serving snow cones 11-5pm
 - The meditative opening and closing ceremonies for Infinite Love, which acclimated us to feeling close to 64 fellow humans. 

@@ -14,25 +14,4 @@ Related notes:
 - [[Reflections on Burning Man 2024]]
 - [[Burning Man prep guide]]
 
-
-## Notes
-#### Kim's advice from [[2024-03-26]]
-She carries multiple gifts to people of a wide range of quality. She's camped for 8 years; this will be her 9th!
-
-Gifts to the playa ideas/things she's done:
-- Fancy lip balm (people's lips get chapped)
-- Carabiner-ed gifts for easy carry
-- Water sprayers to cool down
-- Masks that look pretty since ppl lose theirs?
-- Cooling towels: special kind of towel you can wet, shake, and they are cool
-
-She brings 2 thermoses. One is fancy and nice which she keeps at the camp. One is carabiner-ed to her as she walks around.
-
-Camps she's camped with:
-- Moon cheese, they do something related to cheese at midnight
-- Gravity: they make a big disco ball with DJs and bar. She did this last year. Maybe will again?
-- Some Googler-started camp that does giant fire structures
-
-There's some mingling events happening rn that I might want to attend to find a themecamp.
-
-
+Random video but this is a nice view of what plays looks like from the ground: https://youtu.be/TasWKFbHJns
