@@ -30,4 +30,8 @@ I'm going to [[Publishing this vault|publish Waulter]] soon and open my second b
 
 
 ## Appendix
+### A note
 Honestly, this list is really incomplete. A fun way to discover more pages is slamming the "Random article" button. Idk how to link that here easily so I'll put it in the 404 page, which you can reach by typing nonsense into your browser bar after the forward slash, like `notes.perdicis.com/Nonsense` 
+
+### Source code
+https://github.com/warren/perdicis-notes

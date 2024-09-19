@@ -13,7 +13,7 @@ Sharded out of [[Musings]].
 - [[What are dreams for]]
 - [[Reflections on Burning Man 2024]]
 - [[What the heck happened to mobile gaming]]
-- [[Coin flips at work]]
+- [[Improved geolocation devices]]
 
 ## Semi-written
 - [[Modern art exists because of financial loopholes]]
@@ -21,6 +21,7 @@ Sharded out of [[Musings]].
 - [[Kelly Criterion]] - see [[2022-12-30]]; this one is basically written and just needs to be ported
 - [[Musical Main Characters in ToTK]]
 - [[The spectrum of food formality]]
+- [[High schoolers are high value advertisers of your brand]]
 
 
 ## Unwritten

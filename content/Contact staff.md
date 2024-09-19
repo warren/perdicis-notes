@@ -5,6 +5,8 @@ aliases: Big stick
 #publish 
 A type of [[Flow]] prop. Opened [[2024-06-26]].
 
+Related to [[Improved NeoFlowArt documentation]].
+
 ## Tricks in the order I learned them
 Also http://flowarts.me/tutorials/contact-staff/ looks useful
 
@@ -81,6 +83,7 @@ But can't justify a purchase (yet).
     - breaks into 3 pieces for travel
     - pretty lights
     - Unsure how brittle/fall resistant this is?
+    - ... jk I bought this and it arrived [[2024-09-17]]
 - https://neoflowart.com/led-contact-staff/ spectrum staff
     - $200 :)
     - Lights aren't as cool but still pretty

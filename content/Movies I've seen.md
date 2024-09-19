@@ -66,6 +66,10 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
 - (!) Knives out
 - Knives out sequel
     - Meh.
+- The Sympathizer
+    - Falls into the horror movie trap of `amazingly strong premise + too many shock scenes = disappointing ending that can't explain itself`
+    - Lots of frustratingly inconsequential plot threads
+    - Sub par casting decisions imo. Especially Robert Downey Jr playing 5 characters for, literally, no really, literally no reason other than probably to Oscar bait us.
 
 
 ## Movies I've seen _and strongly recommend_

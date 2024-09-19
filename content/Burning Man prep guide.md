@@ -17,11 +17,22 @@ Just lmk! Writing stuff is fun and if I can help >=1 person I'll do it.
 
 
 
-### (Ignore) The play-by-play of burn prep
-The rough timeline looks like this.
-- Late March 2024: First considered attending the burn
-- [[2024-04-20]]: Volunteered pro bono party photography for Infinite Love, the camp I would eventually join
-- TODO: Officially accepted and committed to the camp
-- TODO: Planned out which camper roles I'll be taking charge of
-- [[2024-08-24]]: Caught the bus to Black Rock City.
-- [[2024-09-02]]: Caught the bus back to San Francisco.
+### (Ignore) Notes to myself from before I attended
+#### Kim's advice from [[2024-03-26]]
+She carries multiple gifts to people of a wide range of quality. She's camped for 8 years; this will be her 9th!
+
+Gifts to the playa ideas/things she's done:
+- Fancy lip balm (people's lips get chapped)
+- Carabiner-ed gifts for easy carry
+- Water sprayers to cool down
+- Masks that look pretty since ppl lose theirs?
+- Cooling towels: special kind of towel you can wet, shake, and they are cool
+
+She brings 2 thermoses. One is fancy and nice which she keeps at the camp. One is carabiner-ed to her as she walks around.
+
+Camps she's camped with:
+- Moon cheese, they do something related to cheese at midnight
+- Gravity: they make a big disco ball with DJs and bar. She did this last year. Maybe will again?
+- Some Googler-started camp that does giant fire structures
+
+There's some mingling events happening rn that I might want to attend to find a themecamp.
