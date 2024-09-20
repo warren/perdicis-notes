@@ -3,12 +3,11 @@
 #publish 
 Related to [[Musings on philosophy]].
 
-This is episode #295 of Making Sense. I listened to it while cutting my hair on [[2023-09-15]].
+This is episode #295 of Making Sense. I listened to it while [[Cutting my own hair]] on [[2023-09-15]].
 
 ## Summary
 - Sam Harris talks to Kieran Setiya, an MIT philosophy professor, about moral ethics.
-- Sam drags the topic back to existentialism a lot and rambles. I don't mind it that much.
-
+- Sam drags the topic back to existentialism a lot, and rambles, but I don't mind it much.
 
 ## What stuck with me
 - The idea of [[Telic and atelic activities]].

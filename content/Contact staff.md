@@ -43,6 +43,24 @@ Working on
 - [[2024-07-29]]: behind passes then reorienting your whole body to match the staff is easy and underrated 
     - Also kept learning the pivot and it's super fun
 - [[2024-09-11]]: (probably) fishtail into Angel roll
+- [[2024-09-19]]:
+    - Angel roll into neck wrap and then reverse Steve
+    - conveyor -> pivot -> fishtail??
+    - Second half of conveyor -> many things. Thrust? Idk how to make it look cool and not like a near drop but there is probably a way
+    - Tip for the pivot: chicken wings on both sides
+    - Tip for fishtails: be patient, wait before pulling up
+    - Tip for angel roll: stick head forward (?)
+
+### Full choreo routines (WIP)
+First try
+1) Front plane reverse figure 8
+2) turn body
+3) rotor
+4) advanced figure 8 in left hand
+5) left handed conveyor -> pivot into left hand
+6) fully extend & pause
+7) neck wrap into prayer Steve
+    8) tip: really exaggerate this movement, it helps
 
 
 

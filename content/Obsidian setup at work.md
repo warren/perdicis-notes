@@ -1,7 +1,7 @@
 # Obsidian setup at work
 #publish 
 #needswork: Finish writing this
-Opened [[2024-07-30]].
+Opened [[2024-07-30]]. Related to [[My Obsidian setup]]
 
 TODO: Finish writing this.
 
