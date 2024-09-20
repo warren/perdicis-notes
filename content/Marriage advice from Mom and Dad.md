@@ -2,7 +2,7 @@
 #publish
 Opened [[2024-06-10]] retroactively. Related to [[Views on marriage]], and I guess [[Musings on everything else]].
 
-When I RSVP'ed to Anthony's wedding on [[2023-02-11]] I was asked to recount the best marriage advice I'd ever heard. I wasn't sure I'd even heard any, so I asked Mom and Dad. They said something about toothpaste, and another thing. I forget exactly what, but this was response I gave:
+When I RSVP'ed to Anthony's wedding on [[2023-02-11]] I was asked to recount the best marriage advice I'd ever heard. I don't recall hearing any, so I asked Mom and Dad for theirs. They said something about toothpaste, and another thing. I forget exactly what, but this was response I ended up typing in my RSVP to Anthony's wedding:
 
 > For raising kids:
 > 

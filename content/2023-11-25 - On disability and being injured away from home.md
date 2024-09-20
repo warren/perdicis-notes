@@ -2,12 +2,12 @@
 #publish
 Written [[2023-11-25]]. Part of [[Musings on philosophy]].
 
-My 26th birthday present was a back injury. I lifted some weights wrong at a hotel gym visiting New Jersey, then, suddenly, _pop_ - the ground is really comfortable and I'd like to keep both knees at 90 degree angles while I'm down here please.
+My birthday present this year was a herniated disc in my back. I was lifting some weights in our family's New Jersey hotel room when suddenly, pop - lying down is suddenly _way_ more comfortable than standing. Both knees at 90 degree angles while I'm down here please.
 
-A herniated disc is such a suitable injury to mark a birthday occasion, too. How better to symbolize one's late 20s[^1] than googling medical questions about your back?
+Getting a back injury on your 26th birthday is such a symbolic thing, too. 26 means I'm officially in my late 20s[^1] and already I'm googling medical questions about my back!
 
 ![[20231124_191040-COLLAGE.jpg]]
-_In the morning, I walk on 0 legs. In the afternoon, 0. in the evening, still 0. Which in-network doctors are open tonight?_
+_In the morning, I walk on 0 legs. In the afternoon, 0. in the evening, still 0. Are there any in-network doctors in my area?_
 
 Having been floor-ridden for 24+ hours, I reflect on several things...
 

@@ -67,3 +67,6 @@ This one was annoying to set up. The `&heading=wololo` wasn't necessary until so
 
 Not sure what's going on here; it's not quite a search UI nor is it a backlinks page (if I had to guess, it looks like Obsidian is performing a search for the current date, 04/21). Weird. Anyways, it turns out Advanced URIs opens all pages like this if you previously had a session opened to the same page. Adding a bogus header like `wololo` overrides whatever special logic gets triggered for "open the same file that was open in a previous session," so that's what I'm doing.
 
+## Appendix
+If I ever need clickable graphs, [mermaid](https://www.reddit.com/r/ObsidianMD/s/vP5fBlGx3Q) seems really cool 
+

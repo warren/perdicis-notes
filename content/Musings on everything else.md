@@ -1,28 +1,38 @@
 # Musings on everything else
 #publish 
-#needswork  - format/polish
 Sharded out of [[Musings]].
 
 ## Written
+My writing
 - [[Forbes articles written by contributors are basically clickbait]]
-- [[DTC fashion brands and dropshipping]]
 - [[History of chocolate]]
-- [[Reflections on The Commons]]
-- [[San Francisco map explained]]
 - [[Why Chinese investors throw so much money into real estate]]
-- [[What are dreams for]]
-- [[Reflections on Burning Man 2024]]
 - [[What the heck happened to mobile gaming]]
+- [[San Francisco map explained]]
+- [[Reflections on The Commons]]
+- [[DTC fashion brands and dropshipping]]
+- [[Reflections on Burning Man 2024]]
 - [[Improved geolocation devices]]
+
+Media review
+- [[What are dreams for]]
+
+Misc notes
+- [[Mom's advice for redeye flights]]
+- [[Marriage advice from Mom and Dad]]
+- [[Trick Mirror]]
+- [[Entoptic hallucination]]
+- [[Choosing a pair of skis]] / [[Choosing a pair of ski boots]]
+- [[Where does Apple maps source its images]]
+- [[Arguments against Christian life after death]]
 
 ## Semi-written
 - [[Modern art exists because of financial loopholes]]
 - [[Ghost kitchens]]
-- [[Kelly Criterion]] - see [[2022-12-30]]; this one is basically written and just needs to be ported
+- [[Kelly Criterion]] - see [[2022-12-30]]; this one is basically written and just needs to be ported from Google Keep
 - [[Musical Main Characters in ToTK]]
 - [[The spectrum of food formality]]
 - [[High schoolers are high value advertisers of your brand]]
-
 
 ## Unwritten
 - [[Warren's long burgers]]
@@ -34,15 +44,3 @@ Sharded out of [[Musings]].
 - [[The fitness enthusiast's guide to eating out in SF]]
 - [[Hysteresis]]
 - [[A causal test of the strength of weak ties]]
-
-
-## Misc notes
-- [[Arguments against Christian life after death]]
-- [[Where does Apple maps source its images]]
-- [[Mom's advice for redeye flights]]
-- [[Marriage advice from Mom and Dad]]
-- [[Trick Mirror]]
-- [[What are dreams for]]
-- [[Entoptic hallucination]]
-- [[Choosing a pair of skis]] / [[Choosing a pair of ski boots]]
-
