@@ -4,6 +4,9 @@ Opened [[2024-03-01]], for my housewarming.
 
 https://www.diffordsguide.com/ contains good resources.
 
+## Non-basics
+- [[Double Chicken Please No. 10]] ... my fav alcohol-optional cocktail
+
 ## Basics
 TODO: Move martini vs margarita etc into the articles, they can all just use coupe glasses.
 ### Cocktails
