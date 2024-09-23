@@ -17,16 +17,18 @@ Media review
 - [[The Machine Stops]]
 - [[Philosophy and the Good Life with Sam Harris]]
 
+Bite-sized
+- [[Gell-Mann Amnesia]]
+
 ## Semi-written
 - [[The human knowledge horizon]]
 - [[Beyond the Turing Test]] / [[Defining intelligence]]
 - [[Rough edges]]
 
 ## Unwritten
-- [[Gell-Mann Amnesia]]
 - [[Selective ignorance]]
 - [[The Sinusoid]] / Happiness in life / [[The good life]]
-- [[Determinism]], [[Free will]], and [[The cosmic computer]]
+- [[Determinism]] and [[Free will]]
 - [[Jhanas and the Dark Room Problem]]
 - [[Towards an objective definition of art]]
 - [[Argument against scientific determinism]]
