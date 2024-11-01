@@ -2,7 +2,7 @@
 _by The Joy Formidable_
 #publish 
 
-Opened [[2024-05-23]] on behalf of [[2023-02-23]]. Backlink: [[Poems and literature I like]]
+Opened [[2024-05-23]] on behalf of [[2023-02-23]]. Backlink: [[Poetry and literature I like]]
 
 I love this song. It's on both my workout and main playlist.
 

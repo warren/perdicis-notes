@@ -5,7 +5,7 @@ Opened [[2024-05-25]], to consolidate a few articles.
 
 Related to:
 - [[Improving at art]]
-- [[Obsidian art project]] (kind of?)
+- [[Obsidian art project]]
 - [[My Procreate brushes]]
 
 TODO: Add info from https://perdicis.com/art here, then delete that page

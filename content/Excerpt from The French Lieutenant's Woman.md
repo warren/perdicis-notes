@@ -1,6 +1,6 @@
 # Excerpt from The French Lieutenant's Woman
 #publish
-Opened [[2024-06-10]], but I originally bookmarked this for myself on 2017-06-11. It's actually at Dad's recommendation, I think. From [[Poems and literature I like]].
+Opened [[2024-06-10]], but I originally bookmarked this for myself on 2017-06-11. It's actually at Dad's recommendation, I think. From [[Poetry and literature I like]].
 
 (Excerpt from "The French Lieutenant's Woman", published in England in 1969)  
   

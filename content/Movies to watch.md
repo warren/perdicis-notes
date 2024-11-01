@@ -103,6 +103,8 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - [ ] 20 days in Mariupol - 2024 Oscar winning documentary
 - [ ] Megapolis - Francis Ford Coppola (director and co-writer on the Godfather) released this $120M, self-funded film that isn't even being shown in the USA (as of [[2024-05-21]] due to a real human presenter needing to interact with the on-screen actors at every showing. Sounds semi-pretentious and at the very least, interesting.
 - [ ] Didi - rec by Christie among other ppl 
+- [ ] Memories of murder - bong joon ho rec by Rudy. It's on Netflix
+- [ ] lotr
 
 
 ### Trash movies to watch while multitasking
@@ -117,3 +119,4 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - Ministry of ungentlemanly warfare
 - scavengers reign
 - blue eye samurai
+- severance

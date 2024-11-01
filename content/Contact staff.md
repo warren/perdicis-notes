@@ -50,6 +50,8 @@ Working on
     - Tip for the pivot: chicken wings on both sides
     - Tip for fishtails: be patient, wait before pulling up
     - Tip for angel roll: stick head forward (?)
+- [[2024-09-26]]
+    - tip for Angel roll: let it fully tower over you and gently come hither it
 
 ### Full choreo routines (WIP)
 First try

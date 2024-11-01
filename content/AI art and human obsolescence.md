@@ -97,9 +97,15 @@ Individual artists came next, pushing forward weird movements like impressionism
 
 Between then and now, art has become increasingly accessible. AI will make it even more so.
 
+[[2023-12-01]]: Thoughts on formalism.
 
+[[2024-10-15]]: Scott Alexander posted an AI art turing test: https://docs.google.com/forms/d/e/1FAIpQLSdqpfY0OXLQoO_UNkhKTAtQbmh8EX_xpAAaGV6mxlBDms9CzQ/viewform
 
+5- but a reluctant 5, because there's plenty unethical about where these models come from. That being said: any answer other than 5 feels a little disingenuous, unless the respondent rejects artistic formalism entirely (i.e. they believe art must always be judged as a product of its historical or author's context).
 
+To criticize AI art as bad while confusing it for human art is basically admitting that human art _can_ be bad just as AI art _can_ be good. Which seems like a perfectly valid take. But -- if that's your take -- I think you'd have to vote 5 here.
+
+[[2024-10-26]] Here it is happening in real time! https://www.reddit.com/r/ChatGPT/s/rX3lZza8SN someone knows it's AI art and appreciates it all the same. The comments are a minefield
 
 
 

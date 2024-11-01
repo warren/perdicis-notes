@@ -1,6 +1,6 @@
 # My tech setups
 #publish 
-_Tangentially related to [[Productivity]]._
+Tangentially related to [[Productivity]].
 
 Meta page.
 

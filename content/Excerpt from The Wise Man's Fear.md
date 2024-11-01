@@ -1,6 +1,6 @@
 # Excerpt from The Wise Man's Fear
 #publish
-Opened [[2024-06-10]], but I originally bookmarked this for myself on 2017-08-25. From [[Poems and literature I like]].
+Opened [[2024-06-10]], but I originally bookmarked this for myself on 2017-08-25. From [[Poetry and literature I like]].
 
 > Think of music as being a great snarl of a city [...]. In the years I spent living there, I came to know its streets. Not just the main streets. Not just the alleys. I knew shortcuts and rooftops and parts of the sewers. Because of this, I could move through the city like a rabbit in a bramble. I was quick and cunning and clever.  
 > 

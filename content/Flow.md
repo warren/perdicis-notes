@@ -16,4 +16,6 @@ Flow arts is basically just dancing with an object. Any object works. But some o
 - https://flowartsinstitute.com/festivals/ festivals for flow 
 - https://andrewnoske.com/wiki/Fire_Dancing_-_Bay_Area
 - https://flowtoys.com/events
+- https://seattleflowarts.org/calendar/
+- https://linktr.ee/seattleflowarts?fbclid=PAZXh0bgNhZW0CMTEAAabi8pP-TziGU86XA48mFJ77oiS9QQT3KGGX1LLVE9zSMp2QwMoDNr21ZPY_aem_ddUsqIJo7A5-dozkS_xW_A
 

@@ -25,6 +25,9 @@ Update [[2024-05-14]]: Also https://www.sfirl.com , https://cerebralvalley.ai
 
 [[2024-09-09]]: https://hayesvalleyartworks.org/ for art events in Hayes
 
+[[2024-10-23]]: https://reddit.com/r/SFEvents - looks good for tech sphere networking but I imagine pretty dry for actually interesting events. Seems to be people promoting their parties
+
+
 
 
 

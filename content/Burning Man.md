@@ -15,3 +15,5 @@ Related notes:
 [[2024-08-04]]: [This 2014 post from eplaya.burningman.org](https://eplaya.burningman.org/viewtopic.php?f=286&t=71830#p1043968) is an excellent account of taking the BxB.
 
 [[2024-09-18]]: This is a nice view of what playa looks like from the ground: https://youtu.be/TasWKFbHJns
+
+[[2024-09-26]]: Scenic pictures of the burn taken with an actual camera. Basically just proves dust storms make everything look cooler https://duncan.co/Burning-Man-2024/

@@ -19,4 +19,9 @@ So maybe poor food quality is correlation without causation? Ghost kitchen food 
 ![[Screenshot_20230531-200803.png]]
 _Could you be much more obvious. Also apparently Pearl's is the actual storefront, yet Sam's has more ratings_
 
-Update ([[2024-07-27]]): Had a really good experience with one unexpectedly. Should I update this article? I have google photos pics from that day.
+Update ([[2024-07-27]]): Had a really good experience with one unexpectedly. It was called Kumo Kitchen. Should I update this article? I have google photos pics from that day.
+
+Update ([[2024-10-20]]): Kumo Kitchen is CLOSED permanently:
+
+![[Screenshot_20241020-175249.png]]
+_RIP king_

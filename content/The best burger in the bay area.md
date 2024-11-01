@@ -26,8 +26,9 @@ Using [[My food rating system]] to set ratings. All burgers are cooked medium ra
 | [[SPRO Coffee Lab]]               | 7.5/10             | 1.75                   | $13       |
 | [[The Fly Trap]]                  | 3/10               | 0                      | $19       |
 | [[Chez Maman]]                    | 7/10               | 1                      | $22       |
-| [[Arbor]]                         | 5/10               | 0.25                   | $17       |
+| [[Arbor]]           | 5/10               | 0.25                   | $17       |
 
+https://sfstandard.com/2024/09/30/best-burgers-san-francisco/ has a neat bucket list
 
 ## Philosophy behind these ratings
 It's hard to rate a burger definitively "X/10" because burgers have a wide variety of ingredients and degrees of fanciness - you're often not comparing the same type of burger to the next.

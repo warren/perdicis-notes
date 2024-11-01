@@ -1,6 +1,6 @@
 # My terminal setup
 #publish 
-Opened [[2024-04-12]]. Although this is mostly from September 24, 2018... wow
+Opened [[2024-04-12]]. Although this is mostly from September 24, 2018. Related to [[My tech setups]].
 
 Basic setup is iTerm 2 + zsh. I also added:
 

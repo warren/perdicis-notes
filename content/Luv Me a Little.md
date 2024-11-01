@@ -1,6 +1,6 @@
 # Luv Me a Little
 #publish
-Opened [[2024-09-19]]. Originally wrote this down [[2024-02-02]]. Related to [[Poems and literature I like]].
+Opened [[2024-09-19]]. Originally wrote this down [[2024-02-02]]. Related to [[Poetry and literature I like]].
 
 [Spotify link](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT)
 

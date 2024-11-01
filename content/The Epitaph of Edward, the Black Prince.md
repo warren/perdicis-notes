@@ -1,6 +1,6 @@
 # The Epitaph of Edward, the Black Prince
 #publish
-Opened [[2024-06-10]], but I originally bookmarked this for myself on 2017-06-1. From [[Poems and literature I like]].
+Opened [[2024-06-10]], but I originally bookmarked this for myself on 2017-06-1. From [[Poetry and literature I like]].
 
 > Whoso thou be that passeth by;  
 > Where these corps entombed lie:  

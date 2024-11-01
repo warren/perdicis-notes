@@ -1,6 +1,6 @@
 # Portuguese Man of War
 #publish
-Opened [[2024-06-10]]. From [[Poems and literature I like]].
+Opened [[2024-06-10]]. From [[Poetry and literature I like]].
 
 It's off the Blue Planet 2 soundtrack but it's kinda awesome.
 - [YouTube link](https://www.youtube.com/watch?v=d2dSUu8KetQ)

@@ -1,6 +1,6 @@
 # Articles I like
 #publish
-Opened [[2023-12-07]] but I should have done it way sooner. Related to [[Poems and literature I like]].
+Opened [[2023-12-07]] but I should have done it way sooner. Related to [[Poetry and literature I like]].
 
 ## Articles
 ### Thought-provoking
@@ -8,9 +8,6 @@ Opened [[2023-12-07]] but I should have done it way sooner. Related to [[Poems a
 - [On the Internet no one knows you're a god](https://www.drorpoleg.com/on-the-internet-nobodys-knows-youre/) - real life anecdote about how real online personas can be
 - [Hunter Thompson's letter to Hume Logan, 1958](https://fs.blog/hunter-s-thompson-to-hume-logan/) - I think about this one a lot. He was only 22 when he wrote it.
 - [A Cult of Ignorance](https://aphelis.net/wp-content/uploads/2012/04/ASIMOV_1980_Cult_of_Ignorance.pdf) - Isaac Asimov being edgy in 1980
-- Qntm
-    - [Lena](https://qntm.org/mmacevedo) - Sci fi short story about uploaded intelligence written in the style of a future Wikipedia article. 
-    - [If you are reading this](https://qntm.org/readin)- Believable "that really happened" sci fi personal anecdote
 - [Your Real Biological Clock Is You’re Going to Die](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/) - Bit of a morbid topic but an excellent reframing of what it means to be a parent and how one should measure their time left on Earth
 - https://www.newyorker.com/news/news-desk/curiosity-and-the-prisoner - Commencement speech about curiosity and what equality really means
 - [ACX: The Far Out Initiative](https://www.astralcodexten.com/p/profile-the-far-out-initiative) - Related to the [[The Sinusoid]]. Scott analyses the Far Out Initiative.
@@ -43,4 +40,4 @@ _Nothing special, I just don't want to forget these exist._
 - [https://soranews24.com/2022/06/23/is-roughly-half-of-japan-preconditioned-to-hate-mint-chocolate-sweets/](https://soranews24.com/2022/06/23/is-roughly-half-of-japan-preconditioned-to-hate-mint-chocolate-sweets/) fascinating and hella specific article about Japanese preferences for mint chocolate chip ice cream where a city had 10% fondness for it. Relevant to [[Nature vs nurture]]
 
 ## Appendix
-This page is sort of related to [[Internet roasts]], lol.
+This page is sort of related to [[Internet roasts]].
