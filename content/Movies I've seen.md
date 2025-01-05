@@ -70,6 +70,11 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
     - Falls into the horror movie trap of `amazingly strong premise + too many shock scenes = disappointing ending that can't explain itself`
     - Lots of frustratingly inconsequential plot threads
     - Sub par casting decisions imo. Especially Robert Downey Jr playing 5 characters for, literally, no really, literally no reason other than probably to Oscar bait us.
+- (!) Arcane
+    - 250M budget is absurdly huge
+    - Suffers from Spider-Man: Into the Spiderverse syndrome where any still from the show could be made a wallpaper. Fortiche's worldbuilding is beautiful.
+- [[The Substance]]
+    - I didn't like this movie.
 
 
 ## Movies I've seen _and strongly recommend_

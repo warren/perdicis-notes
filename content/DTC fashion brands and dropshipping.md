@@ -39,9 +39,9 @@ I googled around to get the internet's take on Kidoriman. The very first result 
 
 > I got bought a pair of their pants for xmas, and although they are nice, i was suspicious of the cotton/linen claim as they feel more like polyester. when i checked the pants themselves, i found no labelling at all, which is illegal in pretty much every country in the world. All garments have to have materials information and care instructions by law.
 
-Yeah, so at this point it's pretty obvious that the brand is Chinese not Japanese and they're running an illegal clothing business. Ok, that's fine. But it raised so many questions in my mind: how does this borderline scam operation work? And how many other untouched Instagram ads do I get for this sort of thing?
+Yeah, so at this point it's pretty obvious that the brand is Chinese not Japanese and they're running an illegal clothing business. Ok, that's fine. But l how does this borderline scam operation work? And how many other untouched Instagram ads do I get for this sort of thing?
 
-How much of direct-to-consumer fashion brands are scams like this?
+How many direct-to-consumer fashion brands are scams like this?
 
 Honestly idk and I lost interest partway through looking into this but let me wrap up the story.
 
@@ -57,9 +57,7 @@ I guess they just order big, sprinkle a little bit of marketing in (i.e. get som
 ### The real joke of it all
 Even after all this I still wanted the hoodie. So I tried buying it and:
 
-![[PXL_20221206_091001586.jpg]]
+![[Pasted image 20250105135337.png]]
 _Card rejected due to fraud._
 
-Welp. Thus ends my rabbit hole adventure.
-
-TODO: Scrub my address from the photo and make this writing less rambly.
+Thank you for coming to my Ted talk.

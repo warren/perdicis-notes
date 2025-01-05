@@ -6,9 +6,6 @@ Sharded out of [[Musings]].
 My writing
 - [[Forbes articles written by contributors are basically clickbait]]
 - [[History of chocolate]]
-- [[Why Chinese investors throw so much money into real estate]]
-- [[What the heck happened to mobile gaming]]
-- [[San Francisco map explained]]
 - [[Reflections on The Commons]]
 - [[DTC fashion brands and dropshipping]]
 - [[Reflections on Burning Man 2024]]
@@ -16,13 +13,17 @@ My writing
 
 Media review
 - [[What are dreams for]]
+- [[Entoptic hallucination]]
+- [[What the heck happened to mobile gaming]]
+- [[San Francisco map explained]]
+- [[Why Chinese investors throw so much money into real estate]]
 
 Misc notes
+- [[California car names]]
+- [[Choosing a pair of skis]] / [[Choosing a pair of ski boots]]
+- [[Black coffee]]
 - [[Mom's advice for redeye flights]]
 - [[Marriage advice from Mom and Dad]]
-- [[Trick Mirror]]
-- [[Entoptic hallucination]]
-- [[Choosing a pair of skis]] / [[Choosing a pair of ski boots]]
 - [[Where does Apple maps source its images]]
 - [[Arguments against Christian life after death]]
 
@@ -33,10 +34,11 @@ Misc notes
 - [[Musical Main Characters in ToTK]]
 - [[The spectrum of food formality]]
 - [[High schoolers are high value advertisers of your brand]]
+- [[Trick Mirror]]
+- [[Modern art exists because of financial loopholes]]
+- [[Warren's long burgers]]
 
 ## Unwritten
-- [[Warren's long burgers]]
-- [[Modern art exists because of financial loopholes]]
 - [[Lucid dreaming]] / [[How to lucid dream]]
 - [[Every brand will become a lifestyle brand]]
 - [[Fasting]] - check goodnotes on my iPad, I took some detailed thoughts down on it there

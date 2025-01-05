@@ -6,7 +6,7 @@ https://maps.app.goo.gl/SmRk5NB7cLRqvR5T9
 
 ## Drinks
 ### Matcha milk tea // 25% sugar // Default boba
-9.25/10. This is the best boba I've had in months! As I write this, it's second-to-top on the tier list.
+9.5/10. Best boba I've had in months! Hole in the wall boba shop with only enough room for 2 people to stand at a time.
 
 l even believe it might deserve a higher rating. It wasn't fully mixed when I drank it, so the first 2/3 of the drink was perfect followed by 1/3 of rather bitter matcha flavor. I still liked it.
 
@@ -18,3 +18,5 @@ Other things I liked that made it stand out:
 I would 100% come back here. Real hidden gem. The lady at the counter was nice too.
 
 First got this drink on [[2022-11-05]].
+
+Tried it again [[2024-10-19]] and adjusted this rating 9.25->9.5. It's without question the best boba I've had in the city. And again the lady is so nice! She asked how the bitterness level is and if she should add more sugar.

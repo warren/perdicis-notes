@@ -11,7 +11,7 @@ So "telic" activities are those with a destination in sight. If I'm writing an a
 
 Whereas "atelic" activities are those without destination. The process of writing my daily journal doesn't have an end date and I won't run out of things to write. So it's more of a process.
 
-But it gets confusing. I enjoy drawing yet also seek to improve. Is it telic because I focus on getting better? Or atelic because I'm self-compelled to do it?
+But this gets confusing. I enjoy drawing, yet also seek to improve. Is drawing telic because I focus on getting better? Or atelic because I enjoy the act itself? Maybe a bit of both.
 
 
 ## My (light) take

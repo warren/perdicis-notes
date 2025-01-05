@@ -21,3 +21,6 @@ Ammunition is a mishearing of la munition as l'ammunition.
 Also I learned a neat fun fact about Salesforce tower, the lights at the top are actually just reflections. The engineers didn't want to mimic the pixely resolution of times square so they made the LEDs face inwards at the white building so they'd be reflected. Which is why it's always so blurry.
 
 Your shadow on a sunny day is a manifestation of light that, having traveled 94 million miles from the sun unobstructed, was deprived of reaching the ground in the final few feet thanks to you.
+
+AM and PM are Latin: ante meridiem and post meridiem. "Meridiem" means mid-day.
+

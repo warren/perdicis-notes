@@ -40,3 +40,5 @@ _The Independent claiming to have a "report" says more about The Independent, re
 To recap: Somehow, the combination of Sundar's neutral remark and the existing fake Forbes article from 2 weeks prior produced fake news spread all across the front page of Google search. The top article in the Google search results page, from [India Today](https://www.indiatoday.in/technology/news/story/worried-google-employees-ask-sundar-pichai-about-layoffs-this-is-what-the-ceo-said-2308477-2022-12-13), cites Business Insider, who doesn't cite anyone. It's nuts. Smells like [[Gell-Mann Amnesia]].
 
 Honestly, Google will probably conduct layoffs in the new year. But Google has literally never once in the history of the company performed sweeping underperformance-based layoffs. This type of misinformation is dumb and preventable.
+
+Update ([[2024-12-17]]: Woohoo!! https://www.theverge.com/2024/12/17/24322485/forbes-vetted-freelance-google-search-parasite-seo

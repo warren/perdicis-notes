@@ -7,8 +7,9 @@ Longer articles
 - [[How protocol buffers work]]
 - [[Life of a DNS request]]
 - [[My tech setups]] (meta page)
-  - [[My Obsidian setup]]
-  - [[My terminal setup]]
+    - [[My Obsidian setup]]
+    - [[My terminal setup]]
+- [[Blameless postmortems]]
 
 Bite-sized
 - [[Conway's law]]
@@ -17,10 +18,14 @@ Bite-sized
 ## Semi-written
 - [[40% of VC spending goes to Google and Meta]]
 - [[Tech team traditions]]
+- Important SRE/DevOps principles
+    - [[Communicating incident state]]
+    - [[Good alert best practices]]
 
 ## Unwritten
 - [[S2 cells]]
 - [[Post-truth media]]
-- [[SLOs]]
 - [[TCP handshake]]
+- [[Technical postmortems]]
+- [[SLOs]]
 

@@ -2,6 +2,8 @@
 #publish 
 Using [[My food rating system]] to set ratings. All burgers are cooked medium rare where possible.
 
+Related to [[Warren's long burgers]].
+
 ## Reviews
 
 | **Restaurant**                    | **Overall Rating** | **Unusualness Factor** | **Price** |
@@ -26,7 +28,9 @@ Using [[My food rating system]] to set ratings. All burgers are cooked medium ra
 | [[SPRO Coffee Lab]]               | 7.5/10             | 1.75                   | $13       |
 | [[The Fly Trap]]                  | 3/10               | 0                      | $19       |
 | [[Chez Maman]]                    | 7/10               | 1                      | $22       |
-| [[Arbor]]           | 5/10               | 0.25                   | $17       |
+| [[Arbor]]                         | 5/10               | 0.25                   | $17       |
+| [[Cafe Reveille]]                 | 5/10               | 0                      | $17       |
+[[Hazie's]]
 
 https://sfstandard.com/2024/09/30/best-burgers-san-francisco/ has a neat bucket list
 
@@ -52,3 +56,4 @@ Burger-related but I haven't written about yet: [[Warren's long burgers]]
 
 Found [[2023-04-30]]: [The best SF burgers, according to /r/AskSF](https://www.reddit.com/r/AskSF/comments/1341txx/best_burger_in_san_francisco/)
 
+[[2024-12-15]]: New list to visit: https://www.theinfatuation.com/san-francisco/guides/best-burgers-san-francisco

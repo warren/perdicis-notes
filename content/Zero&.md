@@ -4,9 +4,13 @@ Boba store in Hayes Valley. Recording my ratings here as part of [[Best boba ord
 
 ## Drinks
 ### Coconut Zero // 0 calorie sugar "less sweet" // Crystal boba
-9/10. Really good. I would still rate this 9/10 without toppings too, since the drink is full of really fun textrous coconut pulp.
+8.5/10. Really good. I would still rate this 8.5/10 without toppings too, since the drink is full of really fun textrous coconut pulp.
 
 It came in a weird half coconut though. Next time I'll ask them to hold that. It doesn't affect the rating.
+
+Worth noting that this isn't really boba, it's more like a tasty drink that's not too sweet.
+
+NOTE([[2024-11-03]]): Adjusted the rating 9->8.5 to normalize. It's good, but it's not _that_ good, and it's also not really boba.
 
 ### Peach Oolong // 0 calorie sugar "less sweet" // Crystal boba // Hold the pine nuts but keep "signature oatly cloud"
 7.5/10. I could've gotten it more sweet.

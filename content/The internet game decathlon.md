@@ -31,6 +31,7 @@ Games, mostly internet games, which can be used to compete against your friends.
 - [Tradle](https://wordlegame.org/wordle-games/tradle) - guess the country based on its exports
 - [Costcodle](https://costcodle.com/) - guess the price of Costco goods
 - [Bazingle](https://bazingle.wook.wtf/) - wordle but with 7 (glorious) letters
+- Horsle - ...
 
 
 ### Internet games (competitively viable)

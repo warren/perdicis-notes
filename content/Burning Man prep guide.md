@@ -14,7 +14,8 @@ I don't want to be one of those people who writes yet another Burning Man surviv
 
 Just lmk! Writing stuff is fun and if I can help >=1 person I'll do it.
 
-
+### Notes to self
+- Boots: I wore Palladium Baggy boots, size 11.5 USA.
 
 
 ### (Ignore) Notes to myself from before I attended

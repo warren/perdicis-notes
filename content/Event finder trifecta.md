@@ -1,6 +1,6 @@
 # Event finder trifecta
 #publish 
-Came up with this [[2023-11-10]] but only opened the page [[2023-12-03]].
+Came up with this [[2023-11-10]] but only opened the page [[2023-12-03]]. Sort of related to [[Attractions in San Francisco]] because that's where I live at the time of writing.
 
 In a nutshell, by combining:
 - EventBrite
@@ -27,7 +27,10 @@ Update [[2024-05-14]]: Also https://www.sfirl.com , https://cerebralvalley.ai
 
 [[2024-10-23]]: https://reddit.com/r/SFEvents - looks good for tech sphere networking but I imagine pretty dry for actually interesting events. Seems to be people promoting their parties
 
+[[2024-12-12]]: https://bucketlisters.com/explore/city/SF
+
+Also [[2024-12-12]]: Since this article is becoming a dumping ground of stuff to do in the city: [Sofar sounds SF](https://www.sofarsounds.com/cities/san-francisco) does pop-up music shows. YMMV.
 
 
-
+In NYC: https://linktr.ee/earlyburdz?fbclid=PAZXh0bgNhZW0CMTEAAaY7GkEHD0_3xuM4DiO2Ra_jSUUjxCQWOMvtGR78KiJapQ-A8UkI9gwnTRE_aem_eiyYAprIwc5B7ApYj5Krtw for art events
 

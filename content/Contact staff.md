@@ -24,12 +24,16 @@ Dates are when I actually got them working
 - Half Steve
     - [[2024-07-18]] Can consistently do 70-80% of the time!
     - [[2024-07-19]] 90-100% of the time!
-
-Working on
-- Continuous Steve
+- fishtail
 - Angel roll
     - [[2024-07-18]] started learning.
-- Fishtail
+    - [[2024-11-07]] really got it
+
+
+Working on
+- spinny circle thing
+- angel roll interruptions
+- Continuous Steve
 - Tosses / throws in the air
 - Jesus (do this after fishtails so I can have a transition trick)
 - matrix
@@ -127,3 +131,5 @@ Maybes
 
 ### Appendix
 https://www.instagram.com/reel/C-SiWvCS25a/?igsh=MzRlODBiNWFlZA==
+
+To learn later? Puppyhammer. https://www.reddit.com/r/flowarts/s/Xlp1tOcDPd

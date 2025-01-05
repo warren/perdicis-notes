@@ -21,6 +21,7 @@ Opened [[2023-12-07]] but I should have done it way sooner. Related to [[Poetry 
 ### Simply well-written
 - [Brian Balkus obo Palladium: The Mineral Crisis is here](https://www.palladiummag.com/2022/08/08/the-mineral-conflict-is-here/)
 - [Pundit's Fallacy - the best definition](https://www.jargondatabase.com/Category/Other/Logical-Fallacies-Jargon/Pundit's-Fallacy)
+- https://www.plasticlist.org/report - 6 month long and $500k research investigation into the presence of plastic chemicals in everyday food. Turns out to be a rabbit hole and way more than you wanted to know about the current state of scientific research into safe dosages of plastic chemicals.
 
 ### Regarding career
 - [How to communicate when trust is low (without digging yourself into a deeper hole)](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole)

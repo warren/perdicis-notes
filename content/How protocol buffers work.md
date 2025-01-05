@@ -7,7 +7,7 @@ Protobufs, invented at Google in 2008, is basically a more compact version of JS
 They are very fast data structures! They're just difficult for humans to read.
 
 ### How efficient?
-Very efficient! When communicating in languages where JSON is not natively supported (e.g. Java), things run 70-80% faster on Protobuf than JSON.
+Very! When communicating in languages where JSON is not natively supported (e.g. Java), things run 70-80% faster on Protobuf than JSON.
 
 When communicating in languages where JSON **is** natively supported (e.g. JavaScript), things run ~5% faster. So protobufs are typically not worth implementing for services that communicate over JS (e.g. Nodejs interface <--> Nodejs interface).
 

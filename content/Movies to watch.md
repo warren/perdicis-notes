@@ -59,12 +59,12 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - [ ] Slingshot - about the eccentric inventor of the Segway
 - [ ] A year in space — this is on youtube
 - [ ] Synechdoche new York
-- [ ] Eternal sunshine of the spotless mind
+- [x] Eternal sunshine of the spotless mind
 - [ ] The godfather
 - [ ] Hiroshima mon amor
 - [ ] The big short
 - [ ] Jarhead
-- [ ] O brother where art thou
+- [x] O brother where art thou
 - [ ] [Invasion of the Body Snatchers](https://www.sfgate.com/streaming-columns-culture/article/sf-1970s-sci-fi-movie-body-snatchers-16838615.php)
 - [x] The emperor's new groove
 - [ ] [After Yang](https://youtu.be/Kwp32zLc08c)
@@ -89,7 +89,7 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - [ ] In the Name of the father (1993)
 - [ ] RRR - Tollywood movie with some ridiculous action sequences. Rec from Tim and Jonathan
 - [ ] Stalker - Original inspiration for stalker video game. Rec from Tim
-- [ ] Paddington 2 - Rec from Jonathan. Don't even watch Paddington 1, he says
+- [x] Paddington 2 - Rec from Jonathan. Don't even watch Paddington 1, he says
 - [ ] Perfect blue
 - [ ] raising Arizona
 - [ ] blood simple ^ above raising Arizona - rec from dad 
@@ -105,6 +105,13 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - [ ] Didi - rec by Christie among other ppl 
 - [ ] Memories of murder - bong joon ho rec by Rudy. It's on Netflix
 - [ ] lotr
+- [ ] Midas Man - doc about Brian Epstein (Beatles' manager)
+- [ ] White blue and red (French film recommended by Kim who likes foreign films)
+- [ ] Dark (German show, rec by Kim)
+- [ ] Mystery cuddlers. Show that's similar to adventure time
+- [x] My Dinner with Andre
+- [x] Shoplifters 
+- [ ] Nosferatu (2024) - Willem dafoe, Bill S movie Xander watched
 
 
 ### Trash movies to watch while multitasking

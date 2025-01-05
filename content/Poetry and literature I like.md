@@ -18,6 +18,7 @@ My Goodreads (very incomplete): [Click me](https://www.goodreads.com/user/show/1
 - [[Excerpt from The Wise Man's Fear]]
 - [[Excerpt from The French Lieutenant's Woman]]
 - [[Excerpt from The Man in the Arena]]
+- [[Modern art exists because of financial loopholes]] - the quote here about modernism
 
 ### Poetry
 - [Sonnet 19](https://www.poetryfoundation.org/poems/45088/sonnet-19-devouring-time-blunt-thou-the-lions-paws) - Shakespeare

@@ -10,7 +10,7 @@ The reason I use non-relational ratings instead of relational ratings (like I do
 - 7.25
 
 [[Happy Lemon]]
-- 9.5
+- 8
 - 6
 
 [[Gong Cha]]
@@ -30,7 +30,7 @@ The reason I use non-relational ratings instead of relational ratings (like I do
 - 5
 
 [[Zero&]]
-- 9
+- 8.5
 - 7.5
 - 8
 - 5.25
@@ -70,7 +70,7 @@ The reason I use non-relational ratings instead of relational ratings (like I do
 - 3.5
 
 [[Little Heaven]]
-- 9.25
+- 9.5
 
 [[Three Polar Bears]]
 - 8.5

@@ -1,7 +1,7 @@
 # Dune 2
 #publish 
 #mediareview 
-Watched this [[2024-03-15]] in 70mm IMAX.
+Watched this [[2024-03-15]] in 70mm IMAX. Related to [[Movies I've seen]].
 
 ## Summary
 - skipping this section

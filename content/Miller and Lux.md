@@ -6,7 +6,7 @@ Fancy restaurant in SF I visited [[2022-04-04]].
 
 https://maps.app.goo.gl/Ru8txJYhvg5Y6P5SA
 
-Went to try their burger which we thought was $17 but was actually $27 lol. I mean come on look at the font.
+Went to try their burger which we thought was $16 but was actually $26 lol. I mean come on look at the font.
 
 ![[PXL_20220405_023935679~2.jpg]]
 

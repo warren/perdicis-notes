@@ -30,3 +30,7 @@ When someone says to hold your horses, they're telling you to be stable
 - nuclear explosion
     - for a vanishingly tiny fraction of a second, you'll have a cute nuclear explosion tho
 - surface of the sun (you can't see the eyes - this is cheating)
+
+[[2024-12-10]]: if everyone had custom fonts they wrote their emails with, it would be a lot easier to visualize who is talking. It would also be like video game dialogue systems, e.g. undertale, where every character gets their own expressive personality-based font.
+
+[[2024-12-12]]: Phantom limb syndrome but for my corp badge fastened to my belt

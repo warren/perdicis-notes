@@ -1,7 +1,7 @@
 # The Boy and the Heron
 #publish 
 #mediareview 
-Watched this subbed [[2023-12-07]] in the Japantown Kabuki 8.
+Watched this subbed [[2023-12-07]] in the Japantown Kabuki 8. Related to [[Movies I've seen]].
 
 ## Themes I noticed
 - The boy fearing nature (birds, foliage, caves) and taking solace in urban cities

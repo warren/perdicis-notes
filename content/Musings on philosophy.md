@@ -5,10 +5,10 @@ Sharded out of [[Musings]].
 ## Written
 My writing
 - [[AI art and human obsolescence]] 
-- [[Telic and atelic activities]]
 - [[The cosmic computer]]
 - [[What makes a good recommendation engine]]
 - [[Stable diffusion fraud]]
+- [[Telic and atelic activities]]
 
 90% written, and that's good enough
 - [[2023-11-25 - On disability and being injured away from home]]
