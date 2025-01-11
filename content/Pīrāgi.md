@@ -1,12 +1,21 @@
 # Pīrāgi
 #publish 
 #needswork - get Mom's recipe and add pics
-Opened [[2024-01-07]]. Part of a series on [[Recipes]]. Ha ha. One day I'll start that series.
+Opened [[2024-01-07]].
+_Part of a series on [[Recipes]]._
 
-TODO: pics
+TODO: pic
+
+## What is it
+Pīrāgi is a Latvian dish I grew up making for special occasions. It's a lot like a Polish pierogi, but with meat. It's basically a baked dumpling.
 
 ## Ingredients
 Todo.
 
-## Recipe
+## Prep
+Todo.
+
+## Postamble
+This recipe is my mother's modified recipe.
+
 Todo.

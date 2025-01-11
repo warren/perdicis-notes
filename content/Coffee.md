@@ -2,6 +2,7 @@
 #publish 
 #needswork
 Opened [[2024-12-30]].
+_Part of a series on [[Recipes]]._
 
 Unrelated to [[Black coffee]] (but I'll link it here for funsies).
 
