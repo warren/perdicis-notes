@@ -10,7 +10,7 @@ Required
 
 Add gin, dry vermouth, and orange bitters into a mixing glass with ice. Stir.
 
-Strain into a chilled cocktail glass.
+Strain into a chilled martini glass.
 
 Garnish with lemon twist.
 

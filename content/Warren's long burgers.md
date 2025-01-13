@@ -15,13 +15,18 @@ In order to eat one of these you need to either (A) dislocate your jaw, devourin
 
 The world seems content with (B). But there must be a better way.
 
-My proposed solution: Restaurants simply use bigger buns and spread their ingredients wider.
+My solution: Just use bigger buns and spread the ingredients wider.
 
 This is a win-win: the restaurant-goer gets a better tasting burger (and also the illusion of a bigger one), and the restaurant spends barely any more money on buns -- cash quickly recovered by more customers wanting to try their long burger.
 
 Anyways, that's the idea behind Warren's long burgers. It's more like a principle I hope more restaurants adopt.
 
-PIC: Pixel diagram
-_Pic_
+### Visualization
+Visualization of transforming an overly tall burger into a long burger by flattening its ingredients and not changing the volume of non-bun ingredients.
 
-(Maybe use AI to turn the pixel diagram into a full burger pic?)
+((PIC: Diagram))
+_Source: [[Warren's long burgers math]]_
+
+Also, for funsies, here's the same diagram but using AI to paint over and visualize it:
+
+((PIC: Diagram))

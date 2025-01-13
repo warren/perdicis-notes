@@ -15,3 +15,5 @@ Required
 2. Double strain through fine mesh strainer into a chilled coupe.
     
 3. Garnish with a lime twist.
+
+Typically served in a martini glass.

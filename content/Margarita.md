@@ -22,3 +22,5 @@ Cointreau is also a potential ingredient but that's for more experts.
 2. Strain into a rocks glass over fresh ice.
     
 3. Garnish with a lime wheel and kosher salt rim (optional).
+
+Typically served in a margarita glass.
