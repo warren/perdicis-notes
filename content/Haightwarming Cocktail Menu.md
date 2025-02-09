@@ -2,9 +2,9 @@
 #publish 
 
 - [[Double Chicken Please No. 10|🥂🐓🔟]] - oolong, winter melon, lemon, mezcal*
-- [[Sage Advice|🧙‍♂️💭🥬]] - green chartreuse, lime, mezcal*, sage, simple
-- [[Drink TBD|❓❓❓]] - TBD
-- [[Drink TBD|❓❓❓]] - TBD
+- [[Sage Advice|🧙‍♂️💭🥬]] - green chartreuse, lime, gin*, sage, simple
+- [[4XT|🍀❌🍵]] - apple-chamomile tea blend, ground cinnamon, bourbon, rosemary, lemon
+- And many other classic drinks. Please help us finish our leftover alcohol.
 
 _\*can be made alcohol-free_
 

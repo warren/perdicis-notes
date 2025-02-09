@@ -111,7 +111,8 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - [ ] Mystery cuddlers. Show that's similar to adventure time
 - [x] My Dinner with Andre
 - [x] Shoplifters 
-- [ ] Nosferatu (2024) - Willem dafoe, Bill S movie Xander watched
+- [x] Nosferatu (2024) - Willem dafoe, Bill S movie Xander watched
+- [ ] blackberry movie
 
 
 ### Trash movies to watch while multitasking

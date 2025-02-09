@@ -27,3 +27,4 @@ A lot of these recs come from my experience during 2022's Thanksgiving trip, beg
 - the red pavilion "make out spot" https://www.instagram.com/reel/CumR1PfAPVd/?igshid=MmU2YjMzNjRlOQ==
 - Metrograph art house https://www.instagram.com/reel/CxYYit2uib4/?igshid=MmU2YjMzNjRlOQ%3D%3D (added this to my google maps)
 - Howard Greenberg Gallery https://www.instagram.com/reel/Cx_eFU9Lmrr/?igshid=MmU2YjMzNjRlOQ%3D%3D (added this to my google maps too)
+- Tasting of some alcohols by a company I like. In Bushwick. https://us.empirical.co/products/53ad-tasting

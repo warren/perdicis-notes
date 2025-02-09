@@ -20,7 +20,10 @@ _My favorite cocktails, replicated from various bars/parties or invented by me. 
 - [[Orange Jack]] ... TBD: not yet replicated/invented
 - [[4XT]] ... TBD
 - [[Summer again..]] ... TBD: first encountered the day of Fred Again's SF concert
-- [[Something strong]] ... idk. test it out.
+
+## To try
+- Pink Nazi: Jaegermeister + Pepto Bismal. Caltech specialty
+- ???: Everclear + balsamic 
 
 ## Appendix
 - https://www.diffordsguide.com/ contains excellent how-tos for most drinks.

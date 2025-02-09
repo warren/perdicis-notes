@@ -19,7 +19,7 @@ And besides, it's nice to not point fingers. Nobody enjoys a meeting where one p
 ### Less obvious reasons you should want blameless postmortems
 Acting blamelessly lets you review your processes with more effective scrutiny than had you attributed an outage to a human. 
 
-The larger insight I'm ramping up to is that _blameless postmortems rarely work in the long term anyways_ -- blaming humans for outages typically results in band-aid fixes that only work until one person forgets about them. Lurking beneath a human-based _trigger_ is typically a complicated process-based _root cause_.
+The larger insight I'm ramping up to is that _casting blame rarely works in the long term anyways_ -- blaming humans for outages typically results in band-aid fixes that only work until one person forgets about them. Lurking beneath a human-based _trigger_ is typically a complicated process-based _root cause_.
 
 To hammer this home -- blaming a human ensures:
 

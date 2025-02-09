@@ -1,4 +1,4 @@
-# Pancakes
+# Fluffy American pancakes
 #publish 
 Opened [[2025-01-11]].
 _Part of a series on [[Recipes]]._
@@ -6,7 +6,7 @@ _Part of a series on [[Recipes]]._
 ![[Pasted image 20250111093043.png]]
 
 ## What is it
-Unusually fluffy American pancakes. When cooked correctly they have a flaky texture that's almost croissant-like.
+Unusually fluffy American pancakes. When cooked correctly they have a flaky texture that's almost croissant-like, with small bubbles.
 
 ## Ingredients
 - 1 egg
