@@ -18,3 +18,8 @@ Idea for a garnish: fried sage. It would almost be like a chip.
 
 ## Preparation
 - idk yet! figuring it out...
+
+## Easy Amazon links
+- [Lime juice](https://www.amazon.com/gp/product/B072QWHZWZ) 12.7oz $14
+- [Sage syrup](https://www.amazon.com/gp/product/B0CK2QL6RR) 8.5oz $17
+    - Pricey but convenient

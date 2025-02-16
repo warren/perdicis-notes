@@ -21,5 +21,20 @@ _These are guesstimates since DCP doesn't reveal the actual ingredient list nor 
     - mezcal. This was tasty too
     - tequila, which is a cheaper option that is also agave-based. I didn't like this but I'm not a tequila fan.
 
+^ Since a US Cup is 8fl oz and a cocktail is typically 3-3.5oz, this ratio actually makes ~2.25 servings.
+
 ## Preparation
 - mix em all in a pot
+
+## Ingredients if you're making in bulk
+_This is a great bulk cocktail, so if you want a basic preset to make it for your party, buy the following:_
+- [Decaf oolong tea bags](https://www.amazon.com/Decaffeinated-Caffeine-Kombucha-Organic-Triangles/dp/B08ZNW7KN2) --> $17 for 20 tea bags, which makes 160oz/1.25 gallons/20 cups of tea
+    - Note that it's decaf. You can get it way cheaper if you do normal caffeinated
+- [Winter melon syrup](https://www.amazon.com/Tea-Zone-Syrup-Winter-Melon/dp/B019ED225O) --> $23 for 64oz/128tbsp
+    - This is way too much but it's hard to find winter melon syrup in smaller quantities because they assume you're a tea shop.
+- [Lemon juice](https://www.amazon.com/Amazon-Brand-Happy-Belly-Concentrate/dp/B07WJGM19N) --> $3 for 32oz/192tsp
+    - Way too much but it's cheap so that's fine
+- [Alcohol-free mezcal](https://www.amazon.com/RITUAL-Tequila-Alternative-Award-Winning-Non-Alcoholic/dp/B0866DCX32) --> $29 for 750mL/50.72 tbsp
+- Mezcal --> $XX for ABC
+
+^ this makes roughly 45 servings
