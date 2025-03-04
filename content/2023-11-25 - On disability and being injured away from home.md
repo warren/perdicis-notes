@@ -2,11 +2,11 @@
 #publish
 Written [[2023-11-25]]. Part of [[Musings on philosophy]].
 
-I just got a herniated disc yesterday morning... on my birthday. I was deadlifting in my New Jersey hotel gym when suddenly, pop!, standing hurts a _LOT_; time to lie down for a quick minute/hour/possibly the rest of this week.
+I got a herniated disc yesterday morning... on my birthday. I was deadlifting in my hotel gym when suddenly, pop!, standing hurts a _LOT_; time to lie down for a quick minute/hour/possibly the rest of this week.
 
 I noticed recently how great it feels to keep your knees at 90° angles. You'd never guess it, but it keeps your back straight while you relax your core. I must look like the world's saddest human starfish.
 
-How symbolic it feels to turn 26 (my late 20s![^1]) and instantly google medical questions about my back. Some cosmic force must have been waiting for this moment to deliver a back injury. I don't find it very funny from down here.
+How symbolic it feels to turn 26 (my late 20s![^1]) and instantly google medical questions about my back. Some cosmic force must have been waiting for this moment to deliver a back injury. Gotta say, I don't find it very funny from down here.
 
 ![[20231124_191040-COLLAGE.jpg]]
 _In the morning, I walk on 0 legs. In the afternoon, 0. in the evening, still 0. Are there any in-network doctors in my area?_
