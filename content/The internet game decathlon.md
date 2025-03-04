@@ -1,5 +1,5 @@
 ---
-aliases: Bro vs bro games, the master decathlon
+aliases: Bro vs bro games, The master decathlon
 ---
 # The internet game decathlon
 #publish 
@@ -7,36 +7,72 @@ aliases: Bro vs bro games, the master decathlon
 Opened [[2024-01-16]].
 
 ## What is this
-Games, mostly internet games, which can be used to compete against your friends. Inspired by Ludwig's BvB and originally called "The master decathlon" because it was the method Samarth and I were going to use to determine who got the master bedroom on [[2024-01-17]].
+Games, mostly internet games, which can be used to compete against your friends. Originally called "The master decathlon" because it was the method Samarth and I were going to use to determine who got the master bedroom on [[2024-01-17]].
 
 ## Games
+_(!) = my personal favorites_
 ### Internet games
-- Wikipedia race (played on Wikipedia -- see [rules](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game))
-- [The human benchmark](https://humanbenchmark.com/)
-- [That game where you try to name all SF streets from memory](https://carvin.github.io/sf-street-names)
-- [Geoguessr](https://www.geoguessr.com/)
+- (!) [Wikipedia Race](https://wikispeedrun.org) - Race from one Wikipedia article to another.
+    - Wikipedia officially [acknowledges](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game) the existence of this game!
+- [The human benchmark](https://humanbenchmark.com/) - Brain games and cognitive tests.
+- (!) [That game where you try to name all SF streets from memory](https://carvin.github.io/sf-street-names) - What it sounds like
+- (!) [Geoguessr](https://www.geoguessr.com/)
     - Note: requires $1 subscription :(
-    - Hmu and you can use my account
-- [Infinite Craft](https://neal.fun/infinite-craft/) - open this with a friend and race to craft something, almost literally anything you can think of is in here
-- [Travle](https://travle.earth/) - Geography game about country adjacency
+- (!) [Infinite Craft](https://neal.fun/infinite-craft/) - open this with a friend and race to craft something, almost literally anything you can think of is in here
 - [Movie to movie](https://movietomovie.com) - Movie/actor adjacency game
-- [TimeGuessr](https://timeguessr.com/) - Guess the year and map location of iconic photos
-- [PokeDoku](https://pokedoku.com) - Pokemon sudoku. DIFFICULT even if you know pokemon well.
+- (!) [TimeGuessr](https://timeguessr.com/) - Guess the year and location of iconic photos
+- [PokeDoku](https://pokedoku.com) - Pokemon sudoku. DIFFICULT even if you know Pokemon well.
 - [MovieGrid.io](https://moviegrid.io) - Movie sudoku.
-- [Guess the Game](https://guessthe.game) - shows screenshots of video games and you need to guess what video game it is
+- [Guess the Game](https://guessthe.game) - Guess the video game based on the screenshot
+- [RPSGame](https://www.rpsgame.org/) - Rock Paper Scissors
+- [Suika World](https://suika.world/) - Suika game. Like tetris but for matching 2-of-a-kind fruit, and the fruit has gravity physics
+- [Tetr.io](https://tetr.io/) - Tetris online
+- [ChronoPhoto](https://www.chronophoto.app/) - Guess what year a photo was taken
+- [Framed](https://framed.wtf/) - Guess the movie based on the frame
+- [Higher Lower Game](https://www.higherlowergame.com/) - Last as long as possible guessing which query gets queried more on Google Search
+- [TypeRacer](https://play.typeracer.com/) - Type fast(er than your friends)
+- [Picross puzzle generator](https://liouh.com/picross/) - Generate infinite picross puzzles
+- [Connect 4](https://boardgames.io/en/connect4) - Connect 4 online
+- Random quizzes on https://sporcle.com
+- [Google: Coin flip](https://www.google.com/search?q=coin+flip) - Heads or tails. Very skillful game.
+- [Button Masher](https://timtree.github.io/button-masher/) - Click the button as fast as you can. Also very skillful.
+- [Joined Words](https://jw-daily.web.app/) - Guess the compound word using three clues given to you.
+- [Blockables](https://www.blockables.app/) - A 5x5 mini crossword, but with non-contiguous letters and secret hints.
+- Word cloud association graph puzzle game hosted at the Google Games for a few years ~201X. It's referenced in [this](https://ericbai.co/making-connect-the-stars#heading-inspiration) blog post but never named. I'm not sure if it was a private game or if it was ever made public. If you know what I'm talking about, please contact me!
 
 ### Wordle variants
-- [Semantle](https://semantle.com/) - my favorite. Guess words based on word2vec similarities
-    - [Contexto](https://contexto.me/) - same thing just different website in case the first one breaks or you want a different puzzle
-- [Tradle](https://wordlegame.org/wordle-games/tradle) - guess the country based on its exports
-- [Costcodle](https://costcodle.com/) - guess the price of Costco goods
-- [Bazingle](https://bazingle.wook.wtf/) - wordle but with 7 (glorious) letters
-- Horsle - ...
+- [Wordle](https://www.nytimes.com/games/wordle/index.html) - The classic. 6 chances to guess a 5 letter word
+- [Dordle](https://zaratustra.itch.io/dordle)/[Quordle](https://www.quordle.com/)/[Octordle](https://octordle.com/)/[Sedecorle](https://sedecordle.com/)/[Kilordle](https://jonesnxt.github.io/kilordle/) - 2/4/8/16/1000 Wordles simultaneously!!
+- [Adoptle](https://tryhardguides.com/adoptle/) - Guess the name of the (real) dog you can adopt
+- [Angle](https://angle.wtf/) - Guess the geometric angle
+- [Boardle](https://playboardle.com/) - Guess the 5 optimal chess moves
+- (!) [Costcodle](https://costcodle.com/) - Guess the price of the Costco product
+- (!) [Factle](https://factle.app/) - Rank the trivia options in the right order
+- [Globle](https://globle-game.com/game) - Guess the country based on border distance
+- [Heardle](https://www.heardle.info/) - Guess the song.
+- [Housle](https://housle.house/) - Guess the price of the house
+- (!) [Muni Routle](https://muniroutle.com) - Guess the SF Muni route based on shape
+- [Nerdle](https://nerdlegame.com/) - Guess the (pretty simple) mathematical expression
+- (!) [Redactle](https://redactle.net/) - Guess the name of the redacted Wikipedia article, where every guess reveals that word in the article
+- [Searchle](https://searchle.net/) - Guess how Google autocompletes a search
+- (!) [Semantle](https://semantle.com/) - Guess words based on word2vec similarities
+    - [Contexto](https://contexto.me/) - Same thing; different website
+- [Sudokle](https://sudokle.com/) - 4x4 Wordle
+- (!) [Tradle](https://games.oec.world/en/tradle/) - Guess the country based on its exports
+- (!) [Travle](https://travle.earth/) - Guess the path between two countries
+- [Waffle Wordle](https://wafflegame.net/) - Wordle, but up to 25 words being guessed at once in a waffle shape
 
+#### Silly Wordles
+_I debated whether to mix these in with the other Wordles, but they're kind of confusing to click on when you're expecting a real puzzle. They're funny though._
+- [Bazingle](https://bazingle.wook.wtf/) - Wordle but with 7 (glorious) letters
+- [Horsle](https://horsle.glitch.me/) - Same, but horse
+- [Letterle](https://edjefferson.com/letterle/) - Guess the individual letter
+- [Turdle](https://turdle.xyz/) - Guess the order of the jumping turtles
+- [Eldrow](https://www.simn.me/eldrow/) - Reverse Wordle. The algorithm guesses your Wordle word!
 
 ### Internet games (competitively viable)
 - [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - simple turn-based battle royale you can get on phones and play with friends. Good for road trips
-- [Pokemon showdown](https://pokemonshowdown.com/) - competitive Pokemon battle simulator. DIFFICULT
+- [Pokemon Showdown](https://pokemonshowdown.com/) - competitive Pokemon battle simulator. DIFFICULT
 
 ### Actual video games
 - Beat Saber - I will smoke anyone at this game

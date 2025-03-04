@@ -16,12 +16,17 @@ _These are guesstimates since DCP doesn't reveal the actual ingredient list nor 
 - 1 cup (decaf) oolong tea
 - 1 tbsp winter melon syrup
 - 1 tsp lemon juice
-- 1 tbsp alcohol:
+- 3 tbsp alcohol:
     - alcohol-free mezcal. I adore the "Monday" brand
     - mezcal. This was tasty too
-    - tequila, which is a cheaper option that is also agave-based. I didn't like this but I'm not a tequila fan.
+    - tequila, which is a cheaper option that is also agave-based. I prefer mezcal.
+### Ratios in ounces
+- 24oz (decaf) oolong tea
+- 1.5oz winter melon syrup
+- 0.5oz lemon juice
+- 4.5oz mezcal
 
-^ Since a US Cup is 8fl oz and a cocktail is typically 3-3.5oz, this ratio actually makes ~2.25 servings.
+^ since cocktails are typically 3-3.5oz, this makes 10 servings. But it's a weak cocktail, so if folks double up it'll be more like 5 servings.
 
 ## Preparation
 - mix em all in a pot

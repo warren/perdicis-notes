@@ -85,6 +85,8 @@ Movies
     - Pure vibes. Real footage of the Apollo moon landing, lost for decades, then regraded and upscaled and turned into a dramamentary.
 - The Grand Budapest Hotel
     - My favorite Wes Anderson film. Incredibly aesthetically compelling, and has a cute, enjoyably unpredictable storyline.
+- Good Will Hunting
+    - To do: explanation
 
 TV shows
 - Pantheon - finished [[2024-04-10]]. Wow I love the ending.
