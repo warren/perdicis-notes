@@ -2,14 +2,16 @@
 #publish
 Written [[2023-11-25]]. Part of [[Musings on philosophy]].
 
-My birthday present this year was a herniated disc in my back. I was lifting some weights in our family's New Jersey hotel room when suddenly, pop - lying down is suddenly _way_ more comfortable than standing. Both knees at 90 degree angles while I'm down here please.
+I just got a herniated disc yesterday morning... on my birthday. I was deadlifting in my New Jersey hotel gym when suddenly, pop!, standing hurts a _LOT_; time to lie down for a quick minute/hour/possibly the rest of this week.
 
-Getting a back injury on your 26th birthday is such a symbolic thing, too. 26 means I'm officially in my late 20s[^1] and already I'm googling medical questions about my back!
+I noticed recently how great it feels to keep your knees at 90° angles. You'd never guess it, but it keeps your back straight while you relax your core. I must look like the world's saddest human starfish.
+
+How symbolic it feels to turn 26 (my late 20s![^1]) and instantly google medical questions about my back. Some cosmic force must have been waiting for this moment to deliver a back injury. I don't find it very funny from down here.
 
 ![[20231124_191040-COLLAGE.jpg]]
 _In the morning, I walk on 0 legs. In the afternoon, 0. in the evening, still 0. Are there any in-network doctors in my area?_
 
-Having been floor-ridden for 24+ hours, I reflect on several things...
+Anyways, having been floor-ridden for 24+ hours, I reflect on several things...
 
 ### On disability and gratefulness
 My biggest takeaway from yesterday is that **the sensation of loss is a whole lot more vivid than the sensation of having or even gaining \[the thing you lost].**
@@ -44,7 +46,6 @@ So, if we agree that losing a thing, like a slice of cake, is more vivid than co
 Not sure how to end this one. That insight triggers a few more thoughts:
 - How glad I am to be able to shower myself. I almost can't. My shower time effectively doubled. But I can. And wow am I glad I don't need someone to help.
 
-
 ### Loss as a magnifying glass to view good things
 A rocky conclusion I might reach from that last section is:
 1) The sensation of loss is far more hurtful than other sensations of tragedy.
@@ -78,7 +79,7 @@ Something connected to Frankl's MSFM: one with a reason to live can endure anyth
 ^ perhaps this sort of idealism is possible _only_ when you haven't experienced the loss of something you had, forcing you to know its exact worth.
 
 
-[^1]: I'm told 26 is not one's "late 20s". Source: peers who are also in their "mid 20s" ...
+[^1]: I'm told 26 is not one's "late 20s". Source: peers who are also in their "mid 20s".
 
 
 ## Appendix
