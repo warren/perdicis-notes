@@ -3,14 +3,15 @@ aliases: Bro vs bro games, The master decathlon
 ---
 # The internet game decathlon
 #publish 
-#needswork - unwall this garden
-Opened [[2024-01-16]].
+Opened [[2024-01-16]]. Related to [[Resources for readers]].
 
 ## What is this
 Games, mostly internet games, which can be used to compete against your friends. Originally called "The master decathlon" because it was the method Samarth and I were going to use to determine who got the master bedroom on [[2024-01-17]].
 
+Months later, I threw a party to play these games: [[Web game LAN tourney rules]]
+
 ## Games
-_(!) = my personal favorites_
+_(!) = personal favorites_
 ### Internet games
 - (!) [Wikipedia Race](https://wikispeedrun.org) - Race from one Wikipedia article to another.
     - Wikipedia officially [acknowledges](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game) the existence of this game!

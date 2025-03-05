@@ -2,16 +2,14 @@
 #publish
 Written [[2023-11-25]]. Part of [[Musings on philosophy]].
 
-I got a herniated disc yesterday morning... on my birthday. I was deadlifting in my hotel gym when suddenly, pop!, standing hurts a _LOT_; time to lie down for a quick minute/hour/possibly the rest of this week.
+I got a herniated disc yesterday morning, on my birthday. I had been deadlifting in the hotel gym when suddenly, pop! , standing hurts a _LOT_; time to lie down for a quick minute / hour / possibly the rest of this week.
 
-I noticed recently how great it feels to keep your knees at 90° angles. You'd never guess it, but it keeps your back straight while you relax your core. I must look like the world's saddest human starfish.
-
-How symbolic it feels to turn 26 (my late 20s![^1]) and instantly google medical questions about my back. Some cosmic force must have been waiting for this moment to deliver a back injury. Gotta say, I don't find it very funny from down here.
+How symbolic it is to Google "back pain" instantly after turning 26 (my late 20s![^1]). Some cosmic force must have been waiting until now to deliver that punchline. Gotta say I don't find it very funny from down here.
 
 ![[20231124_191040-COLLAGE.jpg]]
-_In the morning, I walk on 0 legs. In the afternoon, 0. in the evening, still 0. Are there any in-network doctors in my area?_
+_In the morning, I walk on 0 legs. In the afternoon, also 0. In the evening, still 0. Are there any in-network doctors in my area?_
 
-Anyways, having been floor-ridden for 24+ hours, I reflect on several things...
+Anyways. Having been floor-ridden for 24+ hours, I reflect on several things...
 
 ### On disability and gratefulness
 My biggest takeaway from yesterday is that **the sensation of loss is a whole lot more vivid than the sensation of having or even gaining \[the thing you lost].**
@@ -86,3 +84,6 @@ Something connected to Frankl's MSFM: one with a reason to live can endure anyth
 Alt title: _Or: reflections on taking walking for granted._
 
 Update [[2024-05-12]]: Having my apartment drain fixed feels sort of like this! I appreciate my drain all the greater because I get to stop, pause, and think "oh right, I can use my faucet, how pleasant". That brief moment of pondering makes the difference. And yet it's over so fast...
+
+### Unused part of the intro
+I noticed recently how great it feels to keep your knees at 90° angles. You'd never guess it, but it keeps your back straight while you relax your core. I must look like a human starfish.

@@ -7,3 +7,4 @@ Aka pages that give you stuff.
 - [[College resume help]] - if you'd like to work in tech and are in college
 - [[Event finder trifecta]] - find cool events in your city
 - [[Google maps maps]] - my maps to share with friends. Under construction
+- [[The internet game decathlon]] - lists of fun and obscure internet games
