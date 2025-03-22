@@ -114,6 +114,7 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - [x] Nosferatu (2024) - Willem dafoe, Bill S movie Xander watched
 - [ ] blackberry movie
 - [ ] v for vendetta
+- [ ] Pride and prejudice (2004)
 
 
 ### Trash movies to watch while multitasking

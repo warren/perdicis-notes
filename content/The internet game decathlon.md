@@ -39,6 +39,9 @@ _(!) = personal favorites_
 - [Button Masher](https://timtree.github.io/button-masher/) - Click the button as fast as you can. Also very skillful.
 - [Joined Words](https://jw-daily.web.app/) - Guess the compound word using three clues given to you.
 - [Blockables](https://www.blockables.app/) - A 5x5 mini crossword, but with non-contiguous letters and secret hints.
+- [FoodGuessr](https://www.foodguessr.com/) - Guess what country the food is from.
+- [NYT mini crossword](https://www.nytimes.com/crosswords/game/mini) - Crossword, but mini!
+- [NYT Connections](https://www.nytimes.com/games/connections) - Group 4 words with subtle similarities. Very quick games.
 - Word cloud association graph puzzle game hosted at the Google Games for a few years ~201X. It's referenced in [this](https://ericbai.co/making-connect-the-stars#heading-inspiration) blog post but never named. I'm not sure if it was a private game or if it was ever made public. If you know what I'm talking about, please contact me!
 
 ### Wordle variants
