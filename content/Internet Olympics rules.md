@@ -1,4 +1,7 @@
-# Web game LAN tourney rules
+---
+aliases: Web game LAN tourney rules
+---
+# Internet Olympics rules
 #publish 
 
 ## Rules
@@ -20,3 +23,9 @@
     * The competition ends when either a team hits some threshold of points or we play some number of games
 
 RSVP: https://partiful.com/e/XPheS7AGUwxHXZObm1di
+
+## Day of
+- [Discord](https://discord.gg/NYC5tFce)
+- [Scoreboard](https://docs.google.com/spreadsheets/d/1a0JHVJevDxCUt4Ah0u4Qh9-ygg8MSm9NLs6rg81wWCk/edit?gid=0#gid=0)
+- [Slides](https://docs.google.com/presentation/d/1c1XTufAP30dd1-AI_TWVD0jIMW8Kyoa0YsRy4Af--Cs/edit?usp=sharing)
+

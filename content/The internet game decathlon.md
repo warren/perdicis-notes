@@ -8,7 +8,7 @@ Opened [[2024-01-16]]. Related to [[Resources for readers]].
 ## What is this
 Games, mostly internet games, which can be used to compete against your friends. Originally called "The master decathlon" because it was the method Samarth and I were going to use to determine who got the master bedroom on [[2024-01-17]].
 
-Months later, I threw a party to play these games: [[Web game LAN tourney rules]]
+Months later, I threw a party to play these games: [[Internet Olympics rules]]
 
 ## Games
 _(!) = personal favorites_
