@@ -1,8 +1,9 @@
 # May Day Cocktail Menu
 #publish 
 
-- [[Double Chicken Please No. 10|Double Chicken #10]] - oolong, winter melon, lemon, mezcal*
-- [[4XT]] - spiced cider, bourbon, cinnamon, ginger ... served hot
+- [[Double Chicken Please No. 10|double chicken no. 10]] - oolong, winter melon, lemon, mezcal*
+- [[sage advice]] - green chartreuse, lime, gin*, sage, simple
+- [[4XT]] - bourbon, spiced cider, cinnamon, ginger
 - [[TBA]] - tequila-based mix
 - [[TBA]] - wine-based mix
 - And many other classic drinks. Please help us finish our leftover alcohol.
