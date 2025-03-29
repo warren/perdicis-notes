@@ -2,14 +2,14 @@
 #publish
 Written [[2023-11-25]]. Part of [[Musings on philosophy]].
 
-I got a herniated disc yesterday morning, on my birthday. I had been deadlifting in the hotel gym when suddenly, pop! , standing hurts a _LOT_; time to lie down for a quick minute / hour / possibly the rest of this week.
+I got a herniated disc yesterday morning on my birthday. I had been deadlifting in a hotel gym when suddenly, pop! standing hurts a _LOT_; time to lie down for a quick minute / hour / rest of this week.
 
-How symbolic it is to Google "back pain" instantly after turning 26 (my late 20s![^1]). Some cosmic force must have been waiting until now to deliver that punchline. Gotta say I don't find it very funny from down here.
+How symbolic it is to Google "back pain" right after turning 26 (officially my late 20s![^1]). Some cosmic force must have been waiting until now to deliver that punchline. I don't find it very funny from down here though.
 
 ![[20231124_191040-COLLAGE.jpg]]
 _In the morning, I walk on 0 legs. In the afternoon, also 0. In the evening, still 0. Are there any in-network doctors in my area?_
 
-Anyways. Having been floor-ridden for 24+ hours, I reflect on several things...
+Anyways, having been floor-ridden for 24+ hours, I reflect on several things...
 
 ### On disability and gratefulness
 My biggest takeaway from yesterday is that **the sensation of loss is a whole lot more vivid than the sensation of having or even gaining \[the thing you lost].**
