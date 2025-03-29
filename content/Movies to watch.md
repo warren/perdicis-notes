@@ -104,7 +104,7 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - [ ] Megapolis - Francis Ford Coppola (director and co-writer on the Godfather) released this $120M, self-funded film that isn't even being shown in the USA (as of [[2024-05-21]] due to a real human presenter needing to interact with the on-screen actors at every showing. Sounds semi-pretentious and at the very least, interesting.
 - [ ] Didi - rec by Christie among other ppl 
 - [ ] Memories of murder - bong joon ho rec by Rudy. It's on Netflix
-- [ ] lotr
+- [x] lotr
 - [ ] Midas Man - doc about Brian Epstein (Beatles' manager)
 - [ ] White blue and red (French film recommended by Kim who likes foreign films)
 - [ ] Dark (German show, rec by Kim)

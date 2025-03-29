@@ -3,8 +3,8 @@ aliases: Goodhart's Law
 ---
 # Your metrics shouldn't become your goals
 #publish
-Related to [[Philosophy on dating]] and [[Selective ignorance]]. [[SRE career notes]]?
+Related to [[Selective ignorance]]. Part of [[Musings on tech]].
 
-In other words, when we set one specific goal, people will tend to optimize for that objective regardless of the consequences. This leads to problems when we neglect other equally important aspects of a situation.
+When we set a specific goal, particularly in highly distributed organizations, people will tend to optimize for that objective regardless of the consequences. This leads to problems when we neglect other equally important aspects of a situation.
 
-Also called Goodhart's Law, as mentioned [[2023-10-25]] at the Geo O11y summit.
+Also called Goodhart's Law.

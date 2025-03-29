@@ -4,7 +4,7 @@ Opened [[2024-09-19]]. Originally wrote this down [[2024-02-02]]. Related to [[P
 
 [Spotify link](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT)
 
-That song by Illenium. It gives me vivid imagery for some reason:
+That really generic pop EDM song by Illenium. It gives me vivid imagery for some reason:
 - Girl stands in the rain on a bridge in a city. Low color.
 - 0:43: "Say something different" -- an airplane's trail flashes in color; eyeblink flashback to sitting on a plane with her ex
 - 1:07: Colored ghosts push out of her, overlapping and yelling muted
