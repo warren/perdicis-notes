@@ -108,13 +108,14 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - [ ] Midas Man - doc about Brian Epstein (Beatles' manager)
 - [ ] White blue and red (French film recommended by Kim who likes foreign films)
 - [ ] Dark (German show, rec by Kim)
-- [ ] Mystery cuddlers. Show that's similar to adventure time
+- [x] Mystery cuddlers. Show that's similar to adventure time
 - [x] My Dinner with Andre
 - [x] Shoplifters 
 - [x] Nosferatu (2024) - Willem dafoe, Bill S movie Xander watched
 - [ ] blackberry movie
 - [ ] v for vendetta
 - [ ] Pride and prejudice (2004)
+- [ ] The Animatrix
 
 
 ### Trash movies to watch while multitasking
@@ -123,10 +124,7 @@ https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TK
 - now you see me
 - the legend of vox machina - Chris Prynoski is a producer like on Pantheon
 - Hells Paradise in a nutshell
-- The sympathizer - might not be trash actually
 - 57 seconds 
 - Orville
 - Ministry of ungentlemanly warfare
 - scavengers reign
-- blue eye samurai
-- severance

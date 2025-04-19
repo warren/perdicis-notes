@@ -21,7 +21,7 @@ Bite-sized
 - Important SRE/DevOps principles
     - [[Communicating incident state]]
     - [[Good alert best practices]]
-
+- [[USB-C More than you wanted to know|USB-C: More than you wanted to know]]
 ## Unwritten
 - [[S2 cells]]
 - [[Post-truth media]]

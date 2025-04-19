@@ -18,6 +18,7 @@ My Goodreads (very incomplete): [Click me](https://www.goodreads.com/user/show/1
 - [[Excerpt from The Wise Man's Fear]]
 - [[Excerpt from The French Lieutenant's Woman]]
 - [[Excerpt from The Man in the Arena]]
+- [[Excerpt from The Dead]]
 - [[Modern art exists because of financial loopholes]] - the quote here about modernism
 
 ### Poetry
@@ -38,4 +39,10 @@ My Goodreads (very incomplete): [Click me](https://www.goodreads.com/user/show/1
 
 ## Film I like
 - More generally: [[Movies I've seen]]
-- Anton Ego's (technically, Brad Byrd's) [speech](https://youtu.be/Ih6jcKd7VwU) from Ratatouille.
+- Anton Ego's (technically, Brad Bird's) [speech](https://youtu.be/Ih6jcKd7VwU) from Ratatouille: [[Anton Ego's speech]]
+
+## Art I like
+_Probably deserves its own page._
+- Digital painting: I take inspiration from a few artists including [Sinix](https://www.instagram.com/sinixdesign), [Jen Zee](https://www.instagram.com/jenzee_art), [Esben Lash](https://www.instagram.com/esbenlash), [Leyendecker](https://wikipedia.org/wiki/J._C._Leyendecker), and similar artists who paint traditional styles digitally.
+- Abstract art: Super hit or miss, I think a lot of it is overrated but every once and a while there's a piece that I like for reasons I can't put my finger on. Such as:
+    - https://www.guggenheim.org/artwork/1470

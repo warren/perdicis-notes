@@ -42,6 +42,7 @@ _(!) = personal favorites_
 - [FoodGuessr](https://www.foodguessr.com/) - Guess what country the food is from.
 - [NYT mini crossword](https://www.nytimes.com/crosswords/game/mini) - Crossword, but mini!
 - [NYT Connections](https://www.nytimes.com/games/connections) - Group 4 words with subtle similarities. Very quick games.
+- https://pkmnquiz.com/ - name pokemon
 - Word cloud association graph puzzle game hosted at the Google Games for a few years ~201X. It's referenced in [this](https://ericbai.co/making-connect-the-stars#heading-inspiration) blog post but never named. I'm not sure if it was a private game or if it was ever made public. If you know what I'm talking about, please contact me!
 
 ### Wordle variants

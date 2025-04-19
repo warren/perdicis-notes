@@ -162,7 +162,8 @@ I ran into my campmates Vicky, Daniel, and Luona at this point -- and Vicky had 
 
 A few side quests emerged:
 - Do a dust angel and ring the bell as part of virgin initiation. Daniel, who had burned before, said, "Playa dust gets everywhere. We all try to keep it out in the beginning. But it always gets in. Doing the dust angel stops you from worrying about being perfect. It's like jumping into a pool instead of wading in."
-    - I jumped in the pool. And slammed the bell and yelled. The bell steward lady gave me a hug and said "welcome home" and "I'm glad you're here." "Glad to be here."
+    - I jumped in the pool. And slammed the bell and yelled. The bell steward lady gave me a hug, saying "welcome home. I'm glad you're here."
+    - "Glad to be here too."
 - Load my stuff onto the tram (the first two trams were full from other people's luggage, and we needed to hustle to get on the third).
 
 ![[PXL_20240825_051836913.MP.jpg]]

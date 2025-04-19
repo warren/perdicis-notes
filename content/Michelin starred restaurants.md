@@ -7,6 +7,8 @@ I think there are really only two categories of Michelin-starred restaurants:
 
 I strongly prefer type 2.
 
+## Recs
+[[2025-04#Week 1|2025-04-05]]: Got Richard's Beli recs [here](https://app.beliapp.com/lists/chabashira). He has strong opinions about Michelin starred restaurants.
 
 ## My visits (deprecated)
 _This isn't a very efficient way to record my restaurants reviews... I'll do that in [[Google maps maps]]_
@@ -18,3 +20,4 @@ Some I didn't like:
 - Robin ([[2022-04-10]])
 - Plumed Horse ([[2022-06-11]])
 - Mister Jiu's (date unknown)
+

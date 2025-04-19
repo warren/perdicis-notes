@@ -9,7 +9,7 @@ Musings dated [[2023-05-06]]. I wonder what I'll think of this article in the fu
 
 AI art is solid cocktail conversation topic these days because anyone can weigh in. Those sympathetic to artists muse sourly over the ethics of training AIs without permission. Engineers and economists discuss compute costs together. In the corner, zoomers and philosophers take shots.
 
-Part of what makes the topic fun is that largely, everyone already agrees. Stealing is bad, AIs who are more competent than humans are scary, and capitalism is probably going to produce a situation nobody is happy with. In general, most people seem to regard the future of AI art negatively.
+Part of what makes the topic fun is that largely, everyone already agrees: stealing is bad, AI surpassing humans is scary, and capitalism is probably going to produce a situation nobody is happy with. In general, most people have a pessimistic take.
 
 ### My opinion
 I want to document a contrarian take, that AI art is actually a force for net good. It will (1) allow the world to produce a greater quantity of art, (2) spur the average person to train a more critical eye when interpreting art, and (3) have a net zero or net positive effect at lowering the barrier for individuals to produce meaningful art.

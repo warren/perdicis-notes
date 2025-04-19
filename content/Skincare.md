@@ -15,7 +15,7 @@ That provides enough moisture for the day. The sunscreen works as lotion for me 
 
 **Evening**
 1) CeraVe foaming facial cleanser again
-2) (Optional, only do this as needed like once per 2 months) The Ordinary Peeling Solution 30% AHA + 2% BHA
+2) (Optional, only do this as needed like once per 3-6 months) The Ordinary Peeling Solution 30% AHA + 2% BHA
 3) Haruharu black rice hyaluronic acid toner
 4) Facial lotion of some kind. I use a green tea gel moisturizer - emphasis on the "gel" because my oily combination skin reacts better to alcohol-based products. I used the ordinary natural moisturizing factors for a while and swapped to a green tea facial moisturizer that was cheaper and scentless.
 

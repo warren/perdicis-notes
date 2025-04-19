@@ -6,6 +6,8 @@ Opened [[2024-06-10]]. Related to [[Movies to watch]]. Overlaps with several [[M
 ## The list
 _A randomly-ordered list, honestly, biased towards things I've seen recently and liked. (!) means I especially liked it. The bottom of this page has the stuff I reeeally, recommend though._
 
+- (!) The Grand Budapest Hotel
+    - My favorite Wes Anderson film. Incredibly aesthetically compelling, and has a cute, enjoyably unpredictable storyline. 
 - [[The Boy and the Heron]]
 - (!) Dune 1
     - Liked the set design. See it in the original dimensions if possible with a good speaker system, not the cropped streaming version.
@@ -40,6 +42,7 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
     - Andrew Callaghan / Channel 5 meme footage movie published by A24 about media echo chambers leading up to the 2021 Capitol riots. Kind of disturbing honestly but played for laughs
 - (!) Good Will Hunting
     - Great character drama. Occasionally edgy. Hard to tell how much I like this for being set in Boston and having watched it during my edgy, academia-romanticization phase. Would recommend just for the male chemistry between Matt Damon and Robin Williams.
+- Fight Club
 - Shaolin Soccer
 - In Bruges
 - Now You See Me
@@ -61,20 +64,31 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
 - Suzume
     - Didn't like it quite as much although the chair was cute
 - Bee and Puppycat
-- (!) Adventure time
+- (!) Adventure Time
     - Some part of this show tickles my brain. Introducing emotional intelligence to kids in a casual, blink-and-you'll-miss-it type way is the best way to make them internalize it, I think. It makes me feel warm and fuzzy.
 - (!) Knives out
 - Knives out sequel
     - Meh.
+- Blue Eye Samurai
+    - Overindulgent and not for me. The screenwriting bends over backwards to make the main character look cool.
 - The Sympathizer
     - Falls into the horror movie trap of `amazingly strong premise + too many shock scenes = disappointing ending that can't explain itself`
     - Lots of frustratingly inconsequential plot threads
     - Sub par casting decisions imo. Especially Robert Downey Jr playing 5 characters for, literally, no really, literally no reason other than probably to Oscar bait us.
+- Shoplifters
+    - I liked this.
+    - Warrants a lot of thoughtful discussion afterwards.
 - (!) Arcane
     - 250M budget is absurdly huge
     - Suffers from Spider-Man: Into the Spiderverse syndrome where any still from the show could be made a wallpaper. Fortiche's worldbuilding is beautiful.
 - [[The Substance]]
     - I didn't like this movie.
+- Severance
+    - Wow it starts slow. It felt like 40 minutes of filler and 5 minutes of moving the plot forward per episode. But by the time Season 1 ends there's a lot going on.
+- Common Side Effects
+    - The art style was such a blunder imo. But the plot here is solidly written, borderline too fast as episodes cram a lot of content into ~22 min packages. One single episode contains like 2x of what a full 45 min Severance episode contains.
+- Mystery Cuddlers
+    - Doesn't recapture the Pendleton Ward-style magic I expected it would. I didn't watch the whole thing. I felt it would have benefitted from having two likable main characters -- like Adventure Time's lead duo -- instead of one cowardly character who is kind of a bummer to have so much screen time.
 
 
 ## Movies I've seen _and strongly recommend_
@@ -83,8 +97,6 @@ Movies
     - Currently (as of 2024) my favorite film of all time. _Ask me for the pitch on this film_. The trailer and online summaries totally fail to explain how unlikely and cool it .
 - Apollo 11 (CNN film)
     - Pure vibes. Real footage of the Apollo moon landing, lost for decades, then regraded and upscaled and turned into a dramamentary.
-- The Grand Budapest Hotel
-    - My favorite Wes Anderson film. Incredibly aesthetically compelling, and has a cute, enjoyably unpredictable storyline.
 - Good Will Hunting
     - To do: explanation
 

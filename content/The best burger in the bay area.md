@@ -30,7 +30,7 @@ Related to [[Warren's long burgers]].
 | [[Chez Maman]]                    | 7/10               | 1                      | $22       |
 | [[Arbor]]                         | 5/10               | 0.25                   | $17       |
 | [[Cafe Reveille]]                 | 5/10               | 0                      | $17       |
-| [[Hazie's]]                       | 6.5/10             | 0.5                   | $24       |
+| [[Hazie's]]                       | 6.5/10             | 0.5                    | $24       |
 
 ## Philosophy behind these ratings
 It's hard to rate a burger definitively "X/10" because burgers have a wide variety of ingredients and degrees of fanciness - you're often not comparing the same type of burger to the next.
@@ -50,10 +50,9 @@ Example rating from the [[Spruce]] review:
 > - Pickled onion (+0.25 as onions are staple but it's unusual to pickle them)
 
 ## Appendix
-Burger-related but I haven't written about yet: [[Warren's long burgers]]
-
-https://sfstandard.com/2024/09/30/best-burgers-san-francisco/ has a neat bucket list
 
 Found [[2023-04-30]]: [The best SF burgers, according to /r/AskSF](https://www.reddit.com/r/AskSF/comments/1341txx/best_burger_in_san_francisco/)
+
+[[2024-09-30]]: https://sfstandard.com/2024/09/30/best-burgers-san-francisco/ has a neat bucket list
 
 [[2024-12-15]]: New list to visit: https://www.theinfatuation.com/san-francisco/guides/best-burgers-san-francisco
