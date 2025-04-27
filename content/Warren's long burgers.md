@@ -22,12 +22,18 @@ And here's that same burger afterwards:
 
 ![[Screenshot 2025-04-13 at 11.31.49 AM.png]]
 
-What a difference! The thing is, it uses the same amount of ingredients. You could theoretically squish the bun too; here's how that would look:
-
-((third diagram))
-
-How the OpenSCAD of this all works: [[Warren's long burgers math]]
+They use the same volume of everything! If you're curious here's the OpenSCAD behind me doing this: [[Warren's long burgers math]]
 
 And for funsies, here's the same diagram but using AI to paint over and visualize it:
 
-((PIC: Diagram))
+![[ChatGPT Image Apr 27, 2025, 10_45_54 AM.png]]
+_Tall version._
+
+Even ChatGPT recognizes it's too tall ([source conversation](https://chatgpt.com/share/680e6e53-cc90-8007-8f7e-47bdb97d46af))!
+
+![[Screenshot 2025-04-27 at 10.39.10 AM 3.png]]
+
+And here's the same, flattened burger:
+
+![[ChatGPT Image Apr 27, 2025, 10_49_30 AM.png]]
+
