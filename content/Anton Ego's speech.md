@@ -1,6 +1,6 @@
 # Anton Ego's speech
 #publish 
-Opened [[2025-04#Week 3|2025-04-19]]. From [[Poetry and literature I like]].
+Opened [[2025-W16|2025-04-19]]. From [[Poetry and literature I like]].
 
 From Ratatouille (the Pixar film). Brad Bird did all the writing and directing for the film, and actor Peter O'Toole did the VA for this character.
 

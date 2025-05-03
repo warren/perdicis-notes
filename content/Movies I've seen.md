@@ -89,6 +89,7 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
     - The art style was such a blunder imo. But the plot here is solidly written, borderline too fast as episodes cram a lot of content into ~22 min packages. One single episode contains like 2x of what a full 45 min Severance episode contains.
 - Mystery Cuddlers
     - Doesn't recapture the Pendleton Ward-style magic I expected it would. I didn't watch the whole thing. I felt it would have benefitted from having two likable main characters -- like Adventure Time's lead duo -- instead of one cowardly character who is kind of a bummer to have so much screen time.
+- (!) Sinners
 
 
 ## Movies I've seen _and strongly recommend_

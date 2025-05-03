@@ -3,7 +3,7 @@
 
 _Part of a series on [[The best burger in the bay area]]._
 
-Outdoor patio-only BBQ restaurant that I visited with Sharon on [[2022-06-08]].
+Outdoor patio-only BBQ restaurant that I visited on [[2022-06-08]].
 
 https://maps.app.goo.gl/BSrRdCHFwDBLw2uo9
 

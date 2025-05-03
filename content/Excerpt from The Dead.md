@@ -1,6 +1,6 @@
 # Excerpt from The Dead
 #publish 
-Opened [[2025-04#Week 3|2025-04-19]]. From [[Poetry and literature I like]].
+Opened [[2025-W16|2025-04-19]]. From [[Poetry and literature I like]].
 
 From James Joyce's _The Dead_, a short story he wrote as part of his collection _Dubliners_.
 
