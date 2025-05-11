@@ -414,10 +414,10 @@ _Goodbye, BRC_
 Now that we're on roughly the same page I can cover my takeaways. In no particular order...
 
 ### Ponderings
-#### On gratefulness (a discussion with Ben, my campmate)
-Pure, unadulterated gratefulness was one of the nicest aspects of the burn.
+#### On gratitude (a discussion with Ben, my campmate)
+Pure, unadulterated gratitude was one of the nicest aspects of the burn.
 
-Being grateful to another human being who helped you -- and vice versa -- is more tangible and intimate than being grateful for the abstract quality-of-life things we have in the default world. An example: the gratefulness of "having cold running water" isn't the same as gratefulness of "that bartender Sarah who offered me some cold water from behind the bar". The latter feels more human even if it's slightly less convenient.
+Being grateful to another human being who helped you -- and vice versa -- is more tangible and intimate than being grateful for the abstract quality-of-life things we have in the default world. An example: the gratitude of "having cold running water" isn't the same as gratitude of "that bartender Sarah who offered me some cold water from behind the bar". The latter feels more human even if it's slightly less convenient.
 
 I almost wish the burn had lasted longer so I could suffuse my brain deeper in this feeling and try to seek it more intentionally in my daily life.
 

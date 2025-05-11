@@ -20,6 +20,7 @@ _My favorite cocktails, replicated from various bars/parties or invented by me. 
 - [[Orange Jack]] ... TBD: not yet replicated/invented
 - [[4XT]] ... TBD
 - [[Summer again..]] ... TBD: first encountered the day of Fred Again's SF concert
+- [[Kurosaki]] ... TBD: first encountered at The Progress in SF
 
 ## To try
 - Pink Nazi: Jaegermeister + Pepto Bismal. Caltech specialty

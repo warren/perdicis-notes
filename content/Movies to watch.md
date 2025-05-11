@@ -8,6 +8,8 @@ Opened [[2022-02-02]]. Related to [[Movies I've seen]].
 
 https://docs.google.com/spreadsheets/d/1E9zn-9I_1F4wEc83ZXUnoYnIUy02u0ogjFr315TKnUQ/edit?usp=drivesdk
 
+Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
+
 -   [x] Spider-man into the spiderverse
 -   [x] Shaolin Soccer
 -   [ ] 3 billboards outside Evving Missouri

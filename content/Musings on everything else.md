@@ -46,6 +46,7 @@ Misc notes
 - [[The fitness enthusiast's guide to eating out in SF]]
 - [[Hysteresis]]
 - [[A causal test of the strength of weak ties]]
+- [[Low context positive affordances]]
 
 ## Miscategorized (TODO: move these elsewhere)
 - [[Recipes]]

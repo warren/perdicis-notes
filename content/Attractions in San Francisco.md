@@ -35,6 +35,10 @@ I've lived in San Francisco since [[2022-08-11]]. While I haven't trawled the wh
     - Rotating menu that changes every month.
     - Don't get the "state bird" dish, it's overrated.
     - Get whichever type of "toast" they have; it's always good.
+- Union Larder
+    - Excellent charcuterie and wine bar. Also a bit pricey.
+    - They open at 4pm, and by 6pm on a Friday there will be a line out the door. Arrive before then if you can.
+    - I recommend the bresaola (cured beef), which is the best charcuterie meat I've ever had (praise dated [[2025-W19|2025-05-09]]).
 - Tacos El Patron
     - My favorite _traditional_ tacos in SF.
 - Lolo's
