@@ -219,7 +219,7 @@ _... complete with a chunky library computer_
 ![[PXL_20240830_224939720.MP.jpg]]
 _Nonsense signage_
 
-![[PXL_20240826_231050043.MP.jpg]]
+![[PXL_20240826_231050043.MP-EDIT.jpg]]
 _Horchata and melon snow cones! Also pictured: our drivers licenses taped to our personal cups. It's typical at BRC to do this to make it easier on bartenders serving you alcohol_
 
 ![[PXL_20240901_005132251.MP.jpg]]
