@@ -28,9 +28,9 @@ Specific things I liked:
 - Zima acts more human than Carrie.
     - Zima remembers this imperfectly and embellished.
     - Carrie remembers things and even makes decisions by performing a "query" to her AM.
-- Returning to their inner natures (?)
-    - Zima, to a single purpose automaton
-    - Carrie, to her more optimistic but selectively ignorant self by writing for the Martian paper
+- Characters returning to their inner natures:
+    - Zima, to a single purpose automaton.
+    - Carrie, to her more optimistic but selectively ignorant self by writing for the Martian paper.
 - How fitting! That Carrie, a journalist, should choose to carry an AM unit to record events as accurately as possible.
 - Alternative interpretation: Zima is obsessed. Perhaps it's not an enlightened choice that he returns to his blue-obsessed self.
     - This irrational obsession is ironically quite human.
