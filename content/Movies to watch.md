@@ -119,6 +119,12 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] Pride and prejudice (2004)
 - [ ] The Animatrix
 - [ ] Fantastic Mr Fox
+- [ ] dead poets society
+- [ ] anora
+- [ ] requiem for a dream - rec by rudi, has symbolism I'll probably like
+- [ ] closer - rec by Lewis. Romance story about what people find attractive/want in their partner
+- [ ] la La Land - Lewis's favorite film 
+- [ ] snatch - rec by rudi
 
 
 ### Trash movies to watch while multitasking

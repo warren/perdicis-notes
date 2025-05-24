@@ -24,3 +24,7 @@ Your shadow on a sunny day is a manifestation of light that, having traveled 94 
 
 AM and PM are Latin: ante meridiem and post meridiem. "Meridiem" means mid-day.
 
+Heath Ledger's joker is based on Tom Waits. It's really obvious if you watch literally any [interview with Tom Waits](https://youtu.be/YoVQ5bT1vrg) where you hear him speak. 
+
+
+

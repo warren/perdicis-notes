@@ -90,6 +90,16 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
 - Mystery Cuddlers
     - Doesn't recapture the Pendleton Ward-style magic I expected it would. I didn't watch the whole thing. I felt it would have benefitted from having two likable main characters -- like Adventure Time's lead duo -- instead of one cowardly character who is kind of a bummer to have so much screen time.
 - (!) Sinners
+- (!) Bandersnatch
+    - I'm biased because I like interactive narratives.
+    - Going away on May 12, 2025! https://www.theverge.com/news/663933/netflix-black-mirror-bandersnatch-kimmy-schmidt-removal
+- watchmen
+- memento
+- inception
+- interstellar
+- fight club
+- the dark Knight
+    - [[Fun facts|Fun fact]]: Heath Ledger's Joker persona is based on Tom Waits' actual persona. See [any interview with Tom Waits](https://youtu.be/YoVQ5bT1vrg) where he speaks and the inspiration becomes pretty obvious.
 
 
 ## Movies I've seen _and strongly recommend_
