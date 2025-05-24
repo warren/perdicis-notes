@@ -5,7 +5,7 @@ Opened [[2024-10-24]]; musings dated [[2024-10-31]]. Related to [[Poetry and lit
 ## Overall
 Great short story about the nature of art and memory, with a sci-fi backdrop. The imagery is rich, and the sci-fi is not self indulgent (I can't say the same about some of Qntm's work).
 
-The story is only 15 pages long. You should totally read it before continuing to read my yapping further. [Free PDF of the story](http://www.sfsfss.com/stories2/zima%20blue.pdf)
+The story is only 15 pages long. You should totally read it before seeing my take: [free PDF of the story](http://www.sfsfss.com/stories2/zima%20blue.pdf)
 
 ## Things I liked
 In general, I'm biased in liking this story because its driving plot forces are philosophy and art -- both of which I studied in school.
