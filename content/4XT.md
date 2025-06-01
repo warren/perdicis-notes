@@ -1,6 +1,8 @@
 # 4XT
 #publish 
-An invented [[Cocktails|cocktail]] I first started playing around with [[2025-01-13]] to demo at [[Haightwarming Cocktail Menu|Haightwarming]].
+_Part of a series on [[Cocktails]]._
+
+An invented cocktail I first started playing around with [[2025-01-13]] to demo at [[Haightwarming Cocktail Menu|Haightwarming]].
 
 ![[PXL_20250215_014847497.MP.jpg]]
 _The recipe does not call for lemon dish soap dw_

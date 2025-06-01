@@ -1,6 +1,8 @@
 # Sage Advice
 #publish
-A replica [[Cocktails|cocktail]] from Il Villaggio Osteria, a restaurant in Jackson Hole, Wyoming. I first tried it [[2025-01-12]]. Will attempt to replicate at [[Haightwarming Cocktail Menu|Haightwarming]].
+_Part of a series on [[Cocktails]]._
+
+A replica cocktail from Il Villaggio Osteria, a restaurant in Jackson Hole, Wyoming. I first tried it [[2025-01-12]]. Will attempt to replicate at [[Haightwarming Cocktail Menu|Haightwarming]].
 
 ![[PXL_20250113_030524088.MP~2.jpg]]
 _Forgot to take a photo before drinking oops_

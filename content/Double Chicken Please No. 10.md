@@ -1,6 +1,8 @@
 # Double Chicken Please No. 10
 #publish 
-A replica [[Cocktails|cocktail]] from Double Chicken Please in NYC. I first tried it [[2023-11-29]]. The cocktail doesn't have a name, just "#10".
+_Part of a series on [[Cocktails]]._
+
+A replica cocktail from Double Chicken Please in NYC. I first tried it [[2023-11-29]]. The cocktail doesn't have a name, just "#10".
 
 On [[2024-09-23]] I tested out a bunch of proportions and prepared this drink in bulk for the [[Reflections on Burning Man 2024|Infinite Love]] decompression party:
 

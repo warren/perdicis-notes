@@ -33,7 +33,7 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 -   [x] Exit through the gift shop
 -   [ ] The vietnam war - Ken burns (this is on YouTube for free in my watch later)
 -   [x] The ballad of buster scruggs
--   [ ] Fargo
+-   [x] Fargo
 -   [ ] The dissident - documentary on murdered saudi journalistkh-
 -   [ ] Yellow submarine
 -   [ ] Shrek with Japanese dub
@@ -117,10 +117,10 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] blackberry movie
 - [ ] v for vendetta
 - [ ] Pride and prejudice (2004)
-- [ ] The Animatrix
-- [ ] Fantastic Mr Fox
+- [x] The Animatrix
+- [x] Fantastic Mr Fox
 - [ ] dead poets society
-- [ ] anora
+- [x] anora
 - [ ] requiem for a dream - rec by rudi, has symbolism I'll probably like
 - [ ] closer - rec by Lewis. Romance story about what people find attractive/want in their partner
 - [ ] la La Land - Lewis's favorite film 

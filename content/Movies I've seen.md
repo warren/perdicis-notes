@@ -100,6 +100,10 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
 - fight club
 - the dark Knight
     - [[Fun facts|Fun fact]]: Heath Ledger's Joker persona is based on Tom Waits' actual persona. See [any interview with Tom Waits](https://youtu.be/YoVQ5bT1vrg) where he speaks and the inspiration becomes pretty obvious.
+- Friendship (2025)
+    - This was really hard to watch lol and further solidified that awkward Office-style humor is not my thing
+- [[Anora]] (2024)
+    - 
 
 
 ## Movies I've seen _and strongly recommend_
