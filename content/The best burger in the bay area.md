@@ -9,28 +9,29 @@ Related to [[Warren's long burgers]].
 | **Restaurant**                    | **Overall Rating** | **Unusualness Factor** | **Price** |
 | --------------------------------- | ------------------ | ---------------------- | --------- |
 | [[Miller and Lux]]                | 8.5/10             | 2.5                    | $26       |
-| [[Gott's Roadside]]               | 7.25/10            | 2                      | $15       |
+| [[Gott's Roadside]]               | 6.5/10             | 2                      | $15       |
 | [[The Grove]]                     | 5/10               | 1                      | $18       |
 | [[4505 Burgers & BBQ]]            | 9/10               | 0.25                   | $16       |
-| [[Super Duper Burgers]]           | 7/10               | 0                      | $11       |
+| [[Super Duper Burgers]]           | 6/10               | 0                      | $11       |
 | [[Causwell's]]                    | 3/10               | 0                      | $19       |
 | [[Bazille]]                       | 6.25/10            | 0                      | $16       |
-| [[Bacon Bacon]]                   | 7.25/10            | 0                      | $16       |
+| [[Bacon Bacon]]                   | 6.25/10            | 0                      | $16       |
 | [[Amy's Drive Thru]]              | 6.5/10             | 5                      | $10       |
 | [[Local Kitchen & Wine Merchant]] | 8.75/10            | 1                      | $22       |
 | [[Hobee's]]                       | 4.5/10             | 1                      | $15       |
 | [[Spruce]]                        | 9.5/10             | 2.75                   | $32       |
-| [[Kitchen Story]]                 | 7.5/10             | 1.25                   | $23       |
+| [[Kitchen Story]]                 | 7/10               | 1.25                   | $23       |
 | [[True Food Kitchen]]             | 10/10              | 1.75                   | $19.5     |
 | [[Son and Garden]]                | 2.5/10             | 5                      | $32       |
 | [[Marlowe]]                       | 6/10               | 1.5                    | $25       |
 | [[W6 Cafe]]                       | 2/10               | 0                      | $0        |
 | [[SPRO Coffee Lab]]               | 7.5/10             | 1.75                   | $13       |
 | [[The Fly Trap]]                  | 3/10               | 0                      | $19       |
-| [[Chez Maman]]                    | 7/10               | 1                      | $22       |
+| [[Chez Maman]]                    | 7.25/10            | 1                      | $22       |
 | [[Arbor]]                         | 5/10               | 0.25                   | $17       |
 | [[Cafe Reveille]]                 | 5/10               | 0                      | $17       |
 | [[Hazie's]]                       | 6.5/10             | 0.5                    | $24       |
+| [[Balboa Cafe]]                   | 6.75/10            | 1.5                    | $23       |
 
 ## Philosophy behind these ratings
 It's hard to rate a burger definitively "X/10" because burgers have a wide variety of ingredients and degrees of fanciness - you're often not comparing the same type of burger to the next.

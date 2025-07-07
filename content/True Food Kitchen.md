@@ -2,7 +2,7 @@
 #publish
 _Part of a series on [[The best burger in the bay area]]._
 
-This burger started it all. I first ate here 2021-05-27 and it planted the seed of an idea to create a Bay Area burger tier list. How fitting I should return here _for my first and only 10/10 rating.
+This burger started it all. I first ate here 2021-05-27 and it planted the seed of an idea to curate a Bay Area burger tier list. How fitting I should return here _for my first and only 10/10 rating.
 
 The only downside of this burger is that the restaurant is located in Palo Alto, not SF. But I'm still putting it in my [[Attractions in San Francisco]] list.
 

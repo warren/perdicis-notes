@@ -100,6 +100,7 @@ I've lived in San Francisco since [[2022-08-11]]. While I haven't trawled the wh
     - Bob's Donuts: Open 24/7 and sell giant donuts (bigger than your head; go w friends) to drunk people. There's usually a line out the door even late at night. A San Francisco institution
 - The Sycamore in Mission: just a cozy spot with benches out back
 - Sugar Lounge in Hayes: My fav simple bar in SF. Very simple cocktail bar with occasional free snacks at the door. There's a secret table in the back that looks like it's reservation only but it's totally not and you can use it
+- Tempest Bar in SoMa: One of my favorite hole-in-the-wall dive bars thriving in a gentrified part of the city. Not a very interesting neighborhood though so don't come here just to visit.
 
 ## Misc
 - https://sfpopos.com contains a list of all of San Francisco's Privately Owned Public Open Spaces. Basically, public spaces hidden inside private buildings, like fancy apartments and offices. These are pretty hit or miss in my experience but they're nice spots to visit on a sunny day with a sketchbook, bagged meal, and company.

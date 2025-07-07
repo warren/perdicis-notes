@@ -2,7 +2,7 @@
 #publish 
 _Part of a series on [[The best burger in the bay area]]._
 
-Rather soulless-ly decorated brunch restaurant in Rincon Hill I visited on [[2022-11-20]] with Ayush, Jun, Lisa, and Mounica that against all odds serves an exceptional burger. This is the last place I'd expect to find one!
+Brunch restaurant in Rincon Hill with somewhat... soulless decor inside. I visited on [[2022-11-20]] with Ayush, Jun, Lisa, and Mounica. Against all odds, this place serves an exceptional burger. It's the last place I'd expect to find one!
 
 ![[PXL_20221120_210410772.jpg]]
 

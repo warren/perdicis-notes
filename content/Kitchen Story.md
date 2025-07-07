@@ -11,7 +11,7 @@ Specifically, I got the burger called the New England Burger:
 - White cheddar (+0.25)
 
 Total unusualness factor: 1.25
-Rating: 7.5/10
+Rating: 7/10
 
 ![[PXL_20230116_201113970.MP.jpg]]
 

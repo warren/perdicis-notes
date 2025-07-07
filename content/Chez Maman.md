@@ -12,13 +12,14 @@ Hard to rate this objectively because I modified the burger, but I felt it was a
 
 So unusualness is between a 0.5-1 because:
 - Ciabatta (+0.5)
-- Mushrooms/swiss (+0.5) - can be removed next time
+- Mushrooms (+0.25)
+- Swiss (+0.25) - can be removed next time
 
 The beef was very nice. Seems like it was ground inhouse.
 
 So, ratings:
 
-Total: 7
+Total: 7.25
 Unusualness: 1 (but can be less)
 Price: $22 (but can be less)
 

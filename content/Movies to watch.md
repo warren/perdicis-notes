@@ -123,8 +123,21 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [x] anora
 - [ ] requiem for a dream - rec by rudi, has symbolism I'll probably like
 - [ ] closer - rec by Lewis. Romance story about what people find attractive/want in their partner
-- [ ] la La Land - Lewis's favorite film 
+- [x] la La Land - Lewis's favorite film 
 - [ ] snatch - rec by rudi
+- [x] The red balloon (1956)
+- [ ] closer - rec by Lewis
+- [x] little miss sunshine
+- [ ] Whisper of the Heart - early ghibli movie
+- [ ] Synecdoche New York
+- [ ] Prisoners (2013)
+- [ ] Fight Club (again)
+- [ ] A Clockwork Orange (1971) - kubrick self-banned this bc grisly
+- [ ] V for Vendetta (2005)
+- [ ] Watchmen (2009)
+- [ ] pulp fiction (again)
+- [x] Kitbull (short)
+- [x] Feast (short)
 
 
 ### Trash movies to watch while multitasking
@@ -137,3 +150,4 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - Orville
 - Ministry of ungentlemanly warfare
 - scavengers reign
+- Murderbot

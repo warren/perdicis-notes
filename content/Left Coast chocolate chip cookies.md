@@ -6,6 +6,9 @@ _Part of a series on [[Recipes]]._
 ![[leftcoastcookie.png]]
 _Photo from the recipe doc_
 
+![[PXL_20220629_212053438.jpg]]
+_From a Google catering event_
+
 ## What is it
 "Shortbread" chocolate chip cookies, made famous in the Google SFO office. Possibly my favorite incarnation ever of a chocolate chip cookie?
 

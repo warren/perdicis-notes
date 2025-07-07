@@ -8,7 +8,7 @@ A Spark Social food truck I visited on [[2022-07-27]] that sells a lot of things
 
 Burger ingredients are super generic. It's a double patty with lettuce, tomato, cheddar, and bacon (which I asked them to hold).
 
-7.5/10 rating. It's better than [[Super Duper Burgers]] but just barely.
+6.25/10 rating. It's better than [[Super Duper Burgers]] but just barely.
 
 
 Cost was $16.

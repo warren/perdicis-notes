@@ -103,7 +103,22 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
 - Friendship (2025)
     - This was really hard to watch lol and further solidified that awkward Office-style humor is not my thing
 - [[Anora]] (2024)
-    - 
+- Monty Python and the Holy Grail
+- La La Land
+    - Overall liked it.
+    - I liked that the set design, dialogue delivery, scenery, etc. were reminiscent of Broadway musicals
+        - I know the film won Oscars for this but I still feel they could have done more with it? Like either more surreal scenes or fewer surreal scenes, i.e. pick a lane
+    - Story felt extremely reminiscent of Whiplash.
+        - I sort of preferred Whiplash.
+- Whiplash
+- iron giant
+- (!) playtime (1967)
+    - never seen anything like this movie before.
+    - it's like, observational comedy. 
+    - requires quite a decent amount of work from the audience to read between the lines and pick out what's funny
+    - the first ~hour is a bit slow but necessary to introduce you to the strange surreal concrete jungle version of Paris
+    - the restaurant scene is so incredibly cool. I don't know how the director was able to pull it off. It's like a whole 40 minutes of chaos happening between 50+ actors, with all the interesting parts of the chaos and more captured on film
+    - I'm sure I'd get a lot out of watching this a second time.
 
 
 ## Movies I've seen _and strongly recommend_

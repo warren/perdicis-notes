@@ -133,3 +133,5 @@ Maybes
 https://www.instagram.com/reel/C-SiWvCS25a/?igsh=MzRlODBiNWFlZA==
 
 To learn later? Puppyhammer. https://www.reddit.com/r/flowarts/s/Xlp1tOcDPd
+
+This obscure contact staff notation system is cool: https://note.com/staffjugglelab/n/n13ea845a0a28
