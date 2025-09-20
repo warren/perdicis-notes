@@ -103,12 +103,21 @@ I've lived in San Francisco since [[2022-08-11]]. While I haven't trawled the wh
 - Tempest Bar in SoMa: One of my favorite hole-in-the-wall dive bars thriving in a gentrified part of the city. Not a very interesting neighborhood though so don't come here just to visit.
 
 ## Misc
+- https://fenetre.cam isn't an attraction, but it's a live GoPro feed of the fog status of the city. A beautiful and useful view!
 - https://sfpopos.com contains a list of all of San Francisco's Privately Owned Public Open Spaces. Basically, public spaces hidden inside private buildings, like fancy apartments and offices. These are pretty hit or miss in my experience but they're nice spots to visit on a sunny day with a sketchbook, bagged meal, and company.
 - Chateau Tivoli bed and breakfast is a really cool looking hotel I noticed in [[2023-04-16]]. I have no reason to go since I live in SF already but could be a fun experience for visitors. Maybe you can lodge here?
 - Things Lucky Handicraft in Haight-Ashbury is a super vibey crafts supply store that is the only operating commercial store on Page St. They've been there for over a decade. Calm vibe. Nice to wander around and see/feel all the textures.
 - Nijiya Market in Japantown
     - Cheap supermarket with small prepackaged meals. A great date idea is grabbing cheap sushi here and smuggling it into a movie next door at the AMC Kabuki 8.
 
+## Nature / Views
+- [Glen Canyon Park](https://maps.app.goo.gl/E3t5GEK2LcDETFoP9) is far south, but it's a really nifty park I'd recommend visiting if you're in the area. It's basically a canyon cutting straight through the land and is brimming with nature. Really vertical slopes. Even though there's a freeway adjacent, you don't hear it.
+    - And- [[Fun facts]] about it:
+        - 1850s: Used to be a gum tree ranch (that's why there's so many eucalyptus trees). The gold rush started in 1848, so this was back when there wasn't anyone to say "no, you can't own this useless canyon full of rocks and trees"
+        - 1868: Became the first _dynamite factory_ in the US, after Alfred Nobel (of Nobel Prize fame) invented dynamite the year before. His dynamite was produced here!
+        - 1869: The dynamite factory blew itself up lol
+        - 1889: Became an amusement park, with tightropes and hot air balloon rides and baseball diamonds which were rented out for corporate events. Kids eventually had to stop coming because the company parties were so boistrous.
+        - 1922: The city of San Francisco bought the land, turning it into a park.
 
 ## Special occasions
 Things you can't do all the time. But if you're in town at the right time, you should.
@@ -117,6 +126,9 @@ Things you can't do all the time. But if you're in town at the right time, you s
     - ONLY OPEN CERTAIN DAYS. I'd recommend coming Saturdays since there are the most popups
     - I used to live nearby and come here Saturday mornings. Lots of great sights, smells, and food here, and always bustling with people.
     - In the back, there's a stand called Downtown Bakery & Creamery that sells a Fig Newton imitation as big as your hand. They should have called it the Big Newton. See [[2023-04-29]] for a pic.
+
+**First weekend of every month**
+- Uji time dessert serves tofu soft serve -- need to test this myself first
 
 **December**
 - Extravagantly decorated Christmas houses!

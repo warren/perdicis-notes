@@ -114,8 +114,7 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [x] My Dinner with Andre
 - [x] Shoplifters 
 - [x] Nosferatu (2024) - Willem dafoe, Bill S movie Xander watched
-- [ ] blackberry movie
-- [ ] v for vendetta
+- [ ] V for Vendetta (2005)
 - [ ] Pride and prejudice (2004)
 - [x] The Animatrix
 - [x] Fantastic Mr Fox
@@ -133,11 +132,13 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] Prisoners (2013)
 - [ ] Fight Club (again)
 - [ ] A Clockwork Orange (1971) - kubrick self-banned this bc grisly
-- [ ] V for Vendetta (2005)
 - [ ] Watchmen (2009)
 - [ ] pulp fiction (again)
 - [x] Kitbull (short)
 - [x] Feast (short)
+- [ ] Sherman's March - rec by Dad about General Sherman
+- [ ] hundreds of beavers - made aware (not necessarily a rec) by Anthony. It's a three stooges/Charlie Chaplin/silent comedy imitator made in current era
+- [ ] Perfect Blue 4k remaster
 
 
 ### Trash movies to watch while multitasking

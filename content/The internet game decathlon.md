@@ -43,6 +43,10 @@ _(!) = personal favorites_
 - [NYT mini crossword](https://www.nytimes.com/crosswords/game/mini) - Crossword, but mini!
 - [NYT Connections](https://www.nytimes.com/games/connections) - Group 4 words with subtle similarities. Very quick games.
 - https://pkmnquiz.com/ - name pokemon
+- https://graphs.world - guess the graph
+- https://linxicon.com - develop a bridge between distant words where each word means the same as its neighbor
+- https://semantical.fun/ - like an easier multiple choice version of Linxicon but with a hidden destination
+- https://raddle.quest - solve quiz-style questions vertically down and up a "ladder" of questions, and each answer provides the starting point for the next question
 - Word cloud association graph puzzle game hosted at the Google Games for a few years ~201X. It's referenced in [this](https://ericbai.co/making-connect-the-stars#heading-inspiration) blog post but never named. I'm not sure if it was a private game or if it was ever made public. If you know what I'm talking about, please contact me!
 
 ### Wordle variants

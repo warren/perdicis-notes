@@ -10,6 +10,7 @@ My writing
 - [[DTC fashion brands and dropshipping]]
 - [[Reflections on Burning Man 2024]]
 - [[Improved geolocation devices]]
+- [[Figuring out my house's birthday]]
 
 Media review
 - [[What are dreams for]]
@@ -25,7 +26,6 @@ Misc notes
 - [[Mom's advice for redeye flights]]
 - [[Marriage advice from Mom and Dad]]
 - [[Where does Apple maps source its images]]
-- [[Arguments against Christian life after death]]
 
 ## Semi-written
 - [[Modern art exists because of financial loopholes]]

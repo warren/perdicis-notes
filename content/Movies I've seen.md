@@ -6,6 +6,14 @@ Opened [[2024-06-10]]. Related to [[Movies to watch]]. Overlaps with several [[M
 ## The list
 _A randomly-ordered list, honestly, biased towards things I've seen recently and liked. (!) means I especially liked it. The bottom of this page has the stuff I reeeally, recommend though._
 
+### Short films
+_I feel short films are rather formulaic but shrug_
+- Bao
+- Kitbull
+- Feast
+
+### Normal length films
+
 - (!) The Grand Budapest Hotel
     - My favorite Wes Anderson film. Incredibly aesthetically compelling, and has a cute, enjoyably unpredictable storyline. 
 - [[The Boy and the Heron]]
@@ -119,6 +127,15 @@ _A randomly-ordered list, honestly, biased towards things I've seen recently and
     - the first ~hour is a bit slow but necessary to introduce you to the strange surreal concrete jungle version of Paris
     - the restaurant scene is so incredibly cool. I don't know how the director was able to pull it off. It's like a whole 40 minutes of chaos happening between 50+ actors, with all the interesting parts of the chaos and more captured on film
     - I'm sure I'd get a lot out of watching this a second time.
+- (0.5!) Arrival
+    - I quite liked this film. It's a sci-fi character drama which is a pretty unusual take on the sci-fi genre.
+    - I didn't _love_ it though. I think what's holding me back from that is the scale of the story being too small for the limited cast of characters they had. I wouldn't mind the film being a whole extra hour, 2->3hrs, if they fleshed out characters beyond just the protagonist.
+    - its art direction feels very quintessentially Denis Villenueve
+- [[Fantastic Four First Steps]]
+- Flow
+    - Great movie for what it is (90 minutes of dialogue-less animals)
+    - I really appreciated that the anthropomorphic dial was turned to 25% (somewhat smart wild animals) instead of 100% (Pixar-tier animals who are basically humans in animal bodies)
+    - The animators nailed the behavior patterns of a cat. The little tic and hind leg arch that cats do when they see something they're about to jump onto... totally nailed
 
 
 ## Movies I've seen _and strongly recommend_

@@ -26,5 +26,11 @@ AM and PM are Latin: ante meridiem and post meridiem. "Meridiem" means mid-day.
 
 Heath Ledger's joker is based on Tom Waits. It's really obvious if you watch literally any [interview with Tom Waits](https://youtu.be/YoVQ5bT1vrg) where you hear him speak. 
 
+Regarding [Glen Canyon Park](https://maps.app.goo.gl/E3t5GEK2LcDETFoP9) (see: [[Attractions in San Francisco]]):
+- 1850s: Used to be a gum tree ranch (that's why there's so many eucalyptus trees). The gold rush started in 1848, so this was back when there wasn't anyone to say "no, you can't own this useless canyon full of rocks and trees"
+- 1868: Became the first _dynamite factory_ in the US, after Alfred Nobel (of Nobel Prize fame) invented dynamite the year before. His dynamite was produced here!
+- 1869: The dynamite factory blew itself up lol
+- 1889: Became an amusement park, with tightropes and hot air balloon rides and baseball diamonds which were rented out for corporate events. Kids eventually had to stop coming because the company parties were so boistrous.
+- 1922: The city of San Francisco bought the land, turning it into a park.
 
 

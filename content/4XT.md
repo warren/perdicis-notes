@@ -8,7 +8,7 @@ An invented cocktail I first started playing around with [[2025-01-13]] to demo 
 _The recipe does not call for lemon dish soap dw_
 
 ## Flavor profile
-Sweet, smoky, and tangs of holidaytime flavors from a tea blend (cinnamon, hibiscus, chamomile, chicory, apple and orange).
+Sweet, apple cider-y, and hints of holidaytime flavors from a tea blend (cinnamon, hibiscus, chamomile, chicory, apple and orange).
 
 ## Ingredients
 - 4oz TJ's spiced cider
