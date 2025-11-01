@@ -22,9 +22,9 @@ And here's that same burger afterwards:
 
 ![[Screenshot 2025-04-13 at 11.31.49 AM.png]]
 
-They use the same volume of everything! If you're curious here's the OpenSCAD behind me doing this: [[Warren's long burgers math]]
+They use the same volume of everything! Math behind this: [[Warren's long burgers math]]
 
-And for funsies, here's the same diagram but using AI to paint over and visualize it:
+For funsies, here's the same diagram but using AI to paint over and visualize it:
 
 ![[ChatGPT Image Apr 27, 2025, 10_45_54 AM.png]]
 _Tall version._
@@ -37,3 +37,14 @@ And here's the same, flattened burger:
 
 ![[ChatGPT Image Apr 27, 2025, 10_49_30 AM.png]]
 
+OK I guess it looks pretty similar, but we're all [[AI art and human obsolescence|AI art skeptics]] these days.
+
+## Appendix: Tall burger hall of shame
+_Just gonna use this article to document the abominations I've seen but not eaten._
+
+![[Pasted image 20251009072225.png]]
+_From DoorDash, in San Francisco_
+
+![[Pasted image 20251009072302.png]]
+![[Pasted image 20251009072308.png]]
+_Inside Tokyo Tower's food court_

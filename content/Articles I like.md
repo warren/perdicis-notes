@@ -13,6 +13,8 @@ Opened [[2023-12-07]] but I should have done it way sooner. Related to [[Poetry 
 - [ACX: The Far Out Initiative](https://www.astralcodexten.com/p/profile-the-far-out-initiative) - Related to the [[The Sinusoid]]. Scott analyses the Far Out Initiative.
 - https://blogs.cornell.edu/info2040/2015/10/14/the-evaporative-cooling-effect-in-social-network/ - 2010 essay popularizing Eliezer Yudowsky's "Evaporative Cooling" term to describe what causes (and mitigates) the death of social networks. Originally written to critique Quora, which has indeed evaporated in just a few short years after this essay, it holds relevance to any tech founder starting a social network business.
     - If the [link](http://blog.bumblebeelabs.com/social-software-sundays-2-the-evaporative-cooling-effect/) in the article doesn't work, try this web archive [link](https://web.archive.org/web/20101012105003/http://blog.bumblebeelabs.com/social-software-sundays-2-the-evaporative-cooling-effect/)
+- [SSC: Meditations on Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch) - Scott anthropomorphizes the reason why individual human incentives are virtually always maligned with societal incentives, and gives a bunch of examples
+    - Related: [LessWrong's quick glossary entry for Moloch](https://www.lesswrong.com/w/moloch)
 
 ### Just for fun
 - [How to be a -10x Engineer](https://taylor.town/-10x)

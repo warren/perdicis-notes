@@ -136,6 +136,11 @@ _I feel short films are rather formulaic but shrug_
     - Great movie for what it is (90 minutes of dialogue-less animals)
     - I really appreciated that the anthropomorphic dial was turned to 25% (somewhat smart wild animals) instead of 100% (Pixar-tier animals who are basically humans in animal bodies)
     - The animators nailed the behavior patterns of a cat. The little tic and hind leg arch that cats do when they see something they're about to jump onto... totally nailed
+- Weathering With You
+    - Similar vibe as Your Name: a pair of kids overcoming a supernatural force through love.
+    - But I think it missed the mark compared to your name because of the sheer number of plot holes leading up to the climax
+    - Also the musical numbers felt placed weirdly in the film and didn't do it for me
+    - The art is _gorgeous_ though. Virtually any screencap could be made a wallpaper.
 
 
 ## Movies I've seen _and strongly recommend_

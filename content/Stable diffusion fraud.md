@@ -1,6 +1,6 @@
 # Stable diffusion fraud
 #publish 
-#needswork - add a date opened
+Opened [[2023-03-03]].
 Backlink: [[Musings on philosophy]]. Or [[Musings on tech]]? Related to [[Post-truth media]].
 
 It just blows my mind how rapidly we've gotten here.
@@ -49,9 +49,10 @@ _Probably, yes._ I'm not sure where the calorie count is coming from. The simila
 
 This is nuts. I think I only saw through this because of how much I've been playing with Google's stable diffusion AI at work. Will internet users develop skepticism fast enough to see through frauds like this before something bad happens? Will any of us know what's real in a few years?
 
-I wonder still: who would choose to lie about something as trivial as chef status on a Facebook image board? I'm guessing this profile is a social experiment. Surely there's a sociology PhD behind the scenes of that account collecting data.
+I wonder still: who would choose to lie about something as trivial as chef status on a Facebook image board? I'm guessing this profile is a social experiment. There's probably a sociology PhD collecting data from that account.
 
-I still shudder to imagine what a malicious actor could achieve.
+Also: how strange it is that, of all the fields AI dominated first, it turned out to be art, photography, and music. Back in middle school I always imagined seeing artificial intelligence developed in my lifetime. But I always envisioned it taking factory jobs, not the jobs of artists.
 
-Also: how striking that of all the fields AI dominated first, it was the arts, photography, and music. Back in middle school I always imagined seeing artificial intelligence developed in my lifetime. But I didn't envision it taking over the arts first.
+I shudder to imagine what a malicious actor could achieve with this power.
 
+Update ([[2025-W44|2025-10-30]]): And now we don't have to imagine. It's happening: https://reddit.com/r/BlackPeopleTwitter/comments/1ojydgq/ai_is_already_getting_used_to_lie_about_snap

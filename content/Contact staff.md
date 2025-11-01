@@ -7,6 +7,9 @@ A type of [[Flow]] prop. Opened [[2024-06-26]].
 
 Related to [[Improved NeoFlowArt documentation]].
 
+**From [[2025-W43|2025-10-26]]**: Try practicing elements from this routine: https://www.reddit.com/r/flowarts/comments/1o2aldg/snippet_from_burn_in_seattle/
+
+
 ## Tricks in the order I learned them
 Also http://flowarts.me/tutorials/contact-staff/ looks useful
 

@@ -139,6 +139,9 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] Sherman's March - rec by Dad about General Sherman
 - [ ] hundreds of beavers - made aware (not necessarily a rec) by Anthony. It's a three stooges/Charlie Chaplin/silent comedy imitator made in current era
 - [ ] Perfect Blue 4k remaster
+- [ ] The Studio - Seth Rogan show 50 min continuous takes
+- [ ] Joe wicks license to kill - scaremongering documentary about why protein bars and ultraprocessed foods in general are bad for you
+- [ ] Sky High - Disney movie about werewolves and vampires. Has a main character called "Warren Peace" which is why I will watch it.
 
 
 ### Trash movies to watch while multitasking

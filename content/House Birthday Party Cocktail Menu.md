@@ -1,14 +1,14 @@
 # House Birthday Party Cocktail Menu
 #publish 
 
-Large batch cocktails
+large batch cocktails
 - [[Double Chicken Please No. 10|double chicken please 10]] - oolong, winter melon, lemon, mezcal*
-- TBD
+- shipwreck - rum, pineapple, banana, lemon, coconut sugar
+- TBD - ???
 
-Small batch & upon request
+small batch
 - [[Oaxacan Old Fashioned|oaxacan old fashioned]] - tequila reposado, mezcal, agave, orange and chocolate bitters
-- TBD
-- TBD
+- [[Roman Negroni|the roman negroni]] - campari, sweet vermouth, averna, balsamic, soda
 
 _\*can be made alcohol-free_
 
