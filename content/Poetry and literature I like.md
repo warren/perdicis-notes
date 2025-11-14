@@ -1,6 +1,6 @@
 # Poetry and literature I like
 #publish 
-Opened [[2023-12-28]]; had the idea [[2023-12-24]]. Related to [[Articles I like]].
+Opened [[2023-12-28]]; had the idea [[2023-12-24]]. Related to [[Articles I like]]. Slightly related to articles within [[Random facts and terminology]].
 
 My Goodreads (very incomplete): [Click me](https://www.goodreads.com/user/show/176518516-warren-p)
 

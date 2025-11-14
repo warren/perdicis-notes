@@ -68,6 +68,9 @@ I've lived in San Francisco since [[2022-08-11]]. While I haven't trawled the wh
     - Super high quality pastries.
 - Mochill Mochidonut in Japantown
     - Mochi donuts are just better than American donuts imo. They're light and chewy and just a little sweet.
+- Uji Time
+    - Soft serve ice cream place offering Asian flavors.
+    - On the first week of every month they sell tofu ice cream, which is probably my second fav ice cream flavor of all time (behind summertime cucumber from Ben & Jerry's). It's mild, not too sweet, and tastes a little like soy milk. I'm probably unusual in liking this so much. But if you feel me, check it out
 - Matcha Cafe Maiko
 
 **Boba** (See [[Best boba orders]] for my SF ratings)

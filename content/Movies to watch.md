@@ -142,6 +142,7 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] The Studio - Seth Rogan show 50 min continuous takes
 - [ ] Joe wicks license to kill - scaremongering documentary about why protein bars and ultraprocessed foods in general are bad for you
 - [ ] Sky High - Disney movie about werewolves and vampires. Has a main character called "Warren Peace" which is why I will watch it.
+- [ ] Arco - colorful solarpunk French animated film
 
 
 ### Trash movies to watch while multitasking
