@@ -41,8 +41,17 @@ My Goodreads (very incomplete): [Click me](https://www.goodreads.com/user/show/1
 - More generally: [[Movies I've seen]]
 - Anton Ego's (technically, Brad Bird's) [speech](https://youtu.be/Ih6jcKd7VwU) from Ratatouille: [[Anton Ego's speech]]
 
+## Misc
+- [Hunter S Thompson's letter to Hume Logan](https://fs.blog/hunter-s-thompson-to-hume-logan/)
+- [SSC reddit analysis of dating app markets assuming all parties are rational actors](https://old.reddit.com/r/slatestarcodex/comments/1p9wx00/dating_apps_much_more_than_you_wanted_to_know/) - I know it's a reddit link but I swear this is a non-incel take. It's quite enlightened IMO to view these markets as everyone doing their best, and their preferences the result of a highly mature market and not catty prejudice
+
 ## Art I like
 _Probably deserves its own page._
 - Digital painting: I take inspiration from a few artists including [Sinix](https://www.instagram.com/sinixdesign), [Jen Zee](https://www.instagram.com/jenzee_art), [Esben Lash](https://www.instagram.com/esbenlash), [Leyendecker](https://wikipedia.org/wiki/J._C._Leyendecker), and similar artists who paint traditional styles digitally.
 - Abstract art: Super hit or miss, I think a lot of it is overrated but every once and a while there's a piece that I like for reasons I can't put my finger on. Such as:
     - https://www.guggenheim.org/artwork/1470
+
+## Aggregated sites
+_Not sure what to call this section tbh, will water this garden and return later_
+- https://hex.ooo/library/
+

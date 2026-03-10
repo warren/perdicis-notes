@@ -9,7 +9,7 @@ _Taller than evolution intended ([[Son and Garden]])_
 
 To eat something like this, your options are either: (A) chomp partial bites into the burger, never quite slicing top-to-bottom, thereby missing its full range of flavors; or (B) dislocate your jaw to eat it in one bite like a snake, or something like that, idk.
 
-There's surely a better way. So I'm writing this open letter to all restaurants; you can do option (C): **Just use wider buns, and spread your burger ingredients flatter.**
+There must be a better way. There is! So I'm writing this open letter to all burger restaurants to inform them of option (C): **Just use wider buns, and spread your burger ingredients flatter.**
 
 I'm calling this idea Warren's long burgers. Spread the word!
 
@@ -18,7 +18,7 @@ Here's a burger before applying the Warren's Long Burgers principle:
 
 ![[Screenshot 2025-04-07 at 7.36.05 PM.png]]
 
-And here's that same burger afterwards:
+And here's that same burger afterwards (much more edible!):
 
 ![[Screenshot 2025-04-13 at 11.31.49 AM.png]]
 
@@ -37,7 +37,7 @@ And here's the same, flattened burger:
 
 ![[ChatGPT Image Apr 27, 2025, 10_49_30 AM.png]]
 
-OK I guess it looks pretty similar, but we're all [[AI art and human obsolescence|AI art skeptics]] these days.
+OK, I guess it looks pretty similar. We're all [[AI art and human obsolescence|AI art skeptics]] already anyways. 
 
 ## Appendix: Tall burger hall of shame
 _Just gonna use this article to document the abominations I've seen but not eaten._

@@ -27,7 +27,7 @@ What I liked:
 - Overall the burger wasn't greasy! It was juicy and that inevitably spilled into the dish but it didn't feel overly oily in any bite. That's a big plus.
 
 What I didn't like:
-- The English muffin bun. Like the sauces it was clearly made in-house, but it was doughy and not meaningfully toasted so there was no crunch. It tasted better than something off the shelf at a grocery store, but I think most non-greasy burger buns from another burger restaurant would have been an improvement over this.
+- The English muffin bun. It was clearly made in-house, like the sauces, but it was doughy and not meaningfully toasted so there was no crunch. It tasted better than something off the shelf at a grocery store, but I think most non-greasy burger buns from another burger restaurant would have been an improvement over this.
 - The burger violated the [[Warren's long burgers]] principle. This is doubly sad because it totally didn't need to if had the bun been smaller. Even after pressing firmly I couldn't take a proper bite of the sandwich.
   - Do expensive burger places just enjoy doing this? Looking at you, [[Miller and Lux]].
 - This doesn't affect the rating but I'm rather disappointed that the overall burger wasn't presented as a standalone dish and was more of a build-your-own meal. I would have loved for the chef to recommend the ingredients and have that be the default - as it stands, I feel I might have missed out on trying some really great grilled mushrooms. And the toppings all arrived disassembled on the side of the burger (but maybe this method prevents sogginess).
@@ -39,7 +39,7 @@ Overall, this was a pricey burger that was legitimately worth it. I could have e
 
 ## Numerical rating and justification
 $32 burger w/ Taleggio:
-- 9.5/10
+- 9/10
 - 2.75/10 unusualness due to:
   - Taleggio (+1.5)
   - English muffin bun (+1)

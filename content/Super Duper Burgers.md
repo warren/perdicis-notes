@@ -6,7 +6,7 @@ Fast food chain. Visited on [[2022-07-05]] for lunch.
 
 https://goo.gl/maps/PnLbEF9yjdq9MqbU9
 
-Ingredients-wise, totally unremarkable. The standard burger comprised double 1/4lb patties, tomato, onion, lettuce, and a sesame bun. Also some mayo/house sauce mixed in. I forget if I chose this voluntarily, but 
+Ingredients-wise, totally unremarkable. The standard burger comprised double 1/4lb patties, tomato, onion, lettuce, and a sesame bun. Also some mayo/house sauce mixed in. I forget if I chose this voluntarily.
 
 ![[PXL_20220705_213742728.jpg]]
 

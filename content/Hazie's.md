@@ -4,7 +4,7 @@ Opened [[2024-12-08]].
 
 _Part of a series on [[The best burger in the bay area]]._
 
-Fusion restaurant on Hayes Street. It's one block away from [[Chez Maman]]and two blocks away from [[Arbor]]! I visited here [[2024-12-08]] with Christie.
+Fusion restaurant on Hayes Street. It's one block away from [[Chez Maman]] and two blocks away from [[Arbor]]!
 
 ![[Pasted image 20241209004632.png]]
 

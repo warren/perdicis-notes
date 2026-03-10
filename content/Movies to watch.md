@@ -1,7 +1,7 @@
 # Movies to watch
 #publish 
 #needswork
-Opened [[2022-02-02]]. Related to [[Movies I've seen]].
+Opened [[2022-02-02]]. Related to [[Movies I've seen]]. Related to [[Books and articles to read]]
 
 
 #### TODO: Organize these by genre
@@ -92,7 +92,6 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] RRR - Tollywood movie with some ridiculous action sequences. Rec from Tim and Jonathan
 - [ ] Stalker - Original inspiration for stalker video game. Rec from Tim
 - [x] Paddington 2 - Rec from Jonathan. Don't even watch Paddington 1, he says
-- [ ] Perfect blue
 - [ ] raising Arizona
 - [ ] blood simple ^ above raising Arizona - rec from dad 
 - [ ] catwalk 1 and 2, on canopy (library service) - rec by Jenny. Delves into the weird life of professional cat show attendees. The second one involves crime??
@@ -125,7 +124,6 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [x] la La Land - Lewis's favorite film 
 - [ ] snatch - rec by rudi
 - [x] The red balloon (1956)
-- [ ] closer - rec by Lewis
 - [x] little miss sunshine
 - [ ] Whisper of the Heart - early ghibli movie
 - [ ] Synecdoche New York
@@ -143,6 +141,11 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] Joe wicks license to kill - scaremongering documentary about why protein bars and ultraprocessed foods in general are bad for you
 - [ ] Sky High - Disney movie about werewolves and vampires. Has a main character called "Warren Peace" which is why I will watch it.
 - [ ] Arco - colorful solarpunk French animated film
+- [x] Sunshine
+- [ ] shutter island
+- [ ] hamnet
+- [x] one battle after another
+- [ ] the departed
 
 
 ### Trash movies to watch while multitasking
@@ -156,3 +159,6 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - Ministry of ungentlemanly warfare
 - scavengers reign
 - Murderbot
+- The hunt
+- bone temple
+- wonder man

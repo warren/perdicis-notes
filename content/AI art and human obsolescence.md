@@ -9,7 +9,7 @@ Musings dated [[2023-05-06]]. I wonder what I'll think of this article in the fu
 
 AI art is solid cocktail conversation topic these days because anyone can weigh in. Those sympathetic to artists muse sourly over the ethics of training AIs without permission. Engineers and economists discuss compute costs together. In the corner, zoomers and philosophers take shots.
 
-Part of what makes the topic fun is that largely, everyone already agrees: stealing is bad, AI surpassing humans is scary, and capitalism is probably going to produce a situation nobody is happy with. Most people have a pessimistic take.
+Part of what makes the topic fun is that largely, everyone already agrees: stealing is bad, AI surpassing humans is scary, and capitalism is fast producing a situation few are happy with.
 
 ### My opinion
 I want to document an optimistic, contrarian take, that AI art is actually a force for net good. My view is it will (1) allow the world to produce a greater quantity of art, (2) spur the average person to train a more critical eye when interpreting art, and (3) have a net zero or net positive effect at lowering the barrier for individuals to produce meaningful art.
@@ -18,9 +18,9 @@ I want to document an optimistic, contrarian take, that AI art is actually a for
 This is for certain. It's already tough to distinguish some AI art from real art (see [[Stable diffusion fraud]] for my experience with that). Sure, quality is subjective, but that AI art shares the same believability ballpark with human art convinces me it's already on par with most subjective experiences of art.
 
 ### 2) Which means people will train a more critical eye
-With one's senses flooded by generated (and retouched) art, the only way to cope will be finding a way to filter away bad art. But what is "bad art?" People will need to decide on their own. And in the process of doing that, I suspect the average person will develop a more robust opinion on aesthetics.
+With one's senses flooded by generated (and retouched) art, the only way to cope with bad art will be finding a way to filter it away. But what is "bad art?" People will need to decide themselves. And, in the process of doing that, I suspect the average person will develop a more robust opinion on aesthetics.
 
-Or, maybe not, and everyone will continue to overvalue art with hype surrounding it. But IMO this is no worse than today's status quo. I sense many people defer their opinion on aesthetics to someone else, usually a museum curator or gallery owner, unconsciously allowing that person's opinion's on art to color their own. And so, under the right circumstances (such as visiting a museum), people can convince themselves they like the aesthetics of virtually any kind of art.
+Or... maybe not, and everyone will continue to overvalue art with hype surrounding it. But IMO this is no worse than today's status quo. I sense many folks I know defer their opinion on aesthetics to someone else, usually a museum curator or gallery owner, unconsciously allowing that person's opinion's on art to color their own. And so, under the right circumstances (such as visiting a museum), people can convince themselves they like the aesthetics of virtually any kind of art.
 
 So, I see AI art is sort of a meritocratizing force to this. Pretty soon, stable diffusion will be accessible to anyone with a good idea. So, anyone with an idea can create art, thereby making art less exclusive. The average person will need a more critical eye to filter through the noise, and dig deep to understand _why_ they prefer certain art above others.
 

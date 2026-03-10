@@ -3,6 +3,8 @@
 Opened [[2023-07-17]]. Name WIP (thanks Rudy).
 Related to the type A-ness of [[Bryan Johnson finishes his last meal at 11am]].
 
+UPDATE(2026): [[Brainstorming Productive Platypus 2026]]
+
 ### Metrics
 Moved to [[Productive Platypus metrics]].
 

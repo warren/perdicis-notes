@@ -2,9 +2,9 @@
 #publish 
 Opened [[2025-01-01]]. From [[Musings on tech]].
 
-I've worked on 3 separate Google SRE teams since joining in 2020. One thing I see the SRE org execute on really well is blameless postmortems. In other words, a [[Technical postmortems|postmortem]] where instead of finger-pointing, there's a focused effort to improve the lapse in process that caused something to break.
+I've worked on 3 separate Google SRE teams since joining in 2020. One thing I see the SRE org execute really well is blameless postmortems. In other words, a [[Technical postmortems|postmortem]] where instead of finger-pointing, there's a focused effort to improve the lapse in process that caused something to break.
 
-Google's popular SRE book has an excellent [section](https://sre.google/workbook/postmortem-culture#model-and-enforce-blameless-behavior) explaining how to write these. But IMO it skimps on explaining _why_ you should want to write them in the first place, so I'm here to babble about that.
+Google's popular SRE book has an excellent [section](https://sre.google/workbook/postmortem-culture#model-and-enforce-blameless-behavior) explaining how to write these. But IMO it skimps on explaining _why_ you should want to write them in the first place, so today I'm writing about that.
 
 ## Why you should virtually always prefer a blameless postmortem
 
@@ -14,7 +14,7 @@ It's healthier for group morale. Higher morale leads to all sorts of positive cu
 2) Developer velocity improves, because engineers feel protected taking (healthy) risks.
 3) Everyone's happier.
 
-And besides, it's nice to not point fingers. Nobody enjoys a meeting where one person gets chastised on front of their peers -- not their peers, nor the presenter, nor the chastisee.
+And overall it's nice to not point fingers. Nobody -- except perhaps sadists -- enjoys a meeting where one of their peers gets chastised in front of their other peers.
 
 ### Less obvious reasons you should want blameless postmortems
 Acting blamelessly lets you review your processes with more scrutiny than had you attributed an outage to a human. 
@@ -25,13 +25,13 @@ To hammer this home, blaming a human ensures:
 
 - That person won't repeat their mistake.
 
-... and that's about it. If you're lucky to have everyone read your postmortem, and it strikes the fear of _((deity))_ in their hearts, nobody else will repeat that mistake either... for a while, until they forget, or you hire someone new, or an opaque technical change happens, etc. ...
+... and that's about it. If you're lucky to have everyone read your postmortem, and it strikes the fear of _((deity))_ in their hearts, nobody else will repeat that mistake either... for a while, until they forget, or you hire someone new, or an opaque technical change occurs, etc. ...
 
 Whereas blaming a process (and then improving said process) ensures:
 
 - That category of mistake won't happen again.
 
-Unfortunately, the drawback here is cost -- blaming humans is cheap; improving processes is not. Even the exercise of determining what process to improve may require input from technical stakeholders whose time is valuable. Improvements also cost SWE-time to implement, so you may find yourself making tough tradeoffs between shipping fast and breaking things, versus investing in reliability in order to prevent breaking things. Choosing which to prioritize is difficult, and best decided via either well-sharpened intuition (for teams in scrappy situations) or a checks-and-balances culture between developers and DevOps engineers who can suggest how to manage their own time (for teams in less scrappy situations -- also worth noting that this culture is easier to cultivate when issues are blameless, and stakeholders can voice their honest opinions).
+Unfortunately, the drawback here is cost. Blaming humans is cheap; improving processes is not. Even the exercise of determining what process to improve may require input from technical stakeholders whose time is valuable. Improvements also cost SWE-time to implement, so you will find yourself making tough tradeoffs between shipping fast and breaking things, versus shipping slowly. Choosing which to prioritize is difficult, and best decided via either well-sharpened intuition (for teams in scrappy situations) or a checks-and-balances culture between developers and DevOps engineers who can suggest how to manage their own time (for teams in less scrappy situations -- also worth noting that this culture is easier to cultivate when issues are blameless, and stakeholders can voice their honest opinions).
 
 Anyways, even if your team doesn't have the bandwidth to deliver large improvements, it's still a useful exercise to brainstorm how you might do it blamelessly.
 

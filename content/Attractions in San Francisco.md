@@ -107,6 +107,9 @@ I've lived in San Francisco since [[2022-08-11]]. While I haven't trawled the wh
 
 ## Misc
 - https://fenetre.cam isn't an attraction, but it's a live GoPro feed of the fog status of the city. A beautiful and useful view!
+    - UPDATE(2025-11-20): Seemingly replaced by https://isitfoggy.com/fullscreen.html?camera=gopro-hero-11 ?
+- Books & Bookshelves in Lower Haight
+    - Cozy corner bookstore with the largest antique postcard collection I've seen (probably 1000s, and grouped by category). It's perspective-widening to read the original cursive handwriting of the folks who wrote these letters literally more than 100s of years ago. 10/10 date/friendship/solo expedition spot
 - https://sfpopos.com contains a list of all of San Francisco's Privately Owned Public Open Spaces. Basically, public spaces hidden inside private buildings, like fancy apartments and offices. These are pretty hit or miss in my experience but they're nice spots to visit on a sunny day with a sketchbook, bagged meal, and company.
 - Chateau Tivoli bed and breakfast is a really cool looking hotel I noticed in [[2023-04-16]]. I have no reason to go since I live in SF already but could be a fun experience for visitors. Maybe you can lodge here?
 - Things Lucky Handicraft in Haight-Ashbury is a super vibey crafts supply store that is the only operating commercial store on Page St. They've been there for over a decade. Calm vibe. Nice to wander around and see/feel all the textures.

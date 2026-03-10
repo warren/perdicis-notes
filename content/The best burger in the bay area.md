@@ -19,7 +19,7 @@ Related to [[Warren's long burgers]].
 | [[Amy's Drive Thru]]              | 6.5/10             | 5                      | $10       |
 | [[Local Kitchen & Wine Merchant]] | 8.75/10            | 1                      | $22       |
 | [[Hobee's]]                       | 4.5/10             | 1                      | $15       |
-| [[Spruce]]                        | 9.5/10             | 2.75                   | $32       |
+| [[Spruce]]                        | 9/10               | 2.75                   | $32       |
 | [[Kitchen Story]]                 | 7/10               | 1.25                   | $23       |
 | [[True Food Kitchen]]             | 10/10              | 1.75                   | $19.5     |
 | [[Son and Garden]]                | 2.5/10             | 5                      | $32       |
@@ -32,11 +32,12 @@ Related to [[Warren's long burgers]].
 | [[Cafe Reveille]]                 | 5/10               | 0                      | $17       |
 | [[Hazie's]]                       | 6.5/10             | 0.5                    | $24       |
 | [[Balboa Cafe]]                   | 6.75/10            | 1.5                    | $23       |
+| [[RT Bistro]]                     | 7/10               | 2                      | $30       |
 
 ## Philosophy behind these ratings
-It's hard to rate a burger definitively "X/10" because burgers have a wide variety of ingredients and degrees of fanciness - you're often not comparing the same type of burger to the next.
+It's hard to rate a burger definitively "X/10" because upscale restaurants prepare their burgers so differently. You're often comparing apples to oranges.
 
-In general, my philosophy is that the "X/10" rating should only indicate how much I liked the burger. Points aren't docked for ingredients, nor price point, nor whether the burger came with fries - however it's still good to surface all these things so I include a second "unusualness factor" rating in each review denoting roughly how far the burger being reviewed deviates from staple ingredients. Also, while not noted in the table, I mention in each review whether the burger comes with fries.
+To mitigate ingredient variance as best as possible, the "X/10" rating in this list simply indicates how much I personally liked the burger. Points aren't docked for ingredients, nor price point, nor whether the burger came with fries -- however because it's still good to surface these things I include a second "unusualness factor" score in each review roughly denoting how far the burger deviates from staple ingredients. Also, while not noted in the table, I mention in each review whether the burger comes with fries.
 
 My guidelines for for unusualness ratings:
 - +5 is the default unusualness factor for plant-based burgers since by forgoing meat, a restaurant is already pushing the definition of a burger.

@@ -2,9 +2,9 @@
 #publish
 Written [[2023-11-25]]. Part of [[Musings on philosophy]].
 
-I got a herniated disc yesterday morning on my birthday. I had been deadlifting in a hotel gym when suddenly, pop! standing hurts a _LOT_; time to lie down for a quick minute / hour / rest of this week.
+I got a herniated disc yesterday morning on my birthday. While deadlifting in a hotel gym, pop! standing hurts a _LOT_; time to lie down for a quick minute / hour / rest of this week.
 
-How symbolic it is to Google "back pain" right after turning 26 (officially my late 20s![^1]). Some cosmic force must have been waiting until now to deliver that punchline. I don't find it very funny from down here though.
+How symbolic it is to Google "back pain" upon entering my late 20s![^1]. Some cosmic force must have been waiting to deliver that punchline. I don't find it very funny from down here though.
 
 ![[20231124_191040-COLLAGE.jpg]]
 _In the morning, I walk on 0 legs. In the afternoon, also 0. In the evening, still 0. Are there any in-network doctors in my area?_
@@ -77,7 +77,7 @@ Something connected to Frankl's MSFM: one with a reason to live can endure anyth
 ^ perhaps this sort of idealism is possible _only_ when you haven't experienced the loss of something you had, forcing you to know its exact worth.
 
 
-[^1]: I'm told 26 is not one's "late 20s". Source: peers who are also in their "mid 20s".
+[^1]: I'm actually told 26 is not one's "late 20s" (Source: peers who are 26+).
 
 
 ## Appendix
