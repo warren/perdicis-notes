@@ -14,7 +14,7 @@ You can find neat events in any city.
 ### High signal-to-noise
 _i.e. Feeds that often post quality events_
 - [Hardcoded search for "SF events" on the SF Examiner](https://www.sfexaminer.com/search/?f=html&nfl=WIRE%2C+AP%2Cap&t=article&s=start_time&sd=desc&l=25&nsa=eedition&q=SF+events) -- This is my favorite because it's hand curated by writers at the Examiner. Open this link and then only scroll to articles like "18 SF events happening this weekend". It's easy to skim and waaay nicer than sifting through grifter sites.
-    - On [[2026-03-21]] an Examiner article led to me attending ikebana.org's annual flower show. It wasn't crowded at all and is one of my fav museum exhibits ever.
+    - On [[2026-03-21]] this tool led me to ikebana.org's annual flower show, one of my fav museum exhibits ever! And not crowded.
 
 ## Low signal-to-noise
 _i.e. Still contains quality events, but you'll need to put in the work sifting through the bad ones to find the gems in the rough_
