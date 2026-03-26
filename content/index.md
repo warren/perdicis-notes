@@ -4,6 +4,6 @@ title: Perdicis Notes
 
 # Warren's notes
 
-Hey, welcome to my personal wiki. It's under construction.
+Hey, welcome to my personal wiki. This is a subset of the pages I maintain in my personal Obsidian (https://obsidian.md/).
 
-In the meantime, you should visit [[Stuff you the reader might like]] -- I designed that page as an intro to this site.
+You should visit [[Stuff you the reader might like]] -- I designed that page as an intro to this site.

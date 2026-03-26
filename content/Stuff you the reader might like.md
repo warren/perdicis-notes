@@ -23,8 +23,7 @@ I'm planning to [[Publishing this vault|publish Waulter]] soon and open my secon
 
 ## Misc pages that friends might enjoy leafing through
 - [[The internet game decathlon]]
-- [[Movies I've seen]]
-- [[Skincare]]
+- [[Event finder trifecta]]
 
 ## Just for funsies
 - [[Taylor Swift to trap pipeline]]
