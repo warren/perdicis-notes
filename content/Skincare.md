@@ -72,3 +72,6 @@ Misc list of interesting reddit posts that have product recommendations:
 
 ## Timeline updates
 Moved to [[Skincare logs]] because it's a tad private.
+
+## Note to self
+- https://a.co/d/0fA8pjph orien oil cleanser seems useful but probably unnecessary if using face wash already

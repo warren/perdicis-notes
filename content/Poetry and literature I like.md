@@ -4,6 +4,9 @@ Opened [[2023-12-28]]; had the idea [[2023-12-24]]. Related to [[Articles I like
 
 My Goodreads (very incomplete): [Click me](https://www.goodreads.com/user/show/176518516-warren-p)
 
+To organize:
+- what the imagination seizes as Beauty must be truth -- from some letter by John Keats. [[2026-03-11]]
+
 ## Literature I like
 ### Short stories
 - Flowers for Algernon - [pdf link](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)

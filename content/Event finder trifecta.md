@@ -1,36 +1,44 @@
 # Event finder trifecta
 #publish 
-Came up with this [[2023-11-10]] but only opened the page [[2023-12-03]]. Sort of related to [[Attractions in San Francisco]] because that's where I live at the time of writing.
+Related to [[Attractions in San Francisco]] (sorry, this whole article is gonna be predominantly focused on SF events).
 
+## My trifecta
 In a nutshell, by combining:
-- EventBrite
-- Meetup
-- AllEvents.in
-- (SF only) https://sf.funcheap.com
-    - https://funcheapsfmap.com
+- [EventBrite](https://www.eventbrite.com/d/ca--san-francisco/all-events/)
+- [Meetup](https://www.meetup.com/find/us--ca--san-francisco/)
+- [AllEvents.in](https://allevents.in/san-francisco?ref=cityselect)
 
 You can find some decent options in any city.
 
-Update [[2023-12-30]]: Can use https://lu.ma/explore to find some too. I think it's just for tech events and that guy Spice King's events: https://lu.ma/nyparty
+## More feeds to find stuff to do (in SF)
+### High signal-to-noise
+_i.e. Feeds that often post quality events_
+- SF Examiner's articles, using a [hardcoded search for "SF events"](https://www.sfexaminer.com/search/?f=html&nfl=WIRE%2C+AP%2Cap&t=article&s=start_time&sd=desc&l=25&nsa=eedition&q=SF+events) -- Look for articles like "18 SF events happening this weekend". These curated articles are written by humans and are waaay nicer than sifting through grifter sites.
+    - [[2026-03-21]]: I found a phenomenal ikebana exhibit using this which might be one of my new fav art forms.
 
-[[2023-12-31]]: https://www.supermomos.com/?fbclid=PAAab3Wc7f4vZtexq4yACDAFGzO4ka70hpqyh3djOwmb22m_4YamyZvlqtd7A / https://www.instagram.com/reel/C0f4_gjMbkS/?igsh=MzRlODBiNWFlZA==
+## Low signal-to-noise
+_i.e. Still contains quality events, but you'll need to put in the work sifting through the bad ones to find the gems in the rough_
+- [SF Funcheap](https://sf.funcheap.com) (bonus: [map view](https://funcheapsfmap.com)) -- This one is actually pretty good. It has a no-frills Craigslist-style interface. Would recommend
+- [SF Examiner local events](https://www.sfexaminer.com/local-events/) -- Backed by Evvnt but filtered to SF. Decent options and you can filter by category
+- https://lu.ma/explore -- Mostly tech networking events. Occasionally there are neat things
+- [Hayes Valley Artworks](https://hayesvalleyartworks.org/) -- Art events in Hayes Valley which is where I live!
+- [SF Bucketlisters](https://bucketlisters.com/explore/city/SF) -- Website that aggregates tickets for various shows, experiences, etc.
+- [Reddit /r/SFEvents](https://reddit.com/r/SFEvents) -- Very hit or miss. Posts seem mostly like party promoters mixed with tech meetups. In terms of actual interesting events this is probably the driest feed here but hey you never know, lmk if you find anything here
 
-Update [[2024-05-10]]: can also use https://watevent.com
+## Misc
+- [Sofar Sounds](https://www.sofarsounds.com/cities/san-francisco) -- Local indie "concerts" hosted in random secret venues across the city. I got to go to a concert in the SF ferry building which was fantastic. FYI they don't pay their artists well so buy merch to support
+- TIAT's [Luma calendar](https://luma.com/tiat) -- I personally have just been interested by this space lately
+- https://agihouse-app.web.app/events -- AGI hackathons get posted here
+- https://chrislakin.events / https://lu.ma/chrislakin -- interesting social experiment events in SF. He seems to have stopped posting as of mid-2025 though
 
-Update [[2024-05-14]]: Also https://www.sfirl.com , https://cerebralvalley.ai
+## Feeds that want something from you
+_Honestly, you should stop reading here. And I should remove these feeds from the article. But I'm fascinated by how terrible some are and I want to collect more._
 
-[[2024-05-29]]: https://chrislakin.events / https://lu.ma/chrislakin for interesting social experiment events in SF
+They want you to (1) be shallow and (2) have attended an ivy league school or worked at FAANG:
+- https://www.supermomos.com/
 
-[[2024-06-28]]: https://agihouse-app.web.app/events AGI hackathons in SF get posted here
+They want your money (for tickets to events that seem like lowest possible effort mixers):
+- https://linktr.ee/earlyburdz
 
-[[2024-09-09]]: https://hayesvalleyartworks.org/ for art events in Hayes
-
-[[2024-10-23]]: https://reddit.com/r/SFEvents - looks good for tech sphere networking but I imagine pretty dry for actually interesting events. Seems to be people promoting their parties
-
-[[2024-12-12]]: https://bucketlisters.com/explore/city/SF
-
-Also [[2024-12-12]]: Since this article is becoming a dumping ground of stuff to do in the city: [Sofar sounds SF](https://www.sofarsounds.com/cities/san-francisco) does pop-up music shows. YMMV.
-
-
-In NYC: https://linktr.ee/earlyburdz?fbclid=PAZXh0bgNhZW0CMTEAAaY7GkEHD0_3xuM4DiO2Ra_jSUUjxCQWOMvtGR78KiJapQ-A8UkI9gwnTRE_aem_eiyYAprIwc5B7ApYj5Krtw for art events
-
+They want your email (newsletters):
+- https://www.sfirl.com

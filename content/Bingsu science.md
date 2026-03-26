@@ -2,8 +2,7 @@
 #publish
 First seriously considered this [[2023-12-22]]. Belongs in [[Project ideas]].
 
-Basic premise: I love the texture of bingsu. Why not make bingsu out of any freezable liquid?
-
+Basic premise: I love the texture of bingsu. Why not make bingsu out of any freezable liquid?*
 Furthermore: what about alcohol in bingsu form? What if you opened a bar that sold it?
 
 [[2023-12-22]]: Inception of this idea. Asked UDS staff what bingsu machine they use. They mentioned the mixture of sugar and milk has to be very precise in order for the texture to come out well. The guy pointed to a $1600 machine while scrolling through Amazon to see what he meant.
