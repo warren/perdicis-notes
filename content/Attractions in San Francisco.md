@@ -127,6 +127,7 @@ I've lived in San Francisco since [[2022-08-11]]. While I haven't trawled the wh
 
 ## Special occasions
 Things you can't do all the time. But if you're in town at the right time, you should.
+
 **Weekly**
 - The farmers market in Embarcadero.
     - ONLY OPEN CERTAIN DAYS. I'd recommend coming Saturdays since there are the most popups
