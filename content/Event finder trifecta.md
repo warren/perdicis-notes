@@ -1,6 +1,6 @@
 # Event finder trifecta
 #publish 
-Related to [[Attractions in San Francisco]] (sorry, this whole article is gonna be predominantly SF events).
+Related to [[Attractions in San Francisco]].
 
 ## My trifecta
 In a nutshell, by combining:
