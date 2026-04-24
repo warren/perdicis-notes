@@ -25,9 +25,13 @@ _i.e. Still contains quality events, but you'll need to put in the work sifting 
 - [SF Bucketlisters](https://bucketlisters.com/explore/city/SF) -- Aggregator site but specifically for ticketed events. Nice for finding oneoff shows, experiences, etc.
 - [Airbnb Experiences](https://www.airbnb.com/experiences) -- Typically higher quality events than event aggregators because the event organizer needs to actually post themselves here.
 - [Reddit /r/SFEvents](https://reddit.com/r/SFEvents) -- Very hit or miss. Posts seem mostly like party promoters mixed with tech meetups. In terms of actual interesting events this is probably the driest feed here but hey you never know, lmk if you find anything here
+- [SF The Moth](https://themoth.org/events/results?eventLocations=6473) -- Short story jams happening ~monthly. It's like $20 for an hour of interesting life experiences. Nice date idea.
 
 ## Misc
 - [Sofar Sounds](https://www.sofarsounds.com/cities/san-francisco) -- Local indie "concerts" hosted in random secret venues across the city. I got to go to a concert in the SF ferry building which was fantastic. FYI they don't pay their artists well so buy merch to support
 - [tiat's Luma calendar](https://luma.com/tiat) -- I personally have just been interested by this space lately
 - https://agihouse-app.web.app/events -- AGI hackathons get posted here
 - https://chrislakin.events / https://lu.ma/chrislakin -- interesting social experiment events in SF. He seems to have stopped posting as of mid-2025 though
+
+## Instagram users
+- [@sfgirl.chronicle](https://www.instagram.com/sfgirl.chronicle/)

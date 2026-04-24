@@ -47,6 +47,7 @@ To organize:
 ## Misc
 - [Hunter S Thompson's letter to Hume Logan](https://fs.blog/hunter-s-thompson-to-hume-logan/)
 - [SSC reddit analysis of dating app markets assuming all parties are rational actors](https://old.reddit.com/r/slatestarcodex/comments/1p9wx00/dating_apps_much_more_than_you_wanted_to_know/) - I know it's a reddit link but I swear this is a non-incel take. It's quite enlightened IMO to view these markets as everyone doing their best, and their preferences the result of a highly mature market and not catty prejudice
+- [[Grimes on Gemini art]]
 
 ## Art I like
 _Probably deserves its own page._

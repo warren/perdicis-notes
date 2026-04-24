@@ -13,7 +13,7 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 -   [x] Spider-man into the spiderverse
 -   [x] Shaolin Soccer
 -   [ ] 3 billboards outside Evving Missouri
--   [ ] The Departed
+-   [x] The Departed
 -   [x] Good Will hunting
 -   [ ] No Country for Old Men
 -   [x] In Bruges
@@ -136,8 +136,8 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [x] Feast (short)
 - [ ] Sherman's March - rec by Dad about General Sherman
 - [ ] hundreds of beavers - made aware (not necessarily a rec) by Anthony. It's a three stooges/Charlie Chaplin/silent comedy imitator made in current era
-- [ ] Perfect Blue 4k remaster
-- [ ] The Studio - Seth Rogan show 50 min continuous takes
+- [x] Perfect Blue 4k remaster
+- [x] The Studio - Seth Rogan show 50 min continuous takes
 - [ ] Joe wicks license to kill - scaremongering documentary about why protein bars and ultraprocessed foods in general are bad for you
 - [ ] Sky High - Disney movie about werewolves and vampires. Has a main character called "Warren Peace" which is why I will watch it.
 - [ ] Arco - colorful solarpunk French animated film
@@ -145,7 +145,13 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] shutter island
 - [ ] hamnet
 - [x] one battle after another
-- [ ] the departed
+- [x] the departed
+- [ ] The talented mr Ripley
+- [ ] drive - action movie
+- [ ] a beautiful mind
+- [ ] black swan
+- [ ] house of dynamite - rec by Anthony. It's sort of what he does
+- [ ] Henry sugar
 
 
 ### Trash movies to watch while multitasking

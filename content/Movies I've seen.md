@@ -141,6 +141,8 @@ _I feel short films are rather formulaic but shrug_
     - But I think it missed the mark compared to your name because of the sheer number of plot holes leading up to the climax
     - Also the musical numbers felt placed weirdly in the film and didn't do it for me
     - The art is _gorgeous_ though. Virtually any screencap could be made a wallpaper.
+- The studio (Seth Rogan show) - really good
+- 
 
 
 ## Movies I've seen _and strongly recommend_

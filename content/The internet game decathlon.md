@@ -79,6 +79,7 @@ _I debated whether to mix these in with the other Wordles, but they're kind of c
 - [Letterle](https://edjefferson.com/letterle/) - Guess the individual letter
 - [Turdle](https://turdle.xyz/) - Guess the order of the jumping turtles
 - [Eldrow](https://www.simn.me/eldrow/) - Reverse Wordle. The algorithm guesses your Wordle word!
+- [Doctordle](https://doctordle.org/doctordle) - Medical Wordle. Diagnose a patient. Lowkey requires you have a medical degree to have any shot at these puzzles
 
 ### Internet games (competitively viable)
 - [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - simple turn-based battle royale you can get on phones and play with friends. Good for road trips
