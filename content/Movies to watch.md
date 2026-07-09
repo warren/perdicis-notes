@@ -142,16 +142,27 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] Sky High - Disney movie about werewolves and vampires. Has a main character called "Warren Peace" which is why I will watch it.
 - [ ] Arco - colorful solarpunk French animated film
 - [x] Sunshine
-- [ ] shutter island
+- [x] shutter island
 - [ ] hamnet
 - [x] one battle after another
 - [x] the departed
 - [ ] The talented mr Ripley
-- [ ] drive - action movie
+- [x] drive - action movie
 - [ ] a beautiful mind
 - [ ] black swan
 - [ ] house of dynamite - rec by Anthony. It's sort of what he does
-- [ ] Henry sugar
+- [x] Henry sugar
+- [ ] marty supreme
+- [x] project hail mary
+- [x] Moon (2009)
+- [ ] city of God
+- [x] The covenant
+- [x] Looper
+- [ ] Uncut gems
+- [x] sicario
+- [ ] infernal suffering- movie that inspired the departed. Rec by Maggie
+- [ ] Florida Project - rec by Lily. Same director as anora
+- [ ] Eyes wide shut - rec by Lily. Kubrick's final film before his murder/suicide
 
 
 ### Trash movies to watch while multitasking
@@ -168,3 +179,4 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - The hunt
 - bone temple
 - wonder man
+- Barry (show)

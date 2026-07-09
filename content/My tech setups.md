@@ -6,6 +6,5 @@ Meta page.
 
 - [[My terminal setup]]
 - [[My Obsidian setup]]
-- [[My Procreate brushes]]
 - [[My Android setup]]
 

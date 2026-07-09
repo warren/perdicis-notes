@@ -142,7 +142,11 @@ _I feel short films are rather formulaic but shrug_
     - Also the musical numbers felt placed weirdly in the film and didn't do it for me
     - The art is _gorgeous_ though. Virtually any screencap could be made a wallpaper.
 - The studio (Seth Rogan show) - really good
-- 
+- [[Chungking Express]]
+    - TLDR I liked it! But not in the way I expected to?
+    - It gave me a weird game-ified sensation where I was certain there was meaning/symbolism buried everywhere, and I struggled to find it, but that felt good because the director was _not_ going to handhold. Lots of unexpected turns and I felt invested in the characters
+- The Wonderful Story of Henry Sugar (British equivalent of The Ballad of Buster Scruggs)
+- The Ballad of Buster Scruggs (American equivalent of The Wonderful Story of Henry Sugar)
 
 
 ## Movies I've seen _and strongly recommend_

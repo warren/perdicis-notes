@@ -24,7 +24,7 @@ Misc notes
 - [[Choosing a pair of skis]] / [[Choosing a pair of ski boots]]
 - [[Black coffee]]
 - [[Mom's advice for redeye flights]]
-- [[Marriage advice from Mom and Dad]]
+- [[Marriage advice]]
 - [[Where does Apple maps source its images]]
 
 ## Semi-written
@@ -39,7 +39,7 @@ Misc notes
 - [[Warren's long burgers]]
 
 ## Unwritten
-- [[Lucid dreaming]] / [[How to lucid dream]]
+- [[How to lucid dream]]
 - [[Every brand will become a lifestyle brand]]
 - [[Fasting]] - check goodnotes on my iPad, I took some detailed thoughts down on it there
 - [[Quaranteen University]] (or that time Rudy and I were internet famous for a while)

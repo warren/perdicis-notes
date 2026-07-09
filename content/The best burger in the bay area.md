@@ -12,7 +12,7 @@ Related to [[Warren's long burgers]].
 | [[Gott's Roadside]]               | 6.5/10             | 2                      | $15       |
 | [[The Grove]]                     | 5/10               | 1                      | $18       |
 | [[4505 Burgers & BBQ]]            | 9/10               | 0.25                   | $16       |
-| [[Super Duper Burgers]]           | 6/10               | 0                      | $11       |
+| [[Super Duper Burgers]]           | 5.5/10             | 0                      | $11       |
 | [[Causwell's]]                    | 3/10               | 0                      | $19       |
 | [[Bazille]]                       | 6.25/10            | 0                      | $16       |
 | [[Bacon Bacon]]                   | 6.25/10            | 0                      | $16       |
@@ -33,6 +33,7 @@ Related to [[Warren's long burgers]].
 | [[Hazie's]]                       | 6.5/10             | 0.5                    | $24       |
 | [[Balboa Cafe]]                   | 6.75/10            | 1.5                    | $23       |
 | [[RT Bistro]]                     | 7/10               | 2                      | $30       |
+| [[Sohn]]                          | 7.5/10             | 3                      | $16       |
 
 ## Philosophy behind these ratings
 It's hard to rate a burger definitively "X/10" because upscale restaurants prepare their burgers so differently. You're often comparing apples to oranges.

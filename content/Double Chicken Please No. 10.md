@@ -98,9 +98,10 @@ _This is a great bulk cocktail, so if you want a basic preset to make it for you
     - Note that it's decaf. You can get it way cheaper if you do normal caffeinated
 - [Winter melon syrup](https://www.amazon.com/Tea-Zone-Syrup-Winter-Melon/dp/B019ED225O) --> $23 for 64oz/128tbsp
     - This is way too much but it's hard to find winter melon syrup in smaller quantities because they assume you're a tea shop.
-- [Lemon juice](https://www.amazon.com/Amazon-Brand-Happy-Belly-Concentrate/dp/B07WJGM19N) --> $3 for 32oz/192tsp
+- [Lemon juice](https://www.amazon.com/Iberia-Lemon-Juice-Concentrate-32/dp/B00J2VZ210) --> $4 for 32oz/192tsp
     - Way too much but it's cheap so that's fine
 - [Alcohol-free mezcal](https://www.amazon.com/RITUAL-Tequila-Alternative-Award-Winning-Non-Alcoholic/dp/B0866DCX32) --> $29 for 750mL/50.72 tbsp
+    - Upgrade: [Monday brand](https://www.amazon.com/MONDAY-Zero-Alcohol-Mezcal-Non-Alcoholic/dp/B09Y2J93J1) (my preferred brand): $42 for 750mL
 - Mezcal --> $XX for ABC
 
 ^ this makes roughly 45 servings

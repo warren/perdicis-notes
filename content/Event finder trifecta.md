@@ -15,11 +15,13 @@ You can find neat events in any city.
 _i.e. Feeds that often post quality events_
 - [Hardcoded search for "SF events" on the SF Examiner](https://www.sfexaminer.com/search/?f=html&nfl=WIRE%2C+AP%2Cap&t=article&s=start_time&sd=desc&l=25&nsa=eedition&q=SF+events) -- This is my favorite because it's hand curated by writers at the Examiner. Open this link and then only scroll to articles like "18 SF events happening this weekend". It's easy to skim and waaay nicer than sifting through grifter sites.
     - On [[2026-03-21]] this tool led me to ikebana.org's annual flower show, one of my fav museum exhibits ever! And not crowded.
+- 
 
 ## Low signal-to-noise
 _i.e. Still contains quality events, but you'll need to put in the work sifting through the bad ones to find the gems in the rough_
 - [SF Funcheap](https://sf.funcheap.com) (bonus: [map view](https://funcheapsfmap.com)) -- This site is actually pretty good. It's an event aggregator, so YMMV, but it uses a no-frills Craigslist-style interface. Would recommend
 - [SF Examiner local events](https://www.sfexaminer.com/local-events/) -- Event aggregator but filtered to SF only. Decent options and you can filter by category
+- (If you like movies) [Roxie Theater's calendar](https://roxie.com/calendar/) -- artsy films played in limited batches in a semi-intimate theater. Whoever is picking them is great; I've always felt glad gambling on seeing an obscure movie after watching
 - https://lu.ma/explore -- Mostly tech networking events. Occasionally there are other neat things
 - [Hayes Valley Artworks](https://hayesvalleyartworks.org/) -- Art events in Hayes Valley which is where I live!
 - [SF Bucketlisters](https://bucketlisters.com/explore/city/SF) -- Aggregator site but specifically for ticketed events. Nice for finding oneoff shows, experiences, etc.

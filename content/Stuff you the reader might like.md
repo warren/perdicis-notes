@@ -11,7 +11,7 @@ I'm planning to [[Publishing this vault|publish Waulter]] soon and open my secon
     - [[Musings on everything else]]
 - [[Articles I like]]
 - [[My tech setups]]
-- [[Resources for readers]]
+- [[Stuff I made]]
 
 ## Pages I'm fond of
 - [[The best burger in the bay area]]

@@ -44,7 +44,7 @@ Given that wholesome content like the above comprises the majority of activity a
 
 > "Burning Man is a **potluck** where you can bring literally anything."
 
-I like this framing. Some people bring loads of alcohol, period-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all of it is equally cool, and it's always offered for free. Even those who attend just for the partying are here bringing their genuine self to those parties and contributing positive energy. Which is lovely. Virtually everywhere in Black Rock City has a welcoming atmosphere because everyone has something nice to offer you: personal trinkets, camp amenities, or just a good vibe. Unsurprisingly, the default greeting here is a hug (given with consent), not a handshake.
+I like this framing. Some people bring loads of alcohol, period-defying fashion, etc. to the potluck; others bring food, workshops, spiritual experiences, etc ... all of it is cool, and it's always offered for free. Even those who attend just for the partying are here bringing their genuine self to those parties and contributing positive energy. Which is lovely. Virtually everywhere in Black Rock City has a welcoming atmosphere because everyone has something nice to offer you: personal trinkets, camp amenities, or just a good vibe. Unsurprisingly, the default greeting here is a hug (given with consent), not a handshake.
 
 ## Stuff I did day to day
 What does one do at this potluck? Burn a man? Yes but only on Saturday.

@@ -3,7 +3,7 @@ aliases: Bro vs bro games, The master decathlon
 ---
 # The internet game decathlon
 #publish 
-Opened [[2024-01-16]]. Related to [[Resources for readers]].
+Opened [[2024-01-16]]. Related to [[Stuff I made]].
 
 ## What is this
 Games, mostly internet games, which can be used to compete against your friends. Originally called "The master decathlon" because it was the method Samarth and I were going to use to determine who got the master bedroom on [[2024-01-17]].
@@ -57,6 +57,7 @@ _(!) = personal favorites_
 - [Angle](https://angle.wtf/) - Guess the geometric angle
 - [Boardle](https://playboardle.com/) - Guess the 5 optimal chess moves
 - (!) [Costcodle](https://costcodle.com/) - Guess the price of the Costco product
+- [Cutle](https://pfiffel.com/cutle/) - Cut the shape exactly in half
 - (!) [Factle](https://factle.app/) - Rank the trivia options in the right order
 - [Globle](https://globle-game.com/game) - Guess the country based on border distance
 - [Heardle](https://www.heardle.info/) - Guess the song.
