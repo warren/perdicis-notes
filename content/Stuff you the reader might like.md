@@ -20,6 +20,7 @@ I'm planning to [[Publishing this vault|publish Waulter]] soon and open my secon
 - [[The cosmic computer]]
 - [[Reflections on Burning Man 2024]]
 - [[Blameless postmortems]]
+- [[Lucid dreaming 101]]
 
 ## Misc pages that friends might enjoy leafing through
 - [[The internet game decathlon]]

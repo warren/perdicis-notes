@@ -39,7 +39,7 @@ Misc notes
 - [[Warren's long burgers]]
 
 ## Unwritten
-- [[How to lucid dream]]
+- [[Lucid dreaming 101]]
 - [[Every brand will become a lifestyle brand]]
 - [[Fasting]] - check goodnotes on my iPad, I took some detailed thoughts down on it there
 - [[Quaranteen University]] (or that time Rudy and I were internet famous for a while)

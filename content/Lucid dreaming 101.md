@@ -1,4 +1,4 @@
-# How to lucid dream
+# Lucid dreaming 101
 #publish 
 _Related to [[Dreams]] (private page)._
 
@@ -6,7 +6,9 @@ _Related to [[Dreams]] (private page)._
 
 Lucid dreaming (LD) = being awake during a dream.
 
-It's super cool (you get to play god) and surprisingly low effort to learn (it only took me 2 months). Read on to learn how!
+It's fabulously entertaining (you get superpowers) and is surprisingly low effort to learn (only 2 months for me).
+
+Read on to learn how!
 
 ## Part 1/3: Remembering the dream
 Peer-reviewed science ([like Nature](https://www.nature.com/articles/s44271-025-00191-z)) finds that humans really do experience dreams every night -- we just forget them in the morning. So forgetfulness is the first obstacle you'll need to overcome as a dreamer.
@@ -39,6 +41,9 @@ Here's how to perform FILD (you can try these steps right now!):
 4) OK! Now repeat steps 2-3 _as lightly as you possibly can_.
     - _This motion is what you'll use for FILD._
     - You'll know you're doing it right if, looking at your fingers, they appear motionless.
+
+![[hand-sketching-ref.png]]
+_A totally flat palm isn't necessary; your hand just needs to be completely relaxed like this_
 
 Lastly, here's how you'll use this motion to trigger a dream: at night, as you're getting into bed, position your hand somewhere comfortable on your mattress. Do the FILD motion and count upwards from 0 to 150 (incrementing +1 per finger press).
 
