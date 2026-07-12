@@ -12,7 +12,7 @@ Related to [[Warren's long burgers]].
 | [[Gott's Roadside]]               | 6.5/10             | 2                      | $15       |
 | [[The Grove]]                     | 5/10               | 1                      | $18       |
 | [[4505 Burgers & BBQ]]            | 9/10               | 0.25                   | $16       |
-| [[Super Duper Burgers]]           | 5.5/10             | 0                      | $11       |
+| [[Super Duper Burgers]]           | 5.25/10            | 0                      | $11       |
 | [[Causwell's]]                    | 3/10               | 0                      | $19       |
 | [[Bazille]]                       | 6.25/10            | 0                      | $16       |
 | [[Bacon Bacon]]                   | 6.25/10            | 0                      | $16       |
@@ -34,6 +34,7 @@ Related to [[Warren's long burgers]].
 | [[Balboa Cafe]]                   | 6.75/10            | 1.5                    | $23       |
 | [[RT Bistro]]                     | 7/10               | 2                      | $30       |
 | [[Sohn]]                          | 7.5/10             | 3                      | $16       |
+| [[Brioche Cafe]]                  | 5.5/10             | 1                      | $14.5     |
 
 ## Philosophy behind these ratings
 It's hard to rate a burger definitively "X/10" because upscale restaurants prepare their burgers so differently. You're often comparing apples to oranges.
@@ -42,7 +43,7 @@ To mitigate ingredient variance as best as possible, the "X/10" rating in this l
 
 My guidelines for for unusualness ratings:
 - +5 is the default unusualness factor for plant-based burgers since by forgoing meat, a restaurant is already pushing the definition of a burger.
-- Unusual but not unheard of toppings like fried egg or arugula earn a +1 unusualness factor each (exceptions made for tiny variations like a noticeably seeded bun, pickles, caramelized onions, or mushrooms: +0.5 instead).
+- Unusual but not unheard of toppings like fried egg, arugula, or avocado earn a +1 unusualness factor each (exceptions made for tiny variations like a noticeably seeded bun, pickles, caramelized onions, or mushrooms: +0.5 instead).
 - Very unusual toppings like Brie cheese earn a minimum +1.5 unusualness factor each.
 - Strange lack of default toppings like cheese earns somewhere between +0-0.5 unusualness.
 

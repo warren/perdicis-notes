@@ -17,7 +17,7 @@ As a bonus I'll also review the same burger in $27 form with only white cheddar 
 
 ## The full review
 _(Skip to the bottom to read how I derived the unusualness factor)_
-9.5/10. I loved this burger. It's legitimately the best I've had so far. But it's not perfect so let me break down my review.
+9/10. I loved this burger. It's legitimately the best I've had so far. But it's not perfect so let me break down my review.
 
 What I liked:
 - The ground beef was spiced evenly (i.e. the ground beef itself was seasoned), cooked perfectly medium rare, and there was just the right amount of it (1/2lb) to complement the toppings.

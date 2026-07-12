@@ -163,6 +163,8 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] infernal suffering- movie that inspired the departed. Rec by Maggie
 - [ ] Florida Project - rec by Lily. Same director as anora
 - [ ] Eyes wide shut - rec by Lily. Kubrick's final film before his murder/suicide
+- [ ] Sheep Detective
+- [ ] Fantasia 2000
 
 
 ### Trash movies to watch while multitasking

@@ -26,7 +26,7 @@ To organize:
 
 ### Poetry
 - [Sonnet 19](https://www.poetryfoundation.org/poems/45088/sonnet-19-devouring-time-blunt-thou-the-lions-paws) - Shakespeare
-- Teddy Bear - A.A. Milne
+- [Teddy Bear](https://allpoetry.com/poem/8518985-Teddy-Bear-by-A.A.-Milne/) - A.A. Milne
 - [Adonais](https://www.poetryfoundation.org/poems/45112/adonais-an-elegy-on-the-death-of-john-keats) - Percy Bysshe Shelley
 - [Swan and Shadow](Attachments/Screenshot_20231224-171025.png) - John Hollander
 - [[The Epitaph of Edward, the Black Prince]]

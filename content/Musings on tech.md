@@ -14,13 +14,12 @@ Longer articles
 Bite-sized
 - [[Conway's law]]
 - [[Your metrics shouldn't become your goals]]
+- [[Communicating incident state]]
 
 ## Semi-written
 - [[40% of VC spending goes to Google and Meta]]
 - [[Tech team traditions]]
-- Important SRE/DevOps principles
-    - [[Communicating incident state]]
-    - [[Good alert best practices]]
+- [[Good alert best practices]]
 - [[USB-C More than you wanted to know|USB-C: More than you wanted to know]]
 ## Unwritten
 - [[S2 cells]]

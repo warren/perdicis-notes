@@ -1,19 +1,22 @@
 # Cocktails
 #publish
-Article opened [[2024-03-01]] for my housewarming at [[Residence history|Hayes St]].
+Article opened [[2024-03-01]] for my [[Residence history|Hayes St]] housewarming.
 ## Warren's specialty cocktails
 _My favorite cocktails, replicated from various bars/parties or invented by me. Ask me about these!_
 
-**Successfully created**
+**Favorites**
 - [[Double Chicken Please No. 10]] // my favorite alcohol-optional cocktail.
+
+**Others**
 - [[Sage Advice]] // straightforward and not too sweet mezcal cocktail.
 - [[4XT]] // sweet, cider-y, and hints of holidaytime tea flavors.
     - For XT (Christie).
 
-**Figured out in theory but have not made** (last updated: [[2025-W38]])
+**Figured out in theory but have not made** (last updated: [[2026-07-10]])
+- [[Great White]] // coconut-forward, gentle, more creamy than sweet
 - [[Yotta Kosho]] // smooth, herbal, not-too-sweet.
     - From Roka Akor in SF.
-- [[Oaxacan Old Fashioned]] // Spirit-forward, rich, silky.
+- [[Oaxacan Old Fashioned]] // spirit-forward, rich, silky.
     - From the Lobby Bar in SF.
 
 **WIP**
@@ -22,7 +25,7 @@ _My favorite cocktails, replicated from various bars/parties or invented by me. 
 - [[Kurosaki]] ... TBD: first encountered at The Progress in SF
 
 ## To try
-- Pink Nazi: Jaegermeister + Pepto Bismal. Caltech specialty lol
+- Pink Nazi: Jaegermeister + Pepto Bismal. Caltech specialty
 - ???: Everclear + balsamic 
 
 ## Basic cocktails

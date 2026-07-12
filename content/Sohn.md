@@ -1,10 +1,8 @@
 # Sohn
 #publish 
-Opened [[2026-05-16]].
-
 _Part of a series on [[The best burger in the bay area]]._
 
-Korean cafe in Dogpatch that also serves food. They have a galbi (short rib) patty melt here which is basically an unusual burger.
+Korean cafe in Dogpatch that also serves food. They have a galbi (short rib) patty melt here which is basically an unusual burger. Visited here [[2026-05-16]] for burger and coffee.
 
 ![[PXL_20260516_164825179.jpg]]
 _So many seeds!_

@@ -1,10 +1,8 @@
 # Hazie's
 #publish 
-Opened [[2024-12-08]].
-
 _Part of a series on [[The best burger in the bay area]]._
 
-Fusion restaurant on Hayes Street. It's one block away from [[Chez Maman]] and two blocks away from [[Arbor]]!
+Fusion restaurant on Hayes Street. It's one block away from [[Chez Maman]] and two blocks away from [[Arbor]]! Visited/reviewed here on [[2024-12-08]].
 
 ![[Pasted image 20241209004632.png]]
 

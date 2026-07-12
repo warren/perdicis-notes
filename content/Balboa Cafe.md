@@ -1,10 +1,8 @@
 # Balboa Cafe
 #publish 
-Opened [[2025-W24|2025-06-13]].
-
 _Part of a series on [[The best burger in the bay area]]._
 
-Upscale bar in the Marina. The burger is called "Balboa burger on a baguette".
+Upscale bar in the Marina that I visited [[2025-W24|2025-06-13]]. The burger is called "Balboa burger on a baguette".
 
 Original price was $19 but I got it with Swiss and mushrooms which were +$2 each, for $23 total.
 

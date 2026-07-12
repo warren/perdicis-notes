@@ -1,10 +1,8 @@
 # RT Bistro
 #publish 
-Opened [[2026-03-09]]. 
-
 _Part of a series on [[The best burger in the bay area]]._
 
-Intimate (only 7-8 tables) bistro restaurant in Hayes Valley run by the chef-couple who owns Rich Table and RT Rotisserie. This is their third restaurant.
+Intimate (only 7-8 tables) bistro restaurant in Hayes Valley run by the chef-couple who owns Rich Table and RT Rotisserie. This is their third restaurant! Visited here [[2026-03-09]] with friends.
 
 ![[PXL_20260310_022744273.jpg]]
 _Those are some big fries_

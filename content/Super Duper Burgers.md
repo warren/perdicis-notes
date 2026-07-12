@@ -12,7 +12,7 @@ Ingredients-wise, totally unremarkable. The standard burger comprised double 1/4
 
 The patties were effectively cooked like smash burger patties. There's barely any rose color in the cross-section.
 
-The ketchup on tap was noticeably good! It was a middle ground with some texture that was between Heinz and Sir Kensington - closer to the latter than the former. This alone bumped the rating up like 0.75 pts. I'll set my final rating to a 5.5. It's quite good for a fast food burger. But I wouldn't seek it out to eat.
+The ketchup on tap was noticeably good! It was a middle ground with some texture that was between Heinz and Sir Kensington - closer to the latter than the former. This alone bumped the rating up like 0.75 pts. I'll set my final rating to a 5.25. It's quite good for a fast food burger. But I wouldn't seek it out to eat.
 
 The unfortunate part is that this was clearly a fast food burger which meant it was incredibly greasy. My hands were drenched afterwards and the bottom bun was soggy the whole time I ate. That's the main thing I didn't like but I think it's unchangeable given how they cook their patties and arrange ingredients.
 
