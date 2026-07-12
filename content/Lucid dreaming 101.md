@@ -6,7 +6,7 @@ _Related to [[Dreams]] (private page)._
 
 Lucid dreaming (LD) = being awake during a dream.
 
-It's wonderfully entertaining (you get superpowers) and is surprisingly low effort to learn (only 2 months for me).
+It's highly entertaining (you get superpowers) and surprisingly low effort to learn (only 2 months for me).
 
 Read on to learn how!
 
