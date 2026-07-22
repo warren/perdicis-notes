@@ -1,5 +1,5 @@
 ---
-aliases: Bro vs bro games, The master decathlon
+aliases: Bro vs bro games, The master decathlon, Wordles
 ---
 # The internet game decathlon
 #publish 

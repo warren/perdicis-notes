@@ -1,8 +1,23 @@
 # Stuff you the reader might like
 #publish 
-Opened [[2024-06-02]].
 
-I'm planning to [[Publishing this vault|publish Waulter]] soon and open my second brain to the internet. If you're reading this, I've done that! This page is a "meta page" containing links to fun pages you might enjoy reading. But the vast majority of pages in this pseudo-Wikipedia aren't linked here. Find them by exploring!
+Welcome to my Obsidian knowledge graph! It's like a bite-sized Wikipedia containing (some of) my thoughts and shareable evergreen notes.
+
+![[Screenshot 2026-07-21 at 5.11.56 PM~2.jpg]]
+
+I love discussing all the topics here, so have a look around and shoot me a message if you read anything that resonates. I would love to hear what you think!
+
+The page you're on now is a "meta page." It links out to other notable pages, such as...
+
+## Pages I'm fond of
+- [[The best burger in the bay area]]
+    - [[Warren's long burgers]]
+- [[Perdicis etymology]]
+- [[The cosmic computer]]
+- [[Reflections on Burning Man 2024]]
+- [[Blameless postmortems]]
+- [[Lucid dreaming 101]]
+- [[Excerpt from As We May Think]]
 
 ## Meta pages (pages of pages)
 - [[Musings]] (Meta-meta page)
@@ -13,16 +28,7 @@ I'm planning to [[Publishing this vault|publish Waulter]] soon and open my secon
 - [[My tech setups]]
 - [[Stuff I made]]
 
-## Pages I'm fond of
-- [[The best burger in the bay area]]
-    - [[Warren's long burgers]]
-- [[Perdicis etymology]]
-- [[The cosmic computer]]
-- [[Reflections on Burning Man 2024]]
-- [[Blameless postmortems]]
-- [[Lucid dreaming 101]]
-
-## Misc pages that friends might enjoy leafing through
+## Misc
 - [[The internet game decathlon]]
 - [[Event finder trifecta]]
 

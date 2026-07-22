@@ -7,7 +7,6 @@ Anyways the thought is that there's 3 songs that can measure how far you are int
 1) [Anti-Hero // Taylor Swift](https://youtu.be/gGwN25z7FrE)
     - Catchy.
     - Inoffensive.
-    - Good song.
 2) [Anti-Hero - ILLENIUM remix // Taylor Swift, ILLENIUM](https://youtu.be/nF4Jc9sPPug)
     - Catchy.
     - Inoffensive, provided you're not a diehard TSwift fan.
@@ -20,4 +19,4 @@ Anyways the thought is that there's 3 songs that can measure how far you are int
     - Just listen to the first 20 seconds.
 
 I made a Spotify playlist of these 3 songs for easy access: [click me](https://open.spotify.com/playlist/4sFN9grxrxoqXDVR5W4sS8)
-- UPDATE ([[2026-03-25]]): STFU has sadly removed the Taylor Swift soundbite on Spotify so the song doesn't make much sense anymore. You should listen to the [YouTube version](https://youtu.be/O8TxXLLd1fc) instead.
+- UPDATE ([[2026-03-25]]): STFU has sadly removed the Taylor Swift soundbite on Spotify so the song doesn't make much sense anymore... please listen to the [YouTube version](https://youtu.be/O8TxXLLd1fc) instead

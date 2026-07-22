@@ -23,6 +23,7 @@ To organize:
 - [[Excerpt from The Man in the Arena]]
 - [[Excerpt from The Dead]]
 - [[Modern art exists because of financial loopholes]] - the quote here about modernism
+- [[Excerpt from As We May Think]]
 
 ### Poetry
 - [Sonnet 19](https://www.poetryfoundation.org/poems/45088/sonnet-19-devouring-time-blunt-thou-the-lions-paws) - Shakespeare

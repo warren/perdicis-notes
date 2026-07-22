@@ -14,4 +14,4 @@ You should watch it first: https://youtu.be/4ld9EP5yAX4
 > 
 > In the past, I have made no secret of my disdain for Chef Gusteau's famous motto, "Anyone can cook." But I realize, only now do I truly understand what he meant. Not everyone can become a great artist; but a great artist *can* come from *anywhere*. It is difficult to imagine more humble origins than those of the genius now cooking at Gusteau's, who is, in this critic's opinion, nothing less than the finest chef in France. I will be returning to Gusteau's soon, hungry for more.
 
-It's a similar sentiment to Theodore Roosevelt's [[Excerpt from The Man in the Arena]], which I like.
+It's a similar sentiment to Theodore Roosevelt's [[Excerpt from The Man in the Arena]].
