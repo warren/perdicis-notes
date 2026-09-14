@@ -165,6 +165,9 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] Eyes wide shut - rec by Lily. Kubrick's final film before his murder/suicide
 - [ ] Sheep Detective
 - [ ] Fantasia 2000
+- [ ] The Invite - rec by Tim
+- [ ] blurring man - documentary now on C5 about an Argentinian guy's impressions of burning man as a total outsider to the culture. The BORG filed a lawsuit against this movie
+- [ ] mickey 17
 
 
 ### Trash movies to watch while multitasking
@@ -182,3 +185,5 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - bone temple
 - wonder man
 - Barry (show)
+- Buddy (horror Barney 2026)
+- 

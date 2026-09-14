@@ -33,4 +33,6 @@ Regarding [Glen Canyon Park](https://maps.app.goo.gl/E3t5GEK2LcDETFoP9) (see: [[
 - 1889: Became an amusement park, with tightropes and hot air balloon rides and baseball diamonds which were rented out for corporate events. Kids eventually had to stop coming because the company parties were so boistrous.
 - 1922: The city of San Francisco bought the land, turning it into a park.
 
-
+- TODO FROM [[2026-09-08]], see text with kell
+    - all consistent apple types are grafted
+    - Vegetables are hella inbred

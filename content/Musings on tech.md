@@ -21,10 +21,12 @@ Bite-sized
 - [[Tech team traditions]]
 - [[Good alert best practices]]
 - [[USB-C More than you wanted to know|USB-C: More than you wanted to know]]
+
 ## Unwritten
 - [[S2 cells]]
 - [[Post-truth media]]
 - [[TCP handshake]]
 - [[Technical postmortems]]
 - [[SLOs]]
+- [[Cattle not Pets]]
 
