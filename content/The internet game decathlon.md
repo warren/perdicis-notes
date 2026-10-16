@@ -48,6 +48,7 @@ _(!) = personal favorites_
 - https://semantical.fun/ - like an easier multiple choice version of Linxicon but with a hidden destination
 - https://raddle.quest - solve quiz-style questions vertically down and up a "ladder" of questions, and each answer provides the starting point for the next question
 - https://neal.fun/password-game - game about creating a password that fits wacky criteria
+- [Colorfle](https://colorfle.com) - guess the combination of colors that produces an output color
 - Word cloud association graph puzzle game hosted at the Google Games for a few years ~201X. It's referenced in [this](https://ericbai.co/making-connect-the-stars#heading-inspiration) blog post but never named. I'm not sure if it was a private game or if it was ever made public. If you know what I'm talking about, please contact me!
 
 ### Wordle variants
@@ -55,7 +56,7 @@ _(!) = personal favorites_
 - [Dordle](https://zaratustra.itch.io/dordle)/[Quordle](https://www.quordle.com/)/[Octordle](https://octordle.com/)/[Sedecorle](https://sedecordle.com/)/[Kilordle](https://jonesnxt.github.io/kilordle/) - 2/4/8/16/1000 Wordles simultaneously!!
 - [Adoptle](https://tryhardguides.com/adoptle/) - Guess the name of the (real) dog you can adopt
 - [Angle](https://angle.wtf/) - Guess the geometric angle
-- [Boardle](https://playboardle.com/) - Guess the 5 optimal chess moves
+- [Boardle](https://playboardle.com/) - Guess the 5 optimal chess move
 - (!) [Costcodle](https://costcodle.com/) - Guess the price of the Costco product
 - [Cutle](https://pfiffel.com/cutle/) - Cut the shape exactly in half
 - (!) [Factle](https://factle.app/) - Rank the trivia options in the right order

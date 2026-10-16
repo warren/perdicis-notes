@@ -3,7 +3,7 @@
 
 large batch
 - [[Double Chicken Please No. 10|double chicken please 10]] - oolong, winter melon, lemon, mezcal*
-- more tbd
+- harvest moon mule - ginger beer, cider, citrus, whiskey
 
 small batch
 - [[Sage Advice|sage advice]] - green chartreuse, lime, gin*, sage, simple

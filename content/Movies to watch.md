@@ -12,10 +12,10 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 
 -   [x] Spider-man into the spiderverse
 -   [x] Shaolin Soccer
--   [ ] 3 billboards outside Evving Missouri
+-   [x] 3 billboards outside Ebbing Missouri
 -   [x] The Departed
 -   [x] Good Will hunting
--   [ ] No Country for Old Men
+-   [x] No Country for Old Men
 -   [x] In Bruges
 -   [ ] Oldboy 2003 version with subtitles (Korean)
 -   [x] Unbreakable
@@ -69,13 +69,12 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [x] O brother where art thou
 - [ ] [Invasion of the Body Snatchers](https://www.sfgate.com/streaming-columns-culture/article/sf-1970s-sci-fi-movie-body-snatchers-16838615.php)
 - [x] The emperor's new groove
-- [ ] [After Yang](https://youtu.be/Kwp32zLc08c)
 - [ ] Icarus - 92% rotten tomatoes, explains the Russian doping scandal. On Netflix. Academy award for best documentary 2018.
 - [x] the French dispatch - wes Anderson film
 - [ ] Hamlet a24
 - [ ] primer (big brain time travel movie)
 - [x] ex machina (from [this](https://www.reddit.com/r/ifyoulikeblank/comments/tjo6cj/what_would_i_like_if_these_are_my_favorite_movies) Reddit thread)
-- [ ] Where the Crawdads sing (new Sony pictures film)
+- [ ] Where the Crawdads sing (new Sony pictures film... woah remarkably low tomatoes score)
 - [ ] McCartney 3, 2, 1 (rec from William the Lyft driver, it's a series of interviews where Rick Rubin asks Paul about his work with a focus on studio recordings)
 - [ ] Our Great National Parks - Obama-narrated documentary about national parks.
 - [ ] American Factory: A Conversation with the Obamas - rec from chunyi. Won an Oscar for best documentary. On Netflix. It's about how storytelling is important.
@@ -92,8 +91,6 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] RRR - Tollywood movie with some ridiculous action sequences. Rec from Tim and Jonathan
 - [ ] Stalker - Original inspiration for stalker video game. Rec from Tim
 - [x] Paddington 2 - Rec from Jonathan. Don't even watch Paddington 1, he says
-- [ ] raising Arizona
-- [ ] blood simple ^ above raising Arizona - rec from dad 
 - [ ] catwalk 1 and 2, on canopy (library service) - rec by Jenny. Delves into the weird life of professional cat show attendees. The second one involves crime??
 - [ ] Mad god - stop motion horror that took many years to develop
 - [ ] idk the name - Japanese show where a guy travels to new place each day, is allotted 1 Instagram post, and receives money equivalent to how many likes he gets. So the show is about him getting by day to day in foreign countries. Rec from jihai on [[2023-06-15]]
@@ -148,14 +145,12 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [x] the departed
 - [ ] The talented mr Ripley
 - [x] drive - action movie
-- [ ] a beautiful mind
 - [ ] black swan
 - [ ] house of dynamite - rec by Anthony. It's sort of what he does
 - [x] Henry sugar
 - [ ] marty supreme
 - [x] project hail mary
 - [x] Moon (2009)
-- [ ] city of God
 - [x] The covenant
 - [x] Looper
 - [ ] Uncut gems
@@ -167,7 +162,15 @@ Simpsons in descending order of quality: https://www.imdb.com/list/ls076621282/
 - [ ] Fantasia 2000
 - [ ] The Invite - rec by Tim
 - [ ] blurring man - documentary now on C5 about an Argentinian guy's impressions of burning man as a total outsider to the culture. The BORG filed a lawsuit against this movie
-- [ ] mickey 17
+- [x] mickey 17
+- [ ] Your Mother Your Mother Your Mother
+- [ ] He Don't Miss (gianmarco soresi) - basically lots of crowdwork standup
+- [ ] a beautiful mind
+- [ ] city of God
+- [x] blood simple ^ above raising Arizona - rec from dad 
+- [ ] raising Arizona - young nick cafe
+- [ ] [After Yang](https://youtu.be/Kwp32zLc08c)
+- [ ] Tony - biopic. Tell Chris what I thought
 
 
 ### Trash movies to watch while multitasking

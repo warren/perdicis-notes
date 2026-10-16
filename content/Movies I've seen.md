@@ -147,13 +147,17 @@ _I feel short films are rather formulaic but shrug_
     - It gave me a weird game-ified sensation where I was certain there was meaning/symbolism buried everywhere, and I struggled to find it, but that felt good because the director was _not_ going to handhold. Lots of unexpected turns and I felt invested in the characters
 - The Wonderful Story of Henry Sugar (British equivalent of The Ballad of Buster Scruggs)
 - The Ballad of Buster Scruggs (American equivalent of The Wonderful Story of Henry Sugar)
+- Obsession
 - Chuck Steel: Night of the Trampires
+- Mickey 17
+- [[Three Billboards Outside Ebbing Missouri]]
+    - The most Cohen Bros film I've seen that isn't actually a Cohen Bros film
 
 
 ## Movies I've seen _and strongly recommend_
 Movies
 - Exit Through the Gift Shop
-    - Currently (as of 2024) my favorite film of all time. _Ask me for the pitch on this film_. The trailer and online summaries totally fail to explain how unlikely and cool it .
+    - Currently (as of 2024) my favorite film of all time. _Ask me for the pitch on this film_. The trailer and online summaries totally fail to explain how unlikely and cool it is.
 - Apollo 11 (CNN film)
     - Pure vibes. Real footage of the Apollo moon landing, lost for decades, then regraded and upscaled and turned into a dramamentary.
 - Good Will Hunting

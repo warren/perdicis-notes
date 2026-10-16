@@ -21,6 +21,7 @@ Opened [[2023-12-07]] but I should have done it way sooner. Related to [[Poetry 
 - https://isotropic.org/papers/chicken.pdf
 - [ACX: Every Bay Area House Party](https://www.astralcodexten.com/p/every-bay-area-house-party) - Scott Alexander's magnum opus
 - [University of Nebraska-Lincoln: Statics of cow tipping](http://emweb.unl.edu/Mechanics-Pages/Matt-Semke/The%20Statics%20of%20Cow%20Tipping.htm)
+- [Rent-a-dog treadmill machine](https://timhunkin.com/a109_rentadog.htm)
 
 ### Neat
 - [I Tracked Every Single Thing I Ate for a Full Year.](https://medium.com/@mikebechtel/i-tracked-every-single-thing-i-ate-for-a-full-year-here-are-10-quick-a-has-2c259dd2f57b?source=friends_link&sk=ed6113272876d866eeaa23ec05415495)
